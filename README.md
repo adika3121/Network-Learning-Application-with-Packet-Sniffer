@@ -3,10 +3,23 @@ This app let you translate data packet in network with natural language. It's us
 
 ## Instalation
 To install this program you need to install Python and use Python IDE like Pycharm. 
-...
+
+```
 https://www.jetbrains.com/pycharm/
-...
+```
 
-Then i recommend you to use Python 3.6 as Project Intepreter. You can change it on the setting of your IDE. 
+Then i recommend you to use Python 3.6 as Project Intepreter. You can change it on the setting of your IDE. After that in terminal run this command to install some modules needed.
 
+```
+pip install psutil
+pip install scapy
+pip install mysql-connector
+pip install PyQt5
+```
+Then install the database using MySql. Sql Dump locate in
+- resource
+  - Database
+    - **db_app.sql**
+
+Run the program in your IDE and Enjoy :)
 
