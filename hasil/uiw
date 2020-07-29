@@ -1,0 +1,3 @@
+[DNS]	 Pengguna dengan IP 192.168.1.70 mencoba mengakses b'_companion-link._tcp.local.' yang beralamat pada IP  224.0.0.251
+[DNS]	 Pengguna dengan IP 192.168.1.70 mencoba mengakses b'_companion-link._tcp.local.' yang beralamat pada IP  224.0.0.251
+[UDP]	 Pengguna dengan IP 192.168.70.106 mengirimkan data kepada IP 192.168.70.255 dari port 54915 menuju port 54915 dengan data sebesar 271 bytes

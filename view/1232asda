@@ -1,0 +1,13 @@
+[ARP]	 Waktu 04/17/2020, 14:51:35IP192.168.1.1bertanya siapa pemilik perangkat dengan IP192.168.1.4
+[ARP]	 Waktu 04/17/2020, 14:51:35IP192.168.1.4merupakan pemilik dari perangkatc0:25:e9:2f:6e:c3
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 23.195.241.195 diakui dengan mengirim nilai ACK 694709992 ke IP 192.168.1.4
+[TCP <ACK>]	 Permintaan koneksi dari IP 23.195.241.195 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 1046257543 ke IP 23.195.241.195
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 23.195.241.195 diakui dengan mengirim nilai ACK 697254412 ke IP 192.168.1.4
+[TCP <ACK>]	 Permintaan koneksi dari IP 23.195.241.195 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 2029533740 ke IP 23.195.241.195
+[TCP <ACK>]	 Permintaan koneksi dari IP 119.81.99.200 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 4262050079 ke IP 119.81.99.200
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 119.81.99.200 diakui dengan mengirim nilai ACK 3030662865 ke IP 192.168.1.4
+[TCP <ACK>]	 Permintaan koneksi dari IP 40.90.185.223 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 2411134100 ke IP 40.90.185.223
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 40.90.185.223 diakui dengan mengirim nilai ACK 3052830843 ke IP 192.168.1.4
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 153.254.86.181 diakui dengan mengirim nilai ACK 3448490684 ke IP 192.168.1.4 kemudian data dari 192.168.1.4 harus segera dikirimkan kepada IP 153.254.86.181
+[TCP <ACK>]	 Permintaan koneksi dari IP 153.254.86.181 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 980661417 ke IP 153.254.86.181
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 23.221.78.239 diakui dengan mengirim nilai ACK 543395021 ke IP 192.168.1.4

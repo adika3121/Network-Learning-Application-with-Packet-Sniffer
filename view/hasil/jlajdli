@@ -1,0 +1,3 @@
+[UDP]	 Pengguna dengan IP 192.168.1.5 mengirimkan data kepada IP 239.255.255.250 dari port 59701 menuju port 1900 dengan data sebesar 134 bytes
+[DNS]	 Pengguna dengan IP 192.168.1.5 mencoba mengakses b'_spotify-connect._tcp.local.' yang beralamat pada IP  224.0.0.251
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 2631041533 ke IP 192.168.1.5

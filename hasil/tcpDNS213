@@ -1,0 +1,11 @@
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 35.224.99.156 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 2266274299 ke IP 35.224.99.156 kemudian IP 35.224.99.156 mencoba membuat koneksi baru dengan IP 192.168.76.225 dengan nilai SYN 2684035037
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 35.224.99.156 diakui dengan mengirim nilai ACK 2684035038 ke IP 192.168.76.225
+[TCP <HTTP>]	 Perangkat 192.168.76.225 melakukan request connectivity-check.ubuntu.com/ dengan method GET
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 35.224.99.156 diakui dengan mengirim nilai ACK 2684035038 ke IP 192.168.76.225 kemudian data dari 192.168.76.225 harus segera dikirimkan kepada IP 35.224.99.156
+[TCP <ACK>]	 Permintaan koneksi dari IP 35.224.99.156 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 2266274386 ke IP 35.224.99.156
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 35.224.99.156 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 2266274386 ke IP 35.224.99.156 kemudian data dari 35.224.99.156 harus segera dikirimkan kepada IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 35.224.99.156 diakui dengan mengirim nilai ACK 2684035186 ke IP 192.168.76.225
+[TCP <FIN+ACK>]	 Koneksi antara IP 35.224.99.156 dengan IP 192.168.76.225 berakhir dengan mengirim nilai ACK 2266274386
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.76.225 dengan IP 35.224.99.156 berakhir dengan mengirim nilai ACK 2684035187
+[TCP <ACK>]	 Permintaan koneksi dari IP 35.224.99.156 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 2266274387 ke IP 35.224.99.156
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 172.217.194.156 diakui dengan mengirim nilai ACK 4289482687 ke IP 192.168.76.225 kemudian data dari 192.168.76.225 harus segera dikirimkan kepada IP 172.217.194.156

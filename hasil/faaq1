@@ -1,0 +1,2 @@
+[TCP <SYN>]	 Pengguna dengan IP 100.69.77.85 mencoba membuat koneksi baru dengan IP 35.222.85.5 dengan mengirim nilai SYN 2657355858 ke IP 35.222.85.5
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 35.222.85.5 kepada IP 100.69.77.85 diakui dengan mengirim nilai ACK 2657355859 ke IP 35.222.85.5 kemudian IP 35.222.85.5 mencoba membuat koneksi baru dengan IP 100.69.77.85 dengan nilai SYN 792261685

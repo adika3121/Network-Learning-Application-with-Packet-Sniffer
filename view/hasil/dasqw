@@ -1,0 +1,16 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.0.223 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 1443332477 ke IP 151.101.0.223
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 151.101.0.223 diakui dengan mengirim nilai ACK 2019215541 ke IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.0.223 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 1443332477 ke IP 151.101.0.223
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 151.101.0.223 diakui dengan mengirim nilai ACK 2019315729 ke IP 192.168.1.6
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 23.221.77.48 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 3179351047 ke IP 23.221.77.48 kemudian data dari 23.221.77.48 harus segera dikirimkan kepada IP 192.168.1.6
+[TCP <FIN+ACK>]	 Koneksi antara IP 23.221.77.48 dengan IP 192.168.1.6 berakhir dengan mengirim nilai ACK 3179351047
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.0.223 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 1443332477 ke IP 151.101.0.223
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 151.101.0.223 diakui dengan mengirim nilai ACK 2019322989 ke IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.0.223 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 1443332477 ke IP 151.101.0.223
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.0.223 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 1443332477 ke IP 151.101.0.223
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 151.101.0.223 diakui dengan mengirim nilai ACK 2019325893 ke IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.0.223 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 1443332477 ke IP 151.101.0.223
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 151.101.0.223 diakui dengan mengirim nilai ACK 2019325893 ke IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.0.223 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 1443332477 ke IP 151.101.0.223
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 151.101.0.223 diakui dengan mengirim nilai ACK 2019325893 ke IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.0.223 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 1443332477 ke IP 151.101.0.223

@@ -1,0 +1,6 @@
+[DNS]	 Pengguna dengan IP 192.168.1.6 mencoba mengakses b'incoming.telemetry.mozilla.org.' yang beralamat pada IP  118.98.44.100
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.6 mencoba membuat koneksi baru dengan IP 52.35.81.173 dengan mengirim nilai SYN 2330414934 ke IP 52.35.81.173
+[DNS]	 Pengguna dengan IP 192.168.1.6 mencoba mengakses b'pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com.' yang beralamat pada IP  118.98.44.100
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 52.35.81.173 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 2330414935 ke IP 52.35.81.173 kemudian IP 52.35.81.173 mencoba membuat koneksi baru dengan IP 192.168.1.6 dengan nilai SYN 1957909968
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 52.35.81.173 diakui dengan mengirim nilai ACK 1957909969 ke IP 192.168.1.6
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 52.35.81.173 diakui dengan mengirim nilai ACK 1957909969 ke IP 192.168.1.6 kemudian data dari 192.168.1.6 harus segera dikirimkan kepada IP 52.35.81.173

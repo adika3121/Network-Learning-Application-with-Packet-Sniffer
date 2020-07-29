@@ -1,0 +1,10 @@
+[UDP]	 Pengguna dengan IP 192.168.1.8 mengirimkan data kepada IP 239.255.255.250 dari port 55252 menuju port 1900 dengan data sebesar 179 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.8 mengirimkan data kepada IP 239.255.255.250 dari port 55252 menuju port 1900 dengan data sebesar 179 bytes
+[TCP <FIN+ACK>]	 Koneksi antara IP 52.248.89.84 dengan IP 192.168.1.8 berakhir dengan mengirim nilai ACK 2804160376
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 52.248.89.84 diakui dengan mengirim nilai ACK 1517315301 ke IP 192.168.1.8
+[UDP]	 Pengguna dengan IP 192.168.1.8 mengirimkan data kepada IP 239.255.255.250 dari port 55252 menuju port 1900 dengan data sebesar 179 bytes
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 72.34.250.78 diakui dengan mengirim nilai ACK 1014218506ke IP192.168.1.8 namun perangkat dengan IP 72.34.250.78 tidak sedang menunggu koneksi dari IP 192.168.1.8 sehingga koneksi dibatalkan
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.8 dengan IP 52.248.89.84 berakhir dengan mengirim nilai ACK 1517315301
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.8 dengan IP 157.230.197.205 berakhir dengan mengirim nilai ACK 2637587525
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 103.43.90.19 diakui dengan mengirim nilai ACK 2376536185ke IP192.168.1.8 namun perangkat dengan IP 103.43.90.19 tidak sedang menunggu koneksi dari IP 192.168.1.8 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 52.94.232.32 diakui dengan mengirim nilai ACK 2565545821ke IP192.168.1.8 namun perangkat dengan IP 52.94.232.32 tidak sedang menunggu koneksi dari IP 192.168.1.8 sehingga koneksi dibatalkan

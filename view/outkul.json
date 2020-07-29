@@ -1,0 +1,427 @@
+[
+  {
+    "_index": "packets-2020-06-26",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame": {
+          "frame.encap_type": "1",
+          "frame.time": "Jun 26, 2020 12:03:56.868709000 Malay Peninsula Standard Time",
+          "frame.offset_shift": "0.000000000",
+          "frame.time_epoch": "1593144236.868709000",
+          "frame.time_delta": "0.000000000",
+          "frame.time_delta_displayed": "0.000000000",
+          "frame.time_relative": "0.000000000",
+          "frame.number": "1",
+          "frame.len": "74",
+          "frame.cap_len": "74",
+          "frame.marked": "0",
+          "frame.ignored": "0",
+          "frame.protocols": "eth:ethertype:ip:icmp:data"
+        },
+        "eth": {
+          "eth.dst": "c2:87:eb:40:f2:2f",
+          "eth.dst_tree": {
+            "eth.dst_resolved": "c2:87:eb:40:f2:2f",
+            "eth.dst.oui": "12748779",
+            "eth.addr": "c2:87:eb:40:f2:2f",
+            "eth.addr_resolved": "c2:87:eb:40:f2:2f",
+            "eth.addr.oui": "12748779",
+            "eth.dst.lg": "1",
+            "eth.lg": "1",
+            "eth.dst.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.src": "4c:bb:58:a4:b8:8e",
+          "eth.src_tree": {
+            "eth.src_resolved": "ChiconyE_a4:b8:8e",
+            "eth.src.oui": "5028696",
+            "eth.src.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.addr": "4c:bb:58:a4:b8:8e",
+            "eth.addr_resolved": "ChiconyE_a4:b8:8e",
+            "eth.addr.oui": "5028696",
+            "eth.addr.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.src.lg": "0",
+            "eth.lg": "0",
+            "eth.src.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.type": "0x00000800"
+        },
+        "ip": {
+          "ip.version": "4",
+          "ip.hdr_len": "20",
+          "ip.dsfield": "0x00000000",
+          "ip.dsfield_tree": {
+            "ip.dsfield.dscp": "0",
+            "ip.dsfield.ecn": "0"
+          },
+          "ip.len": "60",
+          "ip.id": "0x000003f4",
+          "ip.flags": "0x00000000",
+          "ip.flags_tree": {
+            "ip.flags.rb": "0",
+            "ip.flags.df": "0",
+            "ip.flags.mf": "0"
+          },
+          "ip.frag_offset": "0",
+          "ip.ttl": "128",
+          "ip.proto": "1",
+          "ip.checksum": "0x00003add",
+          "ip.checksum.status": "2",
+          "ip.src": "192.168.43.56",
+          "ip.addr": "192.168.43.56",
+          "ip.src_host": "192.168.43.56",
+          "ip.host": "192.168.43.56",
+          "ip.dst": "8.8.8.8",
+          "ip.addr": "8.8.8.8",
+          "ip.dst_host": "8.8.8.8",
+          "ip.host": "8.8.8.8"
+        },
+        "icmp": {
+          "icmp.type": "8",
+          "icmp.code": "0",
+          "icmp.checksum": "0x000001be",
+          "icmp.checksum.status": "1",
+          "icmp.ident": "1",
+          "icmp.ident": "256",
+          "icmp.seq": "19357",
+          "icmp.seq_le": "40267",
+          "data": {
+            "data.data": "61:62:63:64:65:66:67:68:69:6a:6b:6c:6d:6e:6f:70:71:72:73:74:75:76:77:61:62:63:64:65:66:67:68:69",
+            "data.len": "32"
+          }
+        }
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-06-26",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame": {
+          "frame.encap_type": "1",
+          "frame.time": "Jun 26, 2020 12:04:01.858873000 Malay Peninsula Standard Time",
+          "frame.offset_shift": "0.000000000",
+          "frame.time_epoch": "1593144241.858873000",
+          "frame.time_delta": "4.990164000",
+          "frame.time_delta_displayed": "4.990164000",
+          "frame.time_relative": "4.990164000",
+          "frame.number": "2",
+          "frame.len": "74",
+          "frame.cap_len": "74",
+          "frame.marked": "0",
+          "frame.ignored": "0",
+          "frame.protocols": "eth:ethertype:ip:icmp:data"
+        },
+        "eth": {
+          "eth.dst": "c2:87:eb:40:f2:2f",
+          "eth.dst_tree": {
+            "eth.dst_resolved": "c2:87:eb:40:f2:2f",
+            "eth.dst.oui": "12748779",
+            "eth.addr": "c2:87:eb:40:f2:2f",
+            "eth.addr_resolved": "c2:87:eb:40:f2:2f",
+            "eth.addr.oui": "12748779",
+            "eth.dst.lg": "1",
+            "eth.lg": "1",
+            "eth.dst.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.src": "4c:bb:58:a4:b8:8e",
+          "eth.src_tree": {
+            "eth.src_resolved": "ChiconyE_a4:b8:8e",
+            "eth.src.oui": "5028696",
+            "eth.src.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.addr": "4c:bb:58:a4:b8:8e",
+            "eth.addr_resolved": "ChiconyE_a4:b8:8e",
+            "eth.addr.oui": "5028696",
+            "eth.addr.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.src.lg": "0",
+            "eth.lg": "0",
+            "eth.src.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.type": "0x00000800"
+        },
+        "ip": {
+          "ip.version": "4",
+          "ip.hdr_len": "20",
+          "ip.dsfield": "0x00000000",
+          "ip.dsfield_tree": {
+            "ip.dsfield.dscp": "0",
+            "ip.dsfield.ecn": "0"
+          },
+          "ip.len": "60",
+          "ip.id": "0x000003f5",
+          "ip.flags": "0x00000000",
+          "ip.flags_tree": {
+            "ip.flags.rb": "0",
+            "ip.flags.df": "0",
+            "ip.flags.mf": "0"
+          },
+          "ip.frag_offset": "0",
+          "ip.ttl": "128",
+          "ip.proto": "1",
+          "ip.checksum": "0x00003adc",
+          "ip.checksum.status": "2",
+          "ip.src": "192.168.43.56",
+          "ip.addr": "192.168.43.56",
+          "ip.src_host": "192.168.43.56",
+          "ip.host": "192.168.43.56",
+          "ip.dst": "8.8.8.8",
+          "ip.addr": "8.8.8.8",
+          "ip.dst_host": "8.8.8.8",
+          "ip.host": "8.8.8.8"
+        },
+        "icmp": {
+          "icmp.type": "8",
+          "icmp.code": "0",
+          "icmp.checksum": "0x000001bd",
+          "icmp.checksum.status": "1",
+          "icmp.ident": "1",
+          "icmp.ident": "256",
+          "icmp.seq": "19358",
+          "icmp.seq_le": "40523",
+          "data": {
+            "data.data": "61:62:63:64:65:66:67:68:69:6a:6b:6c:6d:6e:6f:70:71:72:73:74:75:76:77:61:62:63:64:65:66:67:68:69",
+            "data.len": "32"
+          }
+        }
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-06-26",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame": {
+          "frame.encap_type": "1",
+          "frame.time": "Jun 26, 2020 12:04:01.862838000 Malay Peninsula Standard Time",
+          "frame.offset_shift": "0.000000000",
+          "frame.time_epoch": "1593144241.862838000",
+          "frame.time_delta": "0.003965000",
+          "frame.time_delta_displayed": "0.003965000",
+          "frame.time_relative": "4.994129000",
+          "frame.number": "3",
+          "frame.len": "102",
+          "frame.cap_len": "102",
+          "frame.marked": "0",
+          "frame.ignored": "0",
+          "frame.protocols": "eth:ethertype:ip:icmp:ip:icmp:data"
+        },
+        "eth": {
+          "eth.dst": "4c:bb:58:a4:b8:8e",
+          "eth.dst_tree": {
+            "eth.dst_resolved": "ChiconyE_a4:b8:8e",
+            "eth.dst.oui": "5028696",
+            "eth.dst.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.addr": "4c:bb:58:a4:b8:8e",
+            "eth.addr_resolved": "ChiconyE_a4:b8:8e",
+            "eth.addr.oui": "5028696",
+            "eth.addr.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.dst.lg": "0",
+            "eth.lg": "0",
+            "eth.dst.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.src": "c2:87:eb:40:f2:2f",
+          "eth.src_tree": {
+            "eth.src_resolved": "c2:87:eb:40:f2:2f",
+            "eth.src.oui": "12748779",
+            "eth.addr": "c2:87:eb:40:f2:2f",
+            "eth.addr_resolved": "c2:87:eb:40:f2:2f",
+            "eth.addr.oui": "12748779",
+            "eth.src.lg": "1",
+            "eth.lg": "1",
+            "eth.src.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.type": "0x00000800"
+        },
+        "ip": {
+          "ip.version": "4",
+          "ip.hdr_len": "20",
+          "ip.dsfield": "0x000000c0",
+          "ip.dsfield_tree": {
+            "ip.dsfield.dscp": "48",
+            "ip.dsfield.ecn": "0"
+          },
+          "ip.len": "88",
+          "ip.id": "0x0000bfa0",
+          "ip.flags": "0x00000000",
+          "ip.flags_tree": {
+            "ip.flags.rb": "0",
+            "ip.flags.df": "0",
+            "ip.flags.mf": "0"
+          },
+          "ip.frag_offset": "0",
+          "ip.ttl": "64",
+          "ip.proto": "1",
+          "ip.checksum": "0x0000e2ba",
+          "ip.checksum.status": "2",
+          "ip.src": "192.168.43.1",
+          "ip.addr": "192.168.43.1",
+          "ip.src_host": "192.168.43.1",
+          "ip.host": "192.168.43.1",
+          "ip.dst": "192.168.43.56",
+          "ip.addr": "192.168.43.56",
+          "ip.dst_host": "192.168.43.56",
+          "ip.host": "192.168.43.56"
+        },
+        "icmp": {
+          "icmp.type": "3",
+          "icmp.code": "0",
+          "icmp.checksum": "0x0000fcff",
+          "icmp.checksum.status": "1",
+          "icmp.unused": "00:00:00:00",
+          "ip": {
+            "ip.version": "4",
+            "ip.hdr_len": "20",
+            "ip.dsfield": "0x00000000",
+            "ip.dsfield_tree": {
+              "ip.dsfield.dscp": "0",
+              "ip.dsfield.ecn": "0"
+            },
+            "ip.len": "60",
+            "ip.id": "0x000003f5",
+            "ip.flags": "0x00000000",
+            "ip.flags_tree": {
+              "ip.flags.rb": "0",
+              "ip.flags.df": "0",
+              "ip.flags.mf": "0"
+            },
+            "ip.frag_offset": "0",
+            "ip.ttl": "128",
+            "ip.proto": "1",
+            "ip.checksum": "0x00003adc",
+            "ip.checksum.status": "2",
+            "ip.src": "192.168.43.56",
+            "ip.addr": "192.168.43.56",
+            "ip.src_host": "192.168.43.56",
+            "ip.host": "192.168.43.56",
+            "ip.dst": "8.8.8.8",
+            "ip.addr": "8.8.8.8",
+            "ip.dst_host": "8.8.8.8",
+            "ip.host": "8.8.8.8"
+          },
+          "icmp": {
+            "icmp.type": "8",
+            "icmp.code": "0",
+            "icmp.checksum": "0x000001bd",
+            "icmp.checksum.status": "2",
+            "icmp.ident": "1",
+            "icmp.ident": "256",
+            "icmp.seq": "19358",
+            "icmp.seq_le": "40523",
+            "data": {
+              "data.data": "61:62:63:64:65:66:67:68:69:6a:6b:6c:6d:6e:6f:70:71:72:73:74:75:76:77:61:62:63:64:65:66:67:68:69",
+              "data.len": "32"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-06-26",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame": {
+          "frame.encap_type": "1",
+          "frame.time": "Jun 26, 2020 12:04:02.864322000 Malay Peninsula Standard Time",
+          "frame.offset_shift": "0.000000000",
+          "frame.time_epoch": "1593144242.864322000",
+          "frame.time_delta": "1.001484000",
+          "frame.time_delta_displayed": "1.001484000",
+          "frame.time_relative": "5.995613000",
+          "frame.number": "4",
+          "frame.len": "74",
+          "frame.cap_len": "74",
+          "frame.marked": "0",
+          "frame.ignored": "0",
+          "frame.protocols": "eth:ethertype:ip:icmp:data"
+        },
+        "eth": {
+          "eth.dst": "c2:87:eb:40:f2:2f",
+          "eth.dst_tree": {
+            "eth.dst_resolved": "c2:87:eb:40:f2:2f",
+            "eth.dst.oui": "12748779",
+            "eth.addr": "c2:87:eb:40:f2:2f",
+            "eth.addr_resolved": "c2:87:eb:40:f2:2f",
+            "eth.addr.oui": "12748779",
+            "eth.dst.lg": "1",
+            "eth.lg": "1",
+            "eth.dst.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.src": "4c:bb:58:a4:b8:8e",
+          "eth.src_tree": {
+            "eth.src_resolved": "ChiconyE_a4:b8:8e",
+            "eth.src.oui": "5028696",
+            "eth.src.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.addr": "4c:bb:58:a4:b8:8e",
+            "eth.addr_resolved": "ChiconyE_a4:b8:8e",
+            "eth.addr.oui": "5028696",
+            "eth.addr.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.src.lg": "0",
+            "eth.lg": "0",
+            "eth.src.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.type": "0x00000800"
+        },
+        "ip": {
+          "ip.version": "4",
+          "ip.hdr_len": "20",
+          "ip.dsfield": "0x00000000",
+          "ip.dsfield_tree": {
+            "ip.dsfield.dscp": "0",
+            "ip.dsfield.ecn": "0"
+          },
+          "ip.len": "60",
+          "ip.id": "0x000003f6",
+          "ip.flags": "0x00000000",
+          "ip.flags_tree": {
+            "ip.flags.rb": "0",
+            "ip.flags.df": "0",
+            "ip.flags.mf": "0"
+          },
+          "ip.frag_offset": "0",
+          "ip.ttl": "128",
+          "ip.proto": "1",
+          "ip.checksum": "0x00003adb",
+          "ip.checksum.status": "2",
+          "ip.src": "192.168.43.56",
+          "ip.addr": "192.168.43.56",
+          "ip.src_host": "192.168.43.56",
+          "ip.host": "192.168.43.56",
+          "ip.dst": "8.8.8.8",
+          "ip.addr": "8.8.8.8",
+          "ip.dst_host": "8.8.8.8",
+          "ip.host": "8.8.8.8"
+        },
+        "icmp": {
+          "icmp.type": "8",
+          "icmp.code": "0",
+          "icmp.checksum": "0x000001bc",
+          "icmp.checksum.status": "1",
+          "icmp.ident": "1",
+          "icmp.ident": "256",
+          "icmp.seq": "19359",
+          "icmp.seq_le": "40779",
+          "data": {
+            "data.data": "61:62:63:64:65:66:67:68:69:6a:6b:6c:6d:6e:6f:70:71:72:73:74:75:76:77:61:62:63:64:65:66:67:68:69",
+            "data.len": "32"
+          }
+        }
+      }
+    }
+  }
+]

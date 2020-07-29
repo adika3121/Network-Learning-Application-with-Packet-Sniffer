@@ -1,0 +1,3 @@
+[UDP]	 Pengguna dengan IP 36.92.233.205 mengirimkan data kepada IP 192.168.1.47 dari port 443 menuju port 51848 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.47 mengirimkan data kepada IP 36.92.233.205 dari port 51848 menuju port 443 dengan data sebesar 50 bytes
+[UDP]	 Pengguna dengan IP 36.92.233.205 mengirimkan data kepada IP 192.168.1.47 dari port 443 menuju port 51848 dengan data sebesar 1358 bytes

@@ -1,0 +1,27 @@
+<RCC>
+
+  <qresource prefix="tcp">
+    <file>tcp.PNG</file>
+  </qresource>
+  <qresource prefix="dns">
+    <file>dns.PNG</file>
+  </qresource>
+  <qresource prefix="udp">
+    <file>udp.PNG</file>
+  </qresource>
+  <qresource prefix="packet_icmp">
+    <file>icmp.PNG</file>
+    <file>paket icmo.PNG</file>
+  </qresource>
+  <qresource prefix="packet_arp">
+    <file>arp.PNG</file>
+    <file>ARP paket.PNG</file>
+  </qresource>
+  <qresource prefix="dhcp">
+    <file>dhcp.PNG</file>
+  </qresource>
+  <qresource prefix="http">
+    <file>http.PNG</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>

@@ -1,0 +1,2 @@
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 195.201.196.144 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 1322807771 ke IP 195.201.196.144 kemudian data dari 195.201.196.144 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <FIN+ACK>]	 Koneksi antara IP 195.201.196.144 dengan IP 192.168.1.8 berakhir dengan mengirim nilai ACK 1322807771

@@ -1,0 +1,5 @@
+[DNS]	 Pengguna dengan IP 172.16.54.65 mencoba mengakses b'HP LaserJet P2015 Series @ vlsmac23 @ vetmac159._ipps._tcp.local.' yang beralamat pada IP  224.0.0.251
+[UDP]	 Pengguna dengan IP 172.16.53.12 mengirimkan data kepada IP 255.255.255.255 dari port 1036 menuju port 1037 dengan data sebesar 26 bytes
+[TCP <ACK>]	 Permintaan koneksi dari IP 40.119.211.203 kepada IP 10.164.97.162 diakui dengan mengirim nilai ACK 1706128206 ke IP 40.119.211.203
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.164.97.162 kepada IP 40.119.211.203 diakui dengan mengirim nilai ACK 3260662874 ke IP 10.164.97.162
+[DNS]	 Pengguna dengan IP 10.164.97.162 mencoba mengakses b'encrypted-tbn0.gstatic.com.' yang beralamat pada IP  118.98.44.10

@@ -1,0 +1,3 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 153.254.86.131 kepada IP 192.168.1.3 diakui dengan mengirim nilai ACK 31203891 ke IP 153.254.86.131
+[TCP <ACK>]	 Permintaan koneksi dari IP 153.254.86.147 kepada IP 192.168.1.3 diakui dengan mengirim nilai ACK 3977226511 ke IP 153.254.86.147
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.3 kepada IP 153.254.86.131 diakui dengan mengirim nilai ACK 3688464041 ke IP 192.168.1.3

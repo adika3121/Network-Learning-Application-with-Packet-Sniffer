@@ -1,0 +1,36 @@
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 74.125.200.157 dari port 48450 menuju port 443 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 74.125.200.157 dari port 48450 menuju port 443 dengan data sebesar 526 bytes
+[UDP]	 Pengguna dengan IP 74.125.200.157 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 48450 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 74.125.200.157 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 48450 dengan data sebesar 28 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 74.125.200.157 dari port 48450 menuju port 443 dengan data sebesar 36 bytes
+[UDP]	 Pengguna dengan IP 74.125.200.157 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 48450 dengan data sebesar 951 bytes
+[UDP]	 Pengguna dengan IP 74.125.200.157 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 48450 dengan data sebesar 69 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 74.125.200.157 dari port 48450 menuju port 443 dengan data sebesar 36 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 216.239.38.120 dari port 40781 menuju port 443 dengan data sebesar 406 bytes
+[DNS]	 Pengguna dengan IP 192.168.1.2 mencoba mengakses b'www.wikipedia.org.' yang beralamat pada IP  118.98.44.10
+[UDP]	 Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 40781 dengan data sebesar 73 bytes
+[UDP]	 Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 40781 dengan data sebesar 25 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 216.239.38.120 dari port 40781 menuju port 443 dengan data sebesar 37 bytes
+[DNS]	 Pengguna dengan IP 192.168.1.2 mencoba mengakses b'upload.wikimedia.org.' yang beralamat pada IP  118.98.44.10
+[DNS]	 Pengguna dengan IP 192.168.1.2 mencoba mengakses b'en.wikipedia.org.' yang beralamat pada IP  118.98.44.10
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 74.125.200.157 dari port 48450 menuju port 443 dengan data sebesar 76 bytes
+[UDP]	 Pengguna dengan IP 74.125.200.157 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 48450 dengan data sebesar 231 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 74.125.200.157 dari port 48450 menuju port 443 dengan data sebesar 36 bytes
+[DNS]	 Pengguna dengan IP 192.168.1.2 mencoba mengakses b'maps.google.com.' yang beralamat pada IP  118.98.44.10
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 216.239.38.120 dari port 40781 menuju port 443 dengan data sebesar 112 bytes
+[UDP]	 Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 40781 dengan data sebesar 29 bytes
+[UDP]	 Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 40781 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 40781 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 40781 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 216.239.38.120 dari port 40781 menuju port 443 dengan data sebesar 37 bytes
+[UDP]	 Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 40781 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 40781 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 40781 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 40781 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 40781 dengan data sebesar 57 bytes
+[UDP]	 Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 40781 dengan data sebesar 201 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 216.239.38.120 dari port 40781 menuju port 443 dengan data sebesar 40 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 216.239.38.120 dari port 40781 menuju port 443 dengan data sebesar 40 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 216.239.38.120 dari port 40781 menuju port 443 dengan data sebesar 40 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 216.239.38.120 dari port 40781 menuju port 443 dengan data sebesar 37 bytes
+[UDP]	 Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 40781 dengan data sebesar 1358 bytes

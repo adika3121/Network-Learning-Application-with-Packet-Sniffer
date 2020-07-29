@@ -1,0 +1,3 @@
+[DNS]	 Pengguna dengan IP 10.164.97.162 mencoba mengakses b'11.110.164.10.in-addr.arpa.' yang beralamat pada IP  224.0.0.251
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 34.213.40.32 kepada IP 10.164.97.162 diakui dengan mengirim nilai ACK 2206738003 ke IP 34.213.40.32 kemudian data dari 34.213.40.32 harus segera dikirimkan kepada IP 10.164.97.162
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 10.164.97.162 kepada IP 34.213.40.32 diakui dengan mengirim nilai ACK 1319248498 ke IP 10.164.97.162 kemudian data dari 10.164.97.162 harus segera dikirimkan kepada IP 34.213.40.32

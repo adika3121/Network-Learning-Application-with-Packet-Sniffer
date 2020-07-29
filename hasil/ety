@@ -1,0 +1,3 @@
+[UDP]	 Pengguna dengan IP 192.168.1.8 mengirimkan data kepada IP 36.92.233.204 dari port 45707 menuju port 443 dengan data sebesar 788 bytes
+[UDP]	 Pengguna dengan IP 36.92.233.204 mengirimkan data kepada IP 192.168.1.8 dari port 443 menuju port 45707 dengan data sebesar 30 bytes
+[UDP]	 Pengguna dengan IP 36.92.233.204 mengirimkan data kepada IP 192.168.1.8 dari port 443 menuju port 45707 dengan data sebesar 1358 bytes

@@ -1,0 +1,3 @@
+[UDP]	 Pengguna dengan IP 43.239.137.133 mengirimkan data kepada IP 192.168.1.4 dari port 50002 menuju port 53816 dengan data sebesar 60 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.4 mengirimkan data kepada IP 43.239.137.133 dari port 53816 menuju port 50002 dengan data sebesar 36 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.4 mengirimkan data kepada IP 43.239.137.133 dari port 53816 menuju port 50002 dengan data sebesar 60 bytes

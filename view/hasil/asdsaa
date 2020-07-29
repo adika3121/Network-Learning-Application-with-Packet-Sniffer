@@ -1,0 +1,8 @@
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.10 kepada IP 69.171.250.60 diakui dengan mengirim nilai ACK 1519756479 ke IP 192.168.1.10 kemudian data dari 192.168.1.10 harus segera dikirimkan kepada IP 69.171.250.60
+[TCP <ACK>]	 Permintaan koneksi dari IP 69.171.250.60 kepada IP 192.168.1.10 diakui dengan mengirim nilai ACK 2188654711 ke IP 69.171.250.60
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 69.171.250.60 kepada IP 192.168.1.10 diakui dengan mengirim nilai ACK 2188654711 ke IP 69.171.250.60 kemudian data dari 69.171.250.60 harus segera dikirimkan kepada IP 192.168.1.10
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.10 kepada IP 69.171.250.60 diakui dengan mengirim nilai ACK 1519756512 ke IP 192.168.1.10
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 69.171.250.60 kepada IP 192.168.1.10 diakui dengan mengirim nilai ACK 2188654711 ke IP 69.171.250.60 kemudian data dari 69.171.250.60 harus segera dikirimkan kepada IP 192.168.1.10
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 69.171.250.60 kepada IP 192.168.1.10 diakui dengan mengirim nilai ACK 2188654711 ke IP 69.171.250.60 kemudian data dari 69.171.250.60 harus segera dikirimkan kepada IP 192.168.1.10
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.10 kepada IP 69.171.250.60 diakui dengan mengirim nilai ACK 1519757534 ke IP 192.168.1.10
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 69.171.250.60 kepada IP 192.168.1.10 diakui dengan mengirim nilai ACK 2188654711 ke IP 69.171.250.60 kemudian data dari 69.171.250.60 harus segera dikirimkan kepada IP 192.168.1.10

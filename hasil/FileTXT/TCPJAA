@@ -1,0 +1,11 @@
+Permintaan koneksi dari IP 74.125.68.188 kepada IP 192.168.10.40 diakui dengan mengirim nilai ACK 432323280 ke IP 74.125.68.188
+Permintaan koneksi dari IP 192.168.10.40 kepada IP 74.125.68.188 diakui dengan mengirim nilai ACK 262218500 ke IP 192.168.10.40
+Pengguna dengan IP 192.168.10.40 mencoba membuat koneksi baru dengan IP 103.102.166.240 dengan mengirim nilai SYN 2329438538 ke IP 103.102.166.240
+Permintaan koneksi dari IP 192.168.10.40 kepada IP 104.93.227.177 diakui dengan mengirim nilai ACK 3526512095 ke IP 192.168.10.40 kemudian data dari 104.93.227.177 harus segera dikirimkan kepada IP 192.168.10.40
+Permintaan koneksi dari IP 192.168.10.40 kepada IP 104.93.203.56 diakui dengan mengirim nilai ACK 3426333916 ke IP 192.168.10.40 kemudian data dari 104.93.203.56 harus segera dikirimkan kepada IP 192.168.10.40
+Permintaan koneksi dari IP 192.168.10.40 kepada IP 104.93.221.115 diakui dengan mengirim nilai ACK 640225093 ke IP 192.168.10.40 kemudian data dari 104.93.221.115 harus segera dikirimkan kepada IP 192.168.10.40
+Pengguna dengan IP 192.168.10.40 mencoba membuat koneksi baru dengan IP 103.102.166.224 dengan mengirim nilai SYN 1173172230 ke IP 103.102.166.224
+Permintaan koneksi dari IP 192.168.10.40 kepada IP 104.93.203.56 diakui dengan mengirim nilai ACK 3774864078 ke IP 192.168.10.40 kemudian data dari 104.93.203.56 harus segera dikirimkan kepada IP 192.168.10.40
+Permintaan koneksi dari IP 192.168.10.40 kepada IP 104.93.203.56 diakui dengan mengirim nilai ACK 2021869489 ke IP 192.168.10.40 kemudian data dari 104.93.203.56 harus segera dikirimkan kepada IP 192.168.10.40
+Permintaan koneksi dari IP 192.168.10.40 kepada IP 104.93.203.56 diakui dengan mengirim nilai ACK 2820515677 ke IP 192.168.10.40 kemudian data dari 104.93.203.56 harus segera dikirimkan kepada IP 192.168.10.40
+Permintaan koneksi dari IP 192.168.10.40 kepada IP 104.93.203.56 diakui dengan mengirim nilai ACK 4215568121 ke IP 192.168.10.40 kemudian data dari 104.93.203.56 harus segera dikirimkan kepada IP 192.168.10.40

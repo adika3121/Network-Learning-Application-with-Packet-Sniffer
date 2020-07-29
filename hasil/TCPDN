@@ -1,0 +1,9 @@
+[DNS]	 Pengguna dengan IP 192.168.1.7 mencoba mengakses b'www.gstatic.com.' yang beralamat pada IP  118.98.44.100
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.7 mencoba membuat koneksi baru dengan IP 74.125.68.94 dengan mengirim nilai SYN 1735808713 ke IP 74.125.68.94
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.7 mencoba membuat koneksi baru dengan IP 74.125.68.94 dengan mengirim nilai SYN 3976850521 ke IP 74.125.68.94
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 74.125.68.94 kepada IP 192.168.1.7 diakui dengan mengirim nilai ACK 1735808714 ke IP 74.125.68.94 kemudian IP 74.125.68.94 mencoba membuat koneksi baru dengan IP 192.168.1.7 dengan nilai SYN 4073854172
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.7 kepada IP 74.125.68.94 diakui dengan mengirim nilai ACK 4073854173 ke IP 192.168.1.7
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 74.125.68.94 kepada IP 192.168.1.7 diakui dengan mengirim nilai ACK 3976850522 ke IP 74.125.68.94 kemudian IP 74.125.68.94 mencoba membuat koneksi baru dengan IP 192.168.1.7 dengan nilai SYN 1385366227
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.7 kepada IP 74.125.68.94 diakui dengan mengirim nilai ACK 1385366228 ke IP 192.168.1.7
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.7 kepada IP 74.125.68.94 diakui dengan mengirim nilai ACK 4073854173 ke IP 192.168.1.7 kemudian data dari 192.168.1.7 harus segera dikirimkan kepada IP 74.125.68.94
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.7 kepada IP 74.125.68.94 diakui dengan mengirim nilai ACK 1385366228 ke IP 192.168.1.7 kemudian data dari 192.168.1.7 harus segera dikirimkan kepada IP 74.125.68.94

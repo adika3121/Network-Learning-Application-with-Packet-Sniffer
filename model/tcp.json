@@ -1,0 +1,269 @@
+[
+  {
+    "_index": "packets-2020-05-20",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame": {
+          "frame.encap_type": "1",
+          "frame.time": "May 20, 2020 12:42:04.601297000 Malay Peninsula Standard Time",
+          "frame.offset_shift": "0.000000000",
+          "frame.time_epoch": "1589949724.601297000",
+          "frame.time_delta": "0.000000000",
+          "frame.time_delta_displayed": "0.000000000",
+          "frame.time_relative": "0.000000000",
+          "frame.number": "1",
+          "frame.len": "78",
+          "frame.cap_len": "78",
+          "frame.marked": "0",
+          "frame.ignored": "0",
+          "frame.protocols": "eth:ethertype:ip:tcp:tls"
+        },
+        "eth": {
+          "eth.dst": "88:5d:fb:e2:a5:be",
+          "eth.dst_tree": {
+            "eth.dst_resolved": "zte_e2:a5:be",
+            "eth.dst.oui": "8936955",
+            "eth.dst.oui_resolved": "zte corporation",
+            "eth.addr": "88:5d:fb:e2:a5:be",
+            "eth.addr_resolved": "zte_e2:a5:be",
+            "eth.addr.oui": "8936955",
+            "eth.addr.oui_resolved": "zte corporation",
+            "eth.dst.lg": "0",
+            "eth.lg": "0",
+            "eth.dst.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.src": "4c:bb:58:a4:b8:8e",
+          "eth.src_tree": {
+            "eth.src_resolved": "ChiconyE_a4:b8:8e",
+            "eth.src.oui": "5028696",
+            "eth.src.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.addr": "4c:bb:58:a4:b8:8e",
+            "eth.addr_resolved": "ChiconyE_a4:b8:8e",
+            "eth.addr.oui": "5028696",
+            "eth.addr.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.src.lg": "0",
+            "eth.lg": "0",
+            "eth.src.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.type": "0x00000800"
+        },
+        "ip": {
+          "ip.version": "4",
+          "ip.hdr_len": "20",
+          "ip.dsfield": "0x00000000",
+          "ip.dsfield_tree": {
+            "ip.dsfield.dscp": "0",
+            "ip.dsfield.ecn": "0"
+          },
+          "ip.len": "64",
+          "ip.id": "0x0000462f",
+          "ip.flags": "0x00004000",
+          "ip.flags_tree": {
+            "ip.flags.rb": "0",
+            "ip.flags.df": "1",
+            "ip.flags.mf": "0"
+          },
+          "ip.frag_offset": "0",
+          "ip.ttl": "128",
+          "ip.proto": "6",
+          "ip.checksum": "0x0000190b",
+          "ip.checksum.status": "2",
+          "ip.src": "192.168.1.5",
+          "ip.addr": "192.168.1.5",
+          "ip.src_host": "192.168.1.5",
+          "ip.host": "192.168.1.5",
+          "ip.dst": "118.98.99.110",
+          "ip.addr": "118.98.99.110",
+          "ip.dst_host": "118.98.99.110",
+          "ip.host": "118.98.99.110"
+        },
+        "tcp": {
+          "tcp.srcport": "62988",
+          "tcp.dstport": "443",
+          "tcp.port": "62988",
+          "tcp.port": "443",
+          "tcp.stream": "0",
+          "tcp.len": "24",
+          "tcp.seq": "1",
+          "tcp.seq_raw": "112110901",
+          "tcp.nxtseq": "25",
+          "tcp.ack": "1",
+          "tcp.ack_raw": "3762591184",
+          "tcp.hdr_len": "20",
+          "tcp.flags": "0x00000018",
+          "tcp.flags_tree": {
+            "tcp.flags.res": "0",
+            "tcp.flags.ns": "0",
+            "tcp.flags.cwr": "0",
+            "tcp.flags.ecn": "0",
+            "tcp.flags.urg": "0",
+            "tcp.flags.ack": "1",
+            "tcp.flags.push": "1",
+            "tcp.flags.reset": "0",
+            "tcp.flags.syn": "0",
+            "tcp.flags.fin": "0",
+            "tcp.flags.str": "·······AP···"
+          },
+          "tcp.window_size_value": "516",
+          "tcp.window_size": "516",
+          "tcp.window_size_scalefactor": "-1",
+          "tcp.checksum": "0x0000a652",
+          "tcp.checksum.status": "2",
+          "tcp.urgent_pointer": "0",
+          "tcp.analysis": {
+            "tcp.analysis.bytes_in_flight": "24",
+            "tcp.analysis.push_bytes_sent": "24"
+          },
+          "Timestamps": {
+            "tcp.time_relative": "0.000000000",
+            "tcp.time_delta": "0.000000000"
+          },
+          "tcp.payload": "17:03:03:00:13:c5:b8:f0:a6:e7:3b:1f:00:93:a1:f7:05:4c:1d:d7:49:58:72:59"
+        },
+        "tls": {
+          "tls.record": {
+            "tls.record.content_type": "23",
+            "tls.record.version": "0x00000303",
+            "tls.record.length": "19",
+            "tls.app_data": "c5:b8:f0:a6:e7:3b:1f:00:93:a1:f7:05:4c:1d:d7:49:58:72:59"
+          }
+        }
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-05-20",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame": {
+          "frame.encap_type": "1",
+          "frame.time": "May 20, 2020 12:42:04.601383000 Malay Peninsula Standard Time",
+          "frame.offset_shift": "0.000000000",
+          "frame.time_epoch": "1589949724.601383000",
+          "frame.time_delta": "0.000086000",
+          "frame.time_delta_displayed": "0.000086000",
+          "frame.time_relative": "0.000086000",
+          "frame.number": "2",
+          "frame.len": "54",
+          "frame.cap_len": "54",
+          "frame.marked": "0",
+          "frame.ignored": "0",
+          "frame.protocols": "eth:ethertype:ip:tcp"
+        },
+        "eth": {
+          "eth.dst": "88:5d:fb:e2:a5:be",
+          "eth.dst_tree": {
+            "eth.dst_resolved": "zte_e2:a5:be",
+            "eth.dst.oui": "8936955",
+            "eth.dst.oui_resolved": "zte corporation",
+            "eth.addr": "88:5d:fb:e2:a5:be",
+            "eth.addr_resolved": "zte_e2:a5:be",
+            "eth.addr.oui": "8936955",
+            "eth.addr.oui_resolved": "zte corporation",
+            "eth.dst.lg": "0",
+            "eth.lg": "0",
+            "eth.dst.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.src": "4c:bb:58:a4:b8:8e",
+          "eth.src_tree": {
+            "eth.src_resolved": "ChiconyE_a4:b8:8e",
+            "eth.src.oui": "5028696",
+            "eth.src.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.addr": "4c:bb:58:a4:b8:8e",
+            "eth.addr_resolved": "ChiconyE_a4:b8:8e",
+            "eth.addr.oui": "5028696",
+            "eth.addr.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.src.lg": "0",
+            "eth.lg": "0",
+            "eth.src.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.type": "0x00000800"
+        },
+        "ip": {
+          "ip.version": "4",
+          "ip.hdr_len": "20",
+          "ip.dsfield": "0x00000000",
+          "ip.dsfield_tree": {
+            "ip.dsfield.dscp": "0",
+            "ip.dsfield.ecn": "0"
+          },
+          "ip.len": "40",
+          "ip.id": "0x00004630",
+          "ip.flags": "0x00004000",
+          "ip.flags_tree": {
+            "ip.flags.rb": "0",
+            "ip.flags.df": "1",
+            "ip.flags.mf": "0"
+          },
+          "ip.frag_offset": "0",
+          "ip.ttl": "128",
+          "ip.proto": "6",
+          "ip.checksum": "0x00001922",
+          "ip.checksum.status": "2",
+          "ip.src": "192.168.1.5",
+          "ip.addr": "192.168.1.5",
+          "ip.src_host": "192.168.1.5",
+          "ip.host": "192.168.1.5",
+          "ip.dst": "118.98.99.110",
+          "ip.addr": "118.98.99.110",
+          "ip.dst_host": "118.98.99.110",
+          "ip.host": "118.98.99.110"
+        },
+        "tcp": {
+          "tcp.srcport": "62988",
+          "tcp.dstport": "443",
+          "tcp.port": "62988",
+          "tcp.port": "443",
+          "tcp.stream": "0",
+          "tcp.len": "0",
+          "tcp.seq": "25",
+          "tcp.seq_raw": "112110925",
+          "tcp.nxtseq": "26",
+          "tcp.ack": "1",
+          "tcp.ack_raw": "3762591184",
+          "tcp.hdr_len": "20",
+          "tcp.flags": "0x00000011",
+          "tcp.flags_tree": {
+            "tcp.flags.res": "0",
+            "tcp.flags.ns": "0",
+            "tcp.flags.cwr": "0",
+            "tcp.flags.ecn": "0",
+            "tcp.flags.urg": "0",
+            "tcp.flags.ack": "1",
+            "tcp.flags.push": "0",
+            "tcp.flags.reset": "0",
+            "tcp.flags.syn": "0",
+            "tcp.flags.fin": "1",
+            "tcp.flags.fin_tree": {
+              "_ws.expert": {
+                "tcp.connection.fin": "",
+                "_ws.expert.message": "Connection finish (FIN)",
+                "_ws.expert.severity": "2097152",
+                "_ws.expert.group": "33554432"
+              }
+            },
+            "tcp.flags.str": "·······A···F"
+          },
+          "tcp.window_size_value": "516",
+          "tcp.window_size": "516",
+          "tcp.window_size_scalefactor": "-1",
+          "tcp.checksum": "0x0000f078",
+          "tcp.checksum.status": "2",
+          "tcp.urgent_pointer": "0",
+          "Timestamps": {
+            "tcp.time_relative": "0.000086000",
+            "tcp.time_delta": "0.000086000"
+          }
+        }
+      }
+    }
+  }
+]

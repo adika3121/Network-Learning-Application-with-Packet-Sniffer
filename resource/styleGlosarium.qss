@@ -1,0 +1,66 @@
+QMainWindow{
+
+  background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 #90caf9, stop:1 #a6d4fa);
+}
+
+QPushButton#sekilas_protokol,  #kembaliBtn, #pushButton{
+    padding: 4px 4px;
+    font-size: 11px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #3949AB;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+QPushButton#sniff_app{
+    padding: 4px 15px;
+    font-size: 11px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #8C9EFF, stop: 1 #536DFE);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+QPushButton#sekilas_protokol:hover{
+    background-color: #3D5AFE
+}
+
+QPushButton#kembaliBtn:hover{
+    background-color: #3D5AFE
+}
+
+QPushButton#sniff_app:hover{
+    background-color: #3D5AFE
+}
+
+QPushButton#pushButton:hover{
+    background-color: #3D5AFE
+}
+
+QPushButton#sekilas_protokol:pressed{
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #8C9EFF, stop: 1 #536DFE);
+}
+
+QPushButton#kembaliBtn:pressed{
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #8C9EFF, stop: 1 #536DFE);
+}
+
+QPushButton#pushButton:pressed{
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #8C9EFF, stop: 1 #536DFE);
+}
+
+QPushButton#sniff_app:pressed{
+    background-color: #3949AB;
+}

@@ -1,0 +1,4 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.119 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 669136709 ke IP 74.125.24.119
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 74.125.24.119 diakui dengan mengirim nilai ACK 4059995349 ke IP 192.168.1.4
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 118.98.99.109 diakui dengan mengirim nilai ACK 2523123511 ke IP 192.168.1.4 kemudian data dari 192.168.1.4 harus segera dikirimkan kepada IP 118.98.99.109
+[TCP <ACK>]	 Permintaan koneksi dari IP 118.98.99.109 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 3244965487 ke IP 118.98.99.109

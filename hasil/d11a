@@ -1,0 +1,9 @@
+[UDP]	 Pengguna dengan IP 192.168.1.10 mengirimkan data kepada IP 239.255.255.250 dari port 54671 menuju port 1900 dengan data sebesar 182 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.10 mengirimkan data kepada IP 239.255.255.250 dari port 54671 menuju port 1900 dengan data sebesar 182 bytes
+[DNS]	 Pengguna dengan IP 192.168.1.6 mencoba mengakses b'_raop._tcp.local.' yang beralamat pada IP  224.0.0.251
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.8 mencoba membuat koneksi baru dengan IP 103.29.196.139 dengan mengirim nilai SYN 896856849 ke IP 103.29.196.139
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 103.29.196.139 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 896856850 ke IP 103.29.196.139 kemudian IP 103.29.196.139 mencoba membuat koneksi baru dengan IP 192.168.1.8 dengan nilai SYN 881684134
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 103.29.196.139 diakui dengan mengirim nilai ACK 881684135 ke IP 192.168.1.8
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 103.29.196.139 diakui dengan mengirim nilai ACK 881684135 ke IP 192.168.1.8 kemudian data dari 192.168.1.8 harus segera dikirimkan kepada IP 103.29.196.139
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.29.196.139 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 896857390 ke IP 103.29.196.139
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.29.196.139 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 896857390 ke IP 103.29.196.139

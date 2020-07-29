@@ -1,0 +1,10 @@
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 172.217.194.95 kepada IP 10.10.22.249 diakui dengan mengirim nilai ACK 3724624692 ke IP 172.217.194.95 kemudian data dari 172.217.194.95 harus segera dikirimkan kepada IP 10.10.22.249
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.22.249 kepada IP 172.217.194.95 diakui dengan mengirim nilai ACK 2312840513 ke IP 10.10.22.249
+[TCP <FIN+ACK>]	 Koneksi antara IP 10.10.22.249 dengan IP 172.217.194.95 berakhir dengan mengirim nilai ACK 2312840513
+[TCP <FIN+ACK>]	 Koneksi antara IP 172.217.194.95 dengan IP 10.10.22.249 berakhir dengan mengirim nilai ACK 3724624692
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.22.249 kepada IP 172.217.194.95 diakui dengan mengirim nilai ACK 2312840514 ke IP 10.10.22.249
+[TCP <ACK>]	 Permintaan koneksi dari IP 172.217.194.95 kepada IP 10.10.22.249 diakui dengan mengirim nilai ACK 3724624693 ke IP 172.217.194.95
+[TCP <FIN+ACK>]	 Koneksi antara IP 10.10.22.249 dengan IP 51.161.15.93 berakhir dengan mengirim nilai ACK 1056876350
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 10.10.22.249 kepada IP 182.255.0.114 diakui dengan mengirim nilai ACK 1683781714ke IP10.10.22.249 namun perangkat dengan IP 182.255.0.114 tidak sedang menunggu koneksi dari IP 10.10.22.249 sehingga koneksi dibatalkan
+[TCP <FIN+ACK>]	 Koneksi antara IP 10.10.22.249 dengan IP 182.255.0.114 berakhir dengan mengirim nilai ACK 3211081281
+[TCP <FIN+ACK>]	 Koneksi antara IP 10.10.22.249 dengan IP 192.99.0.58 berakhir dengan mengirim nilai ACK 4057558473

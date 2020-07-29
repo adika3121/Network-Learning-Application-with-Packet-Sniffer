@@ -1,0 +1,3 @@
+[UDP]	 Pengguna dengan IP 192.168.1.8 mengirimkan data kepada IP 172.217.27.14 dari port 41023 menuju port 443 dengan data sebesar 550 bytes
+[UDP]	 Pengguna dengan IP 172.217.27.14 mengirimkan data kepada IP 192.168.1.8 dari port 443 menuju port 41023 dengan data sebesar 78 bytes
+[UDP]	 Pengguna dengan IP 172.217.27.14 mengirimkan data kepada IP 192.168.1.8 dari port 443 menuju port 41023 dengan data sebesar 24 bytes

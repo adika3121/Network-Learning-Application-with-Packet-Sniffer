@@ -1,0 +1,9 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.43.56 kepada IP 172.217.194.132 diakui dengan mengirim nilai ACK 2340351840 ke IP 192.168.43.56
+[TCP <ACK>]	 Permintaan koneksi dari IP 172.217.194.132 kepada IP 192.168.43.56 diakui dengan mengirim nilai ACK 932339239 ke IP 172.217.194.132
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.43.56 kepada IP 172.217.194.132 diakui dengan mengirim nilai ACK 3663746723 ke IP 192.168.43.56
+[TCP <ACK>]	 Permintaan koneksi dari IP 172.217.194.132 kepada IP 192.168.43.56 diakui dengan mengirim nilai ACK 3539314623 ke IP 172.217.194.132
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.43.56 kepada IP 172.217.194.132 diakui dengan mengirim nilai ACK 1752091132 ke IP 192.168.43.56
+[TCP <SYN>]	 Pengguna dengan IP 192.168.43.56 mencoba membuat koneksi baru dengan IP 74.125.24.132 dengan mengirim nilai SYN 4269742243 ke IP 74.125.24.132
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.43.56 diakui dengan mengirim nilai ACK 4269742244 ke IP 74.125.24.132 kemudian IP 74.125.24.132 mencoba membuat koneksi baru dengan IP 192.168.43.56 dengan nilai SYN 3256538916
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.43.56 kepada IP 74.125.24.132 diakui dengan mengirim nilai ACK 3256538917 ke IP 192.168.43.56
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.43.56 kepada IP 74.125.68.94 diakui dengan mengirim nilai ACK 2602353658 ke IP 192.168.43.56

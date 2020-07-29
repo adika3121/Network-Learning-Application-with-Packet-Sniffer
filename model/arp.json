@@ -1,0 +1,130 @@
+[
+  {
+    "_index": "packets-2020-05-20",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame": {
+          "frame.encap_type": "1",
+          "frame.time": "May 20, 2020 12:35:44.506294000 Malay Peninsula Standard Time",
+          "frame.offset_shift": "0.000000000",
+          "frame.time_epoch": "1589949344.506294000",
+          "frame.time_delta": "0.000000000",
+          "frame.time_delta_displayed": "0.000000000",
+          "frame.time_relative": "0.000000000",
+          "frame.number": "1",
+          "frame.len": "42",
+          "frame.cap_len": "42",
+          "frame.marked": "0",
+          "frame.ignored": "0",
+          "frame.protocols": "eth:ethertype:arp"
+        },
+        "eth": {
+          "eth.dst": "ff:ff:ff:ff:ff:ff",
+          "eth.dst_tree": {
+            "eth.dst_resolved": "Broadcast",
+            "eth.dst.oui": "16777215",
+            "eth.addr": "ff:ff:ff:ff:ff:ff",
+            "eth.addr_resolved": "Broadcast",
+            "eth.addr.oui": "16777215",
+            "eth.dst.lg": "1",
+            "eth.lg": "1",
+            "eth.dst.ig": "1",
+            "eth.ig": "1"
+          },
+          "eth.src": "4c:1d:96:7f:91:bc",
+          "eth.src_tree": {
+            "eth.src_resolved": "IntelCor_7f:91:bc",
+            "eth.src.oui": "4988310",
+            "eth.src.oui_resolved": "Intel Corporate",
+            "eth.addr": "4c:1d:96:7f:91:bc",
+            "eth.addr_resolved": "IntelCor_7f:91:bc",
+            "eth.addr.oui": "4988310",
+            "eth.addr.oui_resolved": "Intel Corporate",
+            "eth.src.lg": "0",
+            "eth.lg": "0",
+            "eth.src.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.type": "0x00000806"
+        },
+        "arp": {
+          "arp.hw.type": "1",
+          "arp.proto.type": "0x00000800",
+          "arp.hw.size": "6",
+          "arp.proto.size": "4",
+          "arp.opcode": "1",
+          "arp.src.hw_mac": "4c:1d:96:7f:91:bc",
+          "arp.src.proto_ipv4": "192.168.1.7",
+          "arp.dst.hw_mac": "00:00:00:00:00:00",
+          "arp.dst.proto_ipv4": "192.168.1.0"
+        }
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-05-20",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame": {
+          "frame.encap_type": "1",
+          "frame.time": "May 20, 2020 12:35:44.508043000 Malay Peninsula Standard Time",
+          "frame.offset_shift": "0.000000000",
+          "frame.time_epoch": "1589949344.508043000",
+          "frame.time_delta": "0.001749000",
+          "frame.time_delta_displayed": "0.001749000",
+          "frame.time_relative": "0.001749000",
+          "frame.number": "2",
+          "frame.len": "42",
+          "frame.cap_len": "42",
+          "frame.marked": "0",
+          "frame.ignored": "0",
+          "frame.protocols": "eth:ethertype:arp"
+        },
+        "eth": {
+          "eth.dst": "ff:ff:ff:ff:ff:ff",
+          "eth.dst_tree": {
+            "eth.dst_resolved": "Broadcast",
+            "eth.dst.oui": "16777215",
+            "eth.addr": "ff:ff:ff:ff:ff:ff",
+            "eth.addr_resolved": "Broadcast",
+            "eth.addr.oui": "16777215",
+            "eth.dst.lg": "1",
+            "eth.lg": "1",
+            "eth.dst.ig": "1",
+            "eth.ig": "1"
+          },
+          "eth.src": "4c:1d:96:7f:91:bc",
+          "eth.src_tree": {
+            "eth.src_resolved": "IntelCor_7f:91:bc",
+            "eth.src.oui": "4988310",
+            "eth.src.oui_resolved": "Intel Corporate",
+            "eth.addr": "4c:1d:96:7f:91:bc",
+            "eth.addr_resolved": "IntelCor_7f:91:bc",
+            "eth.addr.oui": "4988310",
+            "eth.addr.oui_resolved": "Intel Corporate",
+            "eth.src.lg": "0",
+            "eth.lg": "0",
+            "eth.src.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.type": "0x00000806"
+        },
+        "arp": {
+          "arp.hw.type": "1",
+          "arp.proto.type": "0x00000800",
+          "arp.hw.size": "6",
+          "arp.proto.size": "4",
+          "arp.opcode": "1",
+          "arp.src.hw_mac": "4c:1d:96:7f:91:bc",
+          "arp.src.proto_ipv4": "192.168.1.7",
+          "arp.dst.hw_mac": "00:00:00:00:00:00",
+          "arp.dst.proto_ipv4": "192.168.1.2"
+        }
+      }
+    }
+  }
+]

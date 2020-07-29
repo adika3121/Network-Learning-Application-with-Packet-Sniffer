@@ -1,0 +1,9 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 18.138.216.223 diakui dengan mengirim nilai ACK 3160995093 ke IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 104.111.2.85 diakui dengan mengirim nilai ACK 3645289330 ke IP 192.168.1.8
+[UDP]	 Pengguna dengan IP 192.168.1.4 mengirimkan data kepada IP 239.255.255.250 dari port 59000 menuju port 1900 dengan data sebesar 102 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.4 mengirimkan data kepada IP 239.255.255.250 dari port 59000 menuju port 1900 dengan data sebesar 102 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.4 mengirimkan data kepada IP 239.255.255.250 dari port 59000 menuju port 1900 dengan data sebesar 102 bytes
+[TCP <ACK>]	 Permintaan koneksi dari IP 18.138.216.223 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3722866136 ke IP 18.138.216.223
+[TCP <ACK>]	 Permintaan koneksi dari IP 104.111.2.85 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3748460991 ke IP 104.111.2.85
+[DNS]	 Pengguna dengan IP 192.168.1.8 mencoba mengakses b'geo.yahoo.com.' yang beralamat pada IP  118.98.44.100
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.8 mencoba membuat koneksi baru dengan IP 180.222.102.158 dengan mengirim nilai SYN 778252996 ke IP 180.222.102.158

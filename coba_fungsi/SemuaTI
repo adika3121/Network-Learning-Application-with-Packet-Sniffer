@@ -1,0 +1,39 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 74.125.24.132 diakui dengan mengirim nilai ACK 4248917999 ke IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 74.125.24.132 diakui dengan mengirim nilai ACK 899548397 ke IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2780449245 ke IP 74.125.24.132
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 1840198722 ke IP 74.125.24.132
+[DNS]	 Pengguna dengan IP 192.168.1.2 mencoba mengakses b'blogspot.l.googleusercontent.com.' yang beralamat pada IP  118.98.44.100
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.2 dengan IP 74.125.24.132 berakhir dengan mengirim nilai ACK 2117837260
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.2 dengan IP 74.125.24.132 berakhir dengan mengirim nilai ACK 3755846484
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.2 dengan IP 74.125.24.132 berakhir dengan mengirim nilai ACK 642899183
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.2 dengan IP 74.125.24.132 berakhir dengan mengirim nilai ACK 750803355
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.2 dengan IP 74.125.24.132 berakhir dengan mengirim nilai ACK 1526693636
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.2 dengan IP 192.229.237.25 berakhir dengan mengirim nilai ACK 3268732244
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.2 dengan IP 172.217.194.191 berakhir dengan mengirim nilai ACK 3468686594
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.2 dengan IP 172.217.194.191 berakhir dengan mengirim nilai ACK 3644813857
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.2 dengan IP 172.217.194.191 berakhir dengan mengirim nilai ACK 3244621579
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.2 dengan IP 172.217.194.191 berakhir dengan mengirim nilai ACK 4046314037
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.2 dengan IP 172.217.194.191 berakhir dengan mengirim nilai ACK 2243792753
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.2 dengan IP 172.217.194.191 berakhir dengan mengirim nilai ACK 3486144606
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.2 dengan IP 172.217.194.191 berakhir dengan mengirim nilai ACK 1258819793
+[DNS]	 Pengguna dengan IP 192.168.1.2 mencoba mengakses b'www.yahoo.com.' yang beralamat pada IP  118.98.44.100
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 3071122502 ke IP 74.125.24.132
+[TCP <FIN+ACK>]	 Koneksi antara IP 74.125.24.132 dengan IP 192.168.1.2 berakhir dengan mengirim nilai ACK 3071122502
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 74.125.24.132 diakui dengan mengirim nilai ACK 642899184 ke IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 1322749237 ke IP 74.125.24.132
+[TCP <FIN+ACK>]	 Koneksi antara IP 74.125.24.132 dengan IP 192.168.1.2 berakhir dengan mengirim nilai ACK 1322749237
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 74.125.24.132 diakui dengan mengirim nilai ACK 3755846485 ke IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 3170988855 ke IP 74.125.24.132
+[TCP <FIN+ACK>]	 Koneksi antara IP 74.125.24.132 dengan IP 192.168.1.2 berakhir dengan mengirim nilai ACK 3170988855
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 74.125.24.132 diakui dengan mengirim nilai ACK 750803356 ke IP 192.168.1.2
+[TCP <FIN+ACK>]	 Koneksi antara IP 74.125.24.132 dengan IP 192.168.1.2 berakhir dengan mengirim nilai ACK 3920561466
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 74.125.24.132 diakui dengan mengirim nilai ACK 2117837261 ke IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 3920561466 ke IP 74.125.24.132
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 74.125.24.132 diakui dengan mengirim nilai ACK 2117837261 ke IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 3477335140 ke IP 74.125.24.132
+[TCP <FIN+ACK>]	 Koneksi antara IP 74.125.24.132 dengan IP 192.168.1.2 berakhir dengan mengirim nilai ACK 3477335140
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 74.125.24.132 diakui dengan mengirim nilai ACK 1526693637 ke IP 192.168.1.2
+[TCP <FIN+ACK>]	 Koneksi antara IP 172.217.194.191 dengan IP 192.168.1.2 berakhir dengan mengirim nilai ACK 1320660886
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 172.217.194.191 diakui dengan mengirim nilai ACK 3644813858 ke IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 172.217.194.191 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 1320660886 ke IP 172.217.194.191
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 172.217.194.191 diakui dengan mengirim nilai ACK 3644813858 ke IP 192.168.1.2

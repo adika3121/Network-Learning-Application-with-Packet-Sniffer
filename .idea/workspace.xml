@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b09d269-e455-4c4a-9683-b62d9603bda2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SHe2kf2GRu1SAt65CENwYqwYgw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../versi lama/versi lama ini" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/view" />
+      <recent name="D:\Menuju TA\Program\coba dengan Qt Designer" />
+      <recent name="$PROJECT_DIR$/controller" />
+      <recent name="D:\Menuju TA\Program\coba dengan Qt Designer\view\hasil" />
+      <recent name="$PROJECT_DIR$/hasil/FilePCAP" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Menuju TA\Program\coba dengan Qt Designer\resource" />
+      <recent name="D:\Menuju TA\Program\coba dengan Qt Designer\view" />
+      <recent name="D:\Menuju TA\Program\coba dengan Qt Designer" />
+      <recent name="D:\Menuju TA\Program\coba dengan Qt Designer\model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.MainWindow">
+    <configuration name="MainWindow (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coba dengan Qt Designer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/controller" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/controller/MainWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MainWindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coba dengan Qt Designer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/view" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Menuju TA\Program\coba dengan Qt Designer\controller\MainWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kuis4v1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coba dengan Qt Designer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/view" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/view/kuis4v1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kuis4v1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coba dengan Qt Designer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Menuju TA\Program\coba dengan Qt Designer\view\kuis4v1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testinggan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coba dengan Qt Designer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/testinggan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MainWindow" />
+        <item itemvalue="Python.MainWindow (1)" />
+        <item itemvalue="Python.kuis4v1 (1)" />
+        <item itemvalue="Python.kuis4v1" />
+        <item itemvalue="Python.testinggan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b09d269-e455-4c4a-9683-b62d9603bda2" name="Default Changelist" comment="" />
+      <created>1571224743248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571224743248</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="181" width="611" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578837221052">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="380" y="181" width="611" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.700@0.27.1366.700" timestamp="1578837221052" />
+    <state x="416" y="125" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575528634310">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="416" y="125" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.700@0.27.1366.700" timestamp="1575528634310" />
+    <state x="100" y="125" width="1166" height="502" key="DiffContextDialog" timestamp="1578555335726">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="100" y="125" width="1166" height="502" key="DiffContextDialog/0.27.1366.700@0.27.1366.700" timestamp="1578555335726" />
+    <state width="1320" height="162" key="GridCell.Tab.0.bottom" timestamp="1580964850010">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="162" key="GridCell.Tab.0.bottom/0.27.1366.700@0.27.1366.700" timestamp="1580964850010" />
+    <state width="1320" height="162" key="GridCell.Tab.0.center" timestamp="1580964850009">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="162" key="GridCell.Tab.0.center/0.27.1366.700@0.27.1366.700" timestamp="1580964850009" />
+    <state width="1320" height="162" key="GridCell.Tab.0.left" timestamp="1580964850009">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="162" key="GridCell.Tab.0.left/0.27.1366.700@0.27.1366.700" timestamp="1580964850009" />
+    <state width="1320" height="162" key="GridCell.Tab.0.right" timestamp="1580964850009">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="162" key="GridCell.Tab.0.right/0.27.1366.700@0.27.1366.700" timestamp="1580964850009" />
+    <state width="1320" height="202" key="GridCell.Tab.1.bottom" timestamp="1575512529868">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="202" key="GridCell.Tab.1.bottom/0.27.1366.700@0.27.1366.700" timestamp="1575512529868" />
+    <state width="1320" height="202" key="GridCell.Tab.1.center" timestamp="1575512529868">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="202" key="GridCell.Tab.1.center/0.27.1366.700@0.27.1366.700" timestamp="1575512529868" />
+    <state width="1320" height="202" key="GridCell.Tab.1.left" timestamp="1575512529868">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="202" key="GridCell.Tab.1.left/0.27.1366.700@0.27.1366.700" timestamp="1575512529868" />
+    <state width="1320" height="202" key="GridCell.Tab.1.right" timestamp="1575512529868">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="1320" height="202" key="GridCell.Tab.1.right/0.27.1366.700@0.27.1366.700" timestamp="1575512529868" />
+    <state x="38" y="27" width="1012" height="700" key="SettingsEditor" timestamp="1578564536820">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="38" y="27" width="1012" height="700" key="SettingsEditor/0.27.1366.700@0.27.1366.700" timestamp="1578564536820" />
+    <state x="339" y="203" key="com.intellij.ide.util.TipDialog" timestamp="1580958965846">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="339" y="203" key="com.intellij.ide.util.TipDialog/0.27.1366.700@0.27.1366.700" timestamp="1580958965846" />
+    <state x="336" y="27" width="683" height="700" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578572113733">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="336" y="27" width="683" height="700" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.700@0.27.1366.700" timestamp="1578572113733" />
+    <state x="346" y="48" width="672" height="678" key="search.everywhere.popup" timestamp="1576781157164">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="346" y="48" width="672" height="678" key="search.everywhere.popup/0.27.1366.700@0.27.1366.700" timestamp="1576781157164" />
+  </component>
+</project>

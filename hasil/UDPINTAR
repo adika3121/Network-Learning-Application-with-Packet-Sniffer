@@ -1,0 +1,20 @@
+[DNS]	 Pengguna dengan IP 192.168.43.83 mencoba mengakses b'www.google.com.' yang beralamat pada IP  192.168.43.1
+[UDP]	 Pengguna dengan IP 192.168.43.83 mengirimkan data kepada IP 216.239.38.120 dari port 42366 menuju port 443 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 192.168.43.83 mengirimkan data kepada IP 216.239.38.120 dari port 42366 menuju port 443 dengan data sebesar 1358 bytes
+[DNS]	 Pengguna dengan IP 192.168.43.83 mencoba mengakses b'www.apple.com.' yang beralamat pada IP  192.168.43.1
+[UDP]	 Pengguna dengan IP 192.168.43.83 mengirimkan data kepada IP 216.239.38.120 dari port 42366 menuju port 443 dengan data sebesar 1358 bytes
+[DNS]	 Pengguna dengan IP 192.168.43.83 mencoba mengakses b'ocsp.digicert.com.' yang beralamat pada IP  192.168.43.1
+[DNS]	 Pengguna dengan IP 192.168.43.83 mencoba mengakses b'apple.tt.omtrdc.net.' yang beralamat pada IP  192.168.43.1
+[DNS]	 Pengguna dengan IP 192.168.43.83 mencoba mengakses b'www.yahoo.com.' yang beralamat pada IP  192.168.43.1
+[UDP]	 Pengguna dengan IP 192.168.43.83 mengirimkan data kepada IP 216.239.38.120 dari port 42366 menuju port 443 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 192.168.43.83 mengirimkan data kepada IP 216.239.38.120 dari port 42366 menuju port 443 dengan data sebesar 72 bytes
+[DNS]	 Pengguna dengan IP 192.168.43.83 mencoba mengakses b'www.youtube.com.' yang beralamat pada IP  192.168.43.1
+[DNS]	 Pengguna dengan IP 192.168.43.83 mencoba mengakses b'i.ytimg.com.' yang beralamat pada IP  192.168.43.1
+[DNS]	 Pengguna dengan IP 192.168.43.83 mencoba mengakses b'securemetrics.apple.com.' yang beralamat pada IP  192.168.43.1
+[DNS]	 Pengguna dengan IP 192.168.43.83 mencoba mengakses b'fonts.gstatic.com.' yang beralamat pada IP  192.168.43.1
+[DNS]	 Pengguna dengan IP 192.168.43.83 mencoba mengakses b'yt3.ggpht.com.' yang beralamat pada IP  192.168.43.1
+[UDP]	 Pengguna dengan IP 192.168.43.83 mengirimkan data kepada IP 74.125.130.94 dari port 32973 menuju port 443 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 192.168.43.83 mengirimkan data kepada IP 172.217.194.132 dari port 34127 menuju port 443 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 74.125.130.94 mengirimkan data kepada IP 192.168.43.83 dari port 443 menuju port 32973 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 74.125.130.94 mengirimkan data kepada IP 192.168.43.83 dari port 443 menuju port 32973 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 192.168.43.83 mengirimkan data kepada IP 74.125.130.94 dari port 32973 menuju port 443 dengan data sebesar 44 bytes

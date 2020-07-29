@@ -1,0 +1,46 @@
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.6 dengan IP 74.125.130.94 berakhir dengan mengirim nilai ACK 1274575921
+[TCP <FIN+ACK>]	 Koneksi antara IP 74.125.130.94 dengan IP 192.168.1.6 berakhir dengan mengirim nilai ACK 3658808508
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.130.94 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 3658808508 ke IP 74.125.130.94
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 74.125.130.94 diakui dengan mengirim nilai ACK 1274575922 ke IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 74.125.130.94 diakui dengan mengirim nilai ACK 1274575922 ke IP 192.168.1.6
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 74.125.130.94 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 3658808508ke IP74.125.130.94 namun perangkat dengan IP 192.168.1.6 tidak sedang menunggu koneksi dari IP 74.125.130.94 sehingga koneksi dibatalkan
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 172.253.118.156 diakui dengan mengirim nilai ACK 1058952510 ke IP 192.168.1.6 kemudian data dari 192.168.1.6 harus segera dikirimkan kepada IP 172.253.118.156
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 172.253.118.156 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 3661991978 ke IP 172.253.118.156 kemudian data dari 172.253.118.156 harus segera dikirimkan kepada IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 172.253.118.156 diakui dengan mengirim nilai ACK 1058952549 ke IP 192.168.1.6
+[TCP <FIN+ACK>]	 Koneksi antara IP 96.126.104.241 dengan IP 192.168.1.6 berakhir dengan mengirim nilai ACK 282199786
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 96.126.104.241 diakui dengan mengirim nilai ACK 2241875001 ke IP 192.168.1.6
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.6 dengan IP 96.126.104.241 berakhir dengan mengirim nilai ACK 2241875001
+[TCP <ACK>]	 Permintaan koneksi dari IP 96.126.104.241 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 282199787 ke IP 96.126.104.241
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 172.217.194.132 diakui dengan mengirim nilai ACK 3828847858 ke IP 192.168.1.6 kemudian data dari 192.168.1.6 harus segera dikirimkan kepada IP 172.217.194.132
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 172.217.194.132 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 2551428193 ke IP 172.217.194.132 kemudian data dari 172.217.194.132 harus segera dikirimkan kepada IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 172.217.194.132 diakui dengan mengirim nilai ACK 3828847897 ke IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 36.92.233.205 diakui dengan mengirim nilai ACK 3811596156 ke IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 36.92.233.205 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 2199481936 ke IP 36.92.233.205
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 216.239.38.120 diakui dengan mengirim nilai ACK 500988040 ke IP 192.168.1.6 kemudian data dari 192.168.1.6 harus segera dikirimkan kepada IP 216.239.38.120
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 74.125.24.149 diakui dengan mengirim nilai ACK 3648772612 ke IP 192.168.1.6 kemudian data dari 192.168.1.6 harus segera dikirimkan kepada IP 74.125.24.149
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.149 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 1537270440 ke IP 74.125.24.149 kemudian data dari 74.125.24.149 harus segera dikirimkan kepada IP 192.168.1.6
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 216.239.38.120 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 3357462406 ke IP 216.239.38.120 kemudian data dari 216.239.38.120 harus segera dikirimkan kepada IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 74.125.24.149 diakui dengan mengirim nilai ACK 3648772651 ke IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 216.239.38.120 diakui dengan mengirim nilai ACK 500988079 ke IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 36.92.233.204 diakui dengan mengirim nilai ACK 3535091834 ke IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 36.92.233.204 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 2196356976 ke IP 36.92.233.204
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 172.217.27.14 diakui dengan mengirim nilai ACK 2775957864 ke IP 192.168.1.6 kemudian data dari 192.168.1.6 harus segera dikirimkan kepada IP 172.217.27.14
+[TCP <ACK>]	 Permintaan koneksi dari IP 172.217.27.14 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 2257940067 ke IP 172.217.27.14
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 172.217.27.14 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 2257940067 ke IP 172.217.27.14 kemudian data dari 172.217.27.14 harus segera dikirimkan kepada IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 172.217.27.14 diakui dengan mengirim nilai ACK 2775957903 ke IP 192.168.1.6
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 74.125.24.93 diakui dengan mengirim nilai ACK 2057401015 ke IP 192.168.1.6 kemudian data dari 192.168.1.6 harus segera dikirimkan kepada IP 74.125.24.93
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 74.125.24.93 diakui dengan mengirim nilai ACK 2057401015 ke IP 192.168.1.6 kemudian data dari 192.168.1.6 harus segera dikirimkan kepada IP 74.125.24.93
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.93 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 522670697 ke IP 74.125.24.93
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.93 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 522671236 ke IP 74.125.24.93
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.93 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 522671236 ke IP 74.125.24.93 kemudian data dari 74.125.24.93 harus segera dikirimkan kepada IP 192.168.1.6
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.93 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 522671236 ke IP 74.125.24.93 kemudian data dari 74.125.24.93 harus segera dikirimkan kepada IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 74.125.24.93 diakui dengan mengirim nilai ACK 2057401536 ke IP 192.168.1.6
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.93 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 522671236 ke IP 74.125.24.93 kemudian data dari 74.125.24.93 harus segera dikirimkan kepada IP 192.168.1.6
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.93 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 522671236 ke IP 74.125.24.93 kemudian data dari 74.125.24.93 harus segera dikirimkan kepada IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 74.125.24.93 diakui dengan mengirim nilai ACK 2057401848 ke IP 192.168.1.6
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 74.125.24.93 diakui dengan mengirim nilai ACK 2057401848 ke IP 192.168.1.6 kemudian data dari 192.168.1.6 harus segera dikirimkan kepada IP 74.125.24.93
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.93 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 522671275 ke IP 74.125.24.93
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 74.125.130.94 diakui dengan mengirim nilai ACK 3862575526 ke IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.130.94 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 1976306041 ke IP 74.125.130.94
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 180.150.245.81 diakui dengan mengirim nilai ACK 204474815 ke IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 180.150.245.81 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 1054512366 ke IP 180.150.245.81

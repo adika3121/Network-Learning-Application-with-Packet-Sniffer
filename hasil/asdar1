@@ -1,0 +1,3 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 40.100.49.2 kepada IP 10.164.97.162 diakui dengan mengirim nilai ACK 2020528833 ke IP 40.100.49.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.164.97.162 kepada IP 40.100.49.2 diakui dengan mengirim nilai ACK 1494573384 ke IP 10.164.97.162
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 13.107.42.254 kepada IP 10.164.97.162 diakui dengan mengirim nilai ACK 1966005632ke IP13.107.42.254 namun perangkat dengan IP 10.164.97.162 tidak sedang menunggu koneksi dari IP 13.107.42.254 sehingga koneksi dibatalkan

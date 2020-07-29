@@ -1,0 +1,10 @@
+[UDP]	 Pengguna dengan IP 192.168.1.5 mengirimkan data kepada IP 239.255.255.250 dari port 53113 menuju port 1900 dengan data sebesar 133 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.5 mengirimkan data kepada IP 239.255.255.250 dari port 53113 menuju port 1900 dengan data sebesar 133 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.5 mengirimkan data kepada IP 239.255.255.250 dari port 53113 menuju port 1900 dengan data sebesar 133 bytes
+[DNS]	 Pengguna dengan IP 192.168.1.5bertanya alamat IP darib'_googlecast._tcp.local.'kepada DNS Server dengan IP 224.0.0.251
+[DNS]	 Pengguna dengan IP fe80::7c87:4c2b:2e76:a5d6bertanya alamat IP darib'config.edge.skype.com.'kepada DNS Server dengan IP fe80::1
+[DNS]	 Pengguna dengan IP fe80::7c87:4c2b:2e76:a5d6bertanya alamat IP darib'gql.tokopedia.com.'kepada DNS Server dengan IP fe80::1
+[DNS]	 Pengguna dengan IP fe80::dc6f:9862:6284:7165bertanya alamat IP darib'stackoverflow.com.'kepada DNS Server dengan IP fe80::1
+[DNS]	 Pengguna dengan IP fe80::dc6f:9862:6284:7165bertanya alamat IP darib'client.hola.org.'kepada DNS Server dengan IP fe80::1
+[DNS]	 Pengguna dengan IP 192.168.1.4bertanya alamat IP darib'stackoverflow.com.'kepada DNS Server dengan IP 118.98.44.100
+[DNS]	 Pengguna dengan IP 192.168.1.4bertanya alamat IP darib'client.hola.org.'kepada DNS Server dengan IP 118.98.44.100

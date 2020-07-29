@@ -1,0 +1,117 @@
+{
+	"Global Header" : {
+		"magic_number" : {
+			"data" : "d4 c3 b2 a1",
+			"byteorder" : "little",
+			"nanosecond" : false
+		},
+		"version_major" : 2,
+		"version_minor" : 4,
+		"thiszone" : 0,
+		"sigfigs" : 0,
+		"snaplen" : 65535,
+		"network" : "No.1 ETHERNET",
+		"packet" : "d4 c3 b2 a1 02 00 04 00 00 00 00 00 00 00 00 00 ff ff 00 00 01 00 00 00"
+	},
+	"Frame 1" : {
+		"frame_info" : {
+			"ts_sec" : 1580356029,
+			"ts_usec" : 733694,
+			"incl_len" : 74,
+			"orig_len" : 74
+		},
+		"time" : "2020-01-30T11:47:09.733694Z",
+		"number" : 1,
+		"time_epoch" : 1580356029.733694,
+		"len" : 74,
+		"cap_len" : 74,
+		"packet" : "c2 87 eb 40 f2 2f c0 25 e9 2f 6e c3 08 00 45 00 00 3c 4f 18 40 00 40 06 78 2c c0 a8 2b 53 23 e0 63 9c 8b 82 00 50 07 71 e7 b3 00 00 00 00 a0 02 fa f0 6d 23 00 00 02 04 05 b4 04 02 08 0a 99 19 58 63 00 00 00 00 01 03 03 07",
+		"ethernet" : {
+			"dst" : "c2-87-eb-40-f2-2f",
+			"src" : "c0-25-e9-2f-6e-c3",
+			"type" : "No.2048 Internet Protocol version 4 (IPv4)",
+			"packet" : {
+				"header" : "c2 87 eb 40 f2 2f c0 25 e9 2f 6e c3 08 00",
+				"payload" : "45 00 00 3c 4f 18 40 00 40 06 78 2c c0 a8 2b 53 23 e0 63 9c 8b 82 00 50 07 71 e7 b3 00 00 00 00 a0 02 fa f0 6d 23 00 00 02 04 05 b4 04 02 08 0a 99 19 58 63 00 00 00 00 01 03 03 07"
+			},
+			"ipv4" : {
+				"version" : "4",
+				"hdr_len" : 20,
+				"dsfield" : {
+					"dscp" : [ "No.0 Routine", "No.0 NORMAL", "No.0 NORMAL", "No.0 NORMAL" ],
+					"ecn" : "No.0 Not-ECT"
+				},
+				"len" : 60,
+				"id" : 20248,
+				"flags" : {
+					"df" : true,
+					"mf" : false
+				},
+				"frag_offset" : 0,
+				"ttl" : 64,
+				"proto" : "No.6 TCP",
+				"checksum" : "78 2c",
+				"src" : "192.168.43.83",
+				"dst" : "35.224.99.156",
+				"packet" : {
+					"header" : "45 00 00 3c 4f 18 40 00 40 06 78 2c c0 a8 2b 53 23 e0 63 9c",
+					"payload" : "8b 82 00 50 07 71 e7 b3 00 00 00 00 a0 02 fa f0 6d 23 00 00 02 04 05 b4 04 02 08 0a 99 19 58 63 00 00 00 00 01 03 03 07"
+				},
+				"tcp" : {
+					"srcport" : 35714,
+					"dstport" : 80,
+					"seq" : 124905395,
+					"ack" : 0,
+					"hdr_len" : 40,
+					"flags" : {
+						"ns" : false,
+						"cwr" : false,
+						"ece" : false,
+						"urg" : false,
+						"ack" : false,
+						"psh" : false,
+						"rst" : false,
+						"syn" : true,
+						"fin" : false
+					},
+					"window_size" : 64240,
+					"checksum" : "6d 23",
+					"urgent_pointer" : 0,
+					"opt" : [ "No.2 MSS", "No.4 SACKPMT", "No.8 TS", "No.1 NOP", "No.3 WS" ],
+					"mss" : {
+						"kind" : 2,
+						"length" : 2,
+						"data" : 1460
+					},
+					"sackpmt" : {
+						"kind" : 4,
+						"length" : 2,
+						"flag" : true
+					},
+					"ts" : {
+						"kind" : 8,
+						"length" : 8,
+						"val" : 2568575075,
+						"ecr" : 0
+					},
+					"nop" : {
+						"kind" : 1,
+						"length" : 1
+					},
+					"ws" : {
+						"kind" : 3,
+						"length" : 1,
+						"data" : 7
+					},
+					"packet" : {
+						"header" : "8b 82 00 50 07 71 e7 b3 00 00 00 00 a0 02 fa f0 6d 23 00 00 02 04 05 b4 04 02 08 0a 99 19 58 63 00 00 00 00 01 03 03 07",
+						"payload" : ""
+					},
+					"nopayload" : {
+					}
+				}
+			}
+		},
+		"protocols" : "Ethernet:IPv4:TCP"
+	}
+}

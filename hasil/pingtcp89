@@ -1,0 +1,50 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 151.101.66.114 diakui dengan mengirim nilai ACK 2888456962 ke IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.66.114 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3943793465 ke IP 151.101.66.114
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 103.6.117.2 diakui dengan mengirim nilai ACK 521112940 ke IP 192.168.76.225 kemudian data dari 192.168.76.225 harus segera dikirimkan kepada IP 103.6.117.2
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 103.6.117.2 diakui dengan mengirim nilai ACK 521112940 ke IP 192.168.76.225 kemudian data dari 192.168.76.225 harus segera dikirimkan kepada IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097653 ke IP 103.6.117.2
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097653 ke IP 103.6.117.2 kemudian data dari 103.6.117.2 harus segera dikirimkan kepada IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 103.6.117.2 diakui dengan mengirim nilai ACK 521113261 ke IP 192.168.76.225
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097653 ke IP 103.6.117.2 kemudian data dari 103.6.117.2 harus segera dikirimkan kepada IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 103.6.117.2 diakui dengan mengirim nilai ACK 521113300 ke IP 192.168.76.225
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 103.6.117.2 diakui dengan mengirim nilai ACK 521113300 ke IP 192.168.76.225 kemudian data dari 192.168.76.225 harus segera dikirimkan kepada IP 103.6.117.2
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 103.6.117.2 diakui dengan mengirim nilai ACK 521113300 ke IP 192.168.76.225 kemudian data dari 192.168.76.225 harus segera dikirimkan kepada IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2 kemudian data dari 103.6.117.2 harus segera dikirimkan kepada IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 103.6.117.2 diakui dengan mengirim nilai ACK 521131154 ke IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 103.6.117.2 diakui dengan mengirim nilai ACK 521141290 ke IP 192.168.76.225
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 52.220.105.163 diakui dengan mengirim nilai ACK 330906602 ke IP 192.168.76.225 namun perangkat dengan IP 52.220.105.163 tidak sedang menunggu koneksi dari IP 192.168.76.225 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 52.220.105.163 diakui dengan mengirim nilai ACK 787031390 ke IP 192.168.76.225 namun perangkat dengan IP 52.220.105.163 tidak sedang menunggu koneksi dari IP 192.168.76.225 sehingga koneksi dibatalkan
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 103.6.117.2 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3528097770 ke IP 103.6.117.2 kemudian data dari 103.6.117.2 harus segera dikirimkan kepada IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 103.6.117.2 diakui dengan mengirim nilai ACK 521145796 ke IP 192.168.76.225
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 13.35.19.21 diakui dengan mengirim nilai ACK 50965276 ke IP 192.168.76.225 kemudian data dari 192.168.76.225 harus segera dikirimkan kepada IP 13.35.19.21
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 23.200.230.137 diakui dengan mengirim nilai ACK 3519266069 ke IP 192.168.76.225 kemudian data dari 192.168.76.225 harus segera dikirimkan kepada IP 23.200.230.137
+[TCP <SYN>]	 Pengguna dengan IP 192.168.76.225 mencoba membuat koneksi baru dengan IP 23.66.105.3 dengan mengirim nilai SYN 3089475372 ke IP 23.66.105.3
+[TCP <SYN>]	 Pengguna dengan IP 192.168.76.225 mencoba membuat koneksi baru dengan IP 192.168.76.1 dengan mengirim nilai SYN 2572735658 ke IP 192.168.76.1
+[TCP <SYN>]	 Pengguna dengan IP 192.168.76.225 mencoba membuat koneksi baru dengan IP 205.185.216.42 dengan mengirim nilai SYN 70260525 ke IP 205.185.216.42
+[TCP <SYN>]	 Pengguna dengan IP 192.168.76.225 mencoba membuat koneksi baru dengan IP 205.185.216.42 dengan mengirim nilai SYN 579998900 ke IP 205.185.216.42
+[TCP <SYN>]	 Pengguna dengan IP 192.168.76.225 mencoba membuat koneksi baru dengan IP 205.185.216.42 dengan mengirim nilai SYN 3389128393 ke IP 205.185.216.42
+[TCP <SYN>]	 Pengguna dengan IP 192.168.76.225 mencoba membuat koneksi baru dengan IP 205.185.216.42 dengan mengirim nilai SYN 109686245 ke IP 205.185.216.42
+[TCP <SYN>]	 Pengguna dengan IP 192.168.76.225 mencoba membuat koneksi baru dengan IP 205.185.216.42 dengan mengirim nilai SYN 1189709223 ke IP 205.185.216.42

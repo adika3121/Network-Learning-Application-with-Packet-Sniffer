@@ -1,0 +1,4 @@
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.4 mencoba membuat koneksi baru dengan IP 149.154.167.51 dengan mengirim nilai SYN 3046706196 ke IP 149.154.167.51
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.4 mencoba membuat koneksi baru dengan IP 149.154.167.50 dengan mengirim nilai SYN 3940467721 ke IP 149.154.167.50
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.4 mencoba membuat koneksi baru dengan IP 13.107.4.52 dengan mengirim nilai SYN 3495742102 ke IP 13.107.4.52
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 13.107.4.52 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 3495742103 ke IP 13.107.4.52 kemudian IP 13.107.4.52 mencoba membuat koneksi baru dengan IP 192.168.1.4 dengan nilai SYN 1814317171

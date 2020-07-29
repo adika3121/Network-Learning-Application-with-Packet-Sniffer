@@ -1,0 +1,241 @@
+[
+  {
+    "_index": "packets-2020-05-20",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame": {
+          "frame.encap_type": "1",
+          "frame.time": "May 20, 2020 12:40:46.953250000 Malay Peninsula Standard Time",
+          "frame.offset_shift": "0.000000000",
+          "frame.time_epoch": "1589949646.953250000",
+          "frame.time_delta": "0.000000000",
+          "frame.time_delta_displayed": "0.000000000",
+          "frame.time_relative": "0.000000000",
+          "frame.number": "1",
+          "frame.len": "98",
+          "frame.cap_len": "98",
+          "frame.marked": "0",
+          "frame.ignored": "0",
+          "frame.protocols": "eth:ethertype:ipv6:udp:dns"
+        },
+        "eth": {
+          "eth.dst": "88:5d:fb:e2:a5:be",
+          "eth.dst_tree": {
+            "eth.dst_resolved": "zte_e2:a5:be",
+            "eth.dst.oui": "8936955",
+            "eth.dst.oui_resolved": "zte corporation",
+            "eth.addr": "88:5d:fb:e2:a5:be",
+            "eth.addr_resolved": "zte_e2:a5:be",
+            "eth.addr.oui": "8936955",
+            "eth.addr.oui_resolved": "zte corporation",
+            "eth.dst.lg": "0",
+            "eth.lg": "0",
+            "eth.dst.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.src": "4c:bb:58:a4:b8:8e",
+          "eth.src_tree": {
+            "eth.src_resolved": "ChiconyE_a4:b8:8e",
+            "eth.src.oui": "5028696",
+            "eth.src.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.addr": "4c:bb:58:a4:b8:8e",
+            "eth.addr_resolved": "ChiconyE_a4:b8:8e",
+            "eth.addr.oui": "5028696",
+            "eth.addr.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.src.lg": "0",
+            "eth.lg": "0",
+            "eth.src.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.type": "0x000086dd"
+        },
+        "ipv6": {
+          "ipv6.version": "6",
+          "ip.version": "6",
+          "ipv6.tclass": "0x00000000",
+          "ipv6.tclass_tree": {
+            "ipv6.tclass.dscp": "0",
+            "ipv6.tclass.ecn": "0"
+          },
+          "ipv6.flow": "0x000ad3e7",
+          "ipv6.plen": "44",
+          "ipv6.nxt": "17",
+          "ipv6.hlim": "255",
+          "ipv6.src": "fe80::dc6f:9862:6284:7165",
+          "ipv6.addr": "fe80::dc6f:9862:6284:7165",
+          "ipv6.src_host": "fe80::dc6f:9862:6284:7165",
+          "ipv6.host": "fe80::dc6f:9862:6284:7165",
+          "ipv6.dst": "fe80::1",
+          "ipv6.addr": "fe80::1",
+          "ipv6.dst_host": "fe80::1",
+          "ipv6.host": "fe80::1"
+        },
+        "udp": {
+          "udp.srcport": "54912",
+          "udp.dstport": "53",
+          "udp.port": "54912",
+          "udp.port": "53",
+          "udp.length": "44",
+          "udp.checksum": "0x0000a528",
+          "udp.checksum.status": "2",
+          "udp.stream": "0",
+          "Timestamps": {
+            "udp.time_relative": "0.000000000",
+            "udp.time_delta": "0.000000000"
+          }
+        },
+        "dns": {
+          "dns.id": "0x000070e6",
+          "dns.flags": "0x00000100",
+          "dns.flags_tree": {
+            "dns.flags.response": "0",
+            "dns.flags.opcode": "0",
+            "dns.flags.truncated": "0",
+            "dns.flags.recdesired": "1",
+            "dns.flags.z": "0",
+            "dns.flags.checkdisable": "0"
+          },
+          "dns.count.queries": "1",
+          "dns.count.answers": "0",
+          "dns.count.auth_rr": "0",
+          "dns.count.add_rr": "0",
+          "Queries": {
+            "blog.softhints.com: type A, class IN": {
+              "dns.qry.name": "blog.softhints.com",
+              "dns.qry.name.len": "18",
+              "dns.count.labels": "3",
+              "dns.qry.type": "1",
+              "dns.qry.class": "0x00000001"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-05-20",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame": {
+          "frame.encap_type": "1",
+          "frame.time": "May 20, 2020 12:40:46.979308000 Malay Peninsula Standard Time",
+          "frame.offset_shift": "0.000000000",
+          "frame.time_epoch": "1589949646.979308000",
+          "frame.time_delta": "0.026058000",
+          "frame.time_delta_displayed": "0.026058000",
+          "frame.time_relative": "0.026058000",
+          "frame.number": "2",
+          "frame.len": "78",
+          "frame.cap_len": "78",
+          "frame.marked": "0",
+          "frame.ignored": "0",
+          "frame.protocols": "eth:ethertype:ip:udp:dns"
+        },
+        "eth": {
+          "eth.dst": "88:5d:fb:e2:a5:be",
+          "eth.dst_tree": {
+            "eth.dst_resolved": "zte_e2:a5:be",
+            "eth.dst.oui": "8936955",
+            "eth.dst.oui_resolved": "zte corporation",
+            "eth.addr": "88:5d:fb:e2:a5:be",
+            "eth.addr_resolved": "zte_e2:a5:be",
+            "eth.addr.oui": "8936955",
+            "eth.addr.oui_resolved": "zte corporation",
+            "eth.dst.lg": "0",
+            "eth.lg": "0",
+            "eth.dst.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.src": "4c:bb:58:a4:b8:8e",
+          "eth.src_tree": {
+            "eth.src_resolved": "ChiconyE_a4:b8:8e",
+            "eth.src.oui": "5028696",
+            "eth.src.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.addr": "4c:bb:58:a4:b8:8e",
+            "eth.addr_resolved": "ChiconyE_a4:b8:8e",
+            "eth.addr.oui": "5028696",
+            "eth.addr.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.src.lg": "0",
+            "eth.lg": "0",
+            "eth.src.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.type": "0x00000800"
+        },
+        "ip": {
+          "ip.version": "4",
+          "ip.hdr_len": "20",
+          "ip.dsfield": "0x00000000",
+          "ip.dsfield_tree": {
+            "ip.dsfield.dscp": "0",
+            "ip.dsfield.ecn": "0"
+          },
+          "ip.len": "64",
+          "ip.id": "0x0000f6f4",
+          "ip.flags": "0x00000000",
+          "ip.flags_tree": {
+            "ip.flags.rb": "0",
+            "ip.flags.df": "0",
+            "ip.flags.mf": "0"
+          },
+          "ip.frag_offset": "0",
+          "ip.ttl": "128",
+          "ip.proto": "17",
+          "ip.checksum": "0x0000df44",
+          "ip.checksum.status": "2",
+          "ip.src": "192.168.1.5",
+          "ip.addr": "192.168.1.5",
+          "ip.src_host": "192.168.1.5",
+          "ip.host": "192.168.1.5",
+          "ip.dst": "118.98.44.100",
+          "ip.addr": "118.98.44.100",
+          "ip.dst_host": "118.98.44.100",
+          "ip.host": "118.98.44.100"
+        },
+        "udp": {
+          "udp.srcport": "54912",
+          "udp.dstport": "53",
+          "udp.port": "54912",
+          "udp.port": "53",
+          "udp.length": "44",
+          "udp.checksum": "0x00008673",
+          "udp.checksum.status": "2",
+          "udp.stream": "1",
+          "Timestamps": {
+            "udp.time_relative": "0.000000000",
+            "udp.time_delta": "0.000000000"
+          }
+        },
+        "dns": {
+          "dns.id": "0x000070e6",
+          "dns.flags": "0x00000100",
+          "dns.flags_tree": {
+            "dns.flags.response": "0",
+            "dns.flags.opcode": "0",
+            "dns.flags.truncated": "0",
+            "dns.flags.recdesired": "1",
+            "dns.flags.z": "0",
+            "dns.flags.checkdisable": "0"
+          },
+          "dns.count.queries": "1",
+          "dns.count.answers": "0",
+          "dns.count.auth_rr": "0",
+          "dns.count.add_rr": "0",
+          "Queries": {
+            "blog.softhints.com: type A, class IN": {
+              "dns.qry.name": "blog.softhints.com",
+              "dns.qry.name.len": "18",
+              "dns.count.labels": "3",
+              "dns.qry.type": "1",
+              "dns.qry.class": "0x00000001"
+            }
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 35.186.224.53 diakui dengan mengirim nilai ACK 2796833891 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 35.186.224.53 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 4281820747 ke IP 35.186.224.53
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 1960720605 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 104.93.223.90 diakui dengan mengirim nilai ACK 2887152987 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 104.93.223.90 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 804750084 ke IP 104.93.223.90
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.40.134 diakui dengan mengirim nilai ACK 1954490492 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.40.134 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 2095358407 ke IP 151.101.40.134
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 209.191.163.210 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 3476438643 ke IP 209.191.163.210 kemudian data dari 209.191.163.210 harus segera dikirimkan kepada IP 192.168.1.5
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 209.191.163.210 diakui dengan mengirim nilai ACK 915748448 ke IP 192.168.1.5 kemudian data dari 192.168.1.5 harus segera dikirimkan kepada IP 209.191.163.210
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.5 dengan IP 209.191.163.210 berakhir dengan mengirim nilai ACK 915748448
+[TCP <FIN+ACK>]	 Koneksi antara IP 209.191.163.210 dengan IP 192.168.1.5 berakhir dengan mengirim nilai ACK 3476438643
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 209.191.163.210 diakui dengan mengirim nilai ACK 915748449 ke IP 192.168.1.5
+[TCP <RST>]	 Perangkat dengan IP 192.168.1.5 tidak sedang menunggu koneksi dari IP 209.191.163.210 sehingga koneksi dibatalkan

@@ -1,0 +1,2 @@
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.43.87 kepada IP 172.217.194.132 diakui dengan mengirim nilai ACK 4034222339 ke IP 192.168.43.87 kemudian data dari 192.168.43.87 harus segera dikirimkan kepada IP 172.217.194.132
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.43.87 kepada IP 172.217.194.132 diakui dengan mengirim nilai ACK 4034222339 ke IP 192.168.43.87 kemudian data dari 192.168.43.87 harus segera dikirimkan kepada IP 172.217.194.132

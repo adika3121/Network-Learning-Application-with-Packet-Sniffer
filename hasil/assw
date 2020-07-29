@@ -1,0 +1,3 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 104.93.211.225 diakui dengan mengirim nilai ACK 1687807044 ke IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 104.16.31.34 diakui dengan mengirim nilai ACK 3187625481 ke IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 104.93.211.225 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 4158367937 ke IP 104.93.211.225

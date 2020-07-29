@@ -1,0 +1,10 @@
+[UDP]	 Pengguna dengan IP 192.168.1.9 mengirimkan data kepada IP 239.255.255.250 dari port 62146 menuju port 1900 dengan data sebesar 182 bytes
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 151.101.65.69 diakui dengan mengirim nilai ACK 1960165834 ke IP 192.168.1.8 kemudian data dari 192.168.1.8 harus segera dikirimkan kepada IP 151.101.65.69
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 151.101.65.69 diakui dengan mengirim nilai ACK 1960165834 ke IP 192.168.1.8 kemudian data dari 192.168.1.8 harus segera dikirimkan kepada IP 151.101.65.69
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 151.101.65.69 diakui dengan mengirim nilai ACK 1960165834 ke IP 192.168.1.8 kemudian data dari 192.168.1.8 harus segera dikirimkan kepada IP 151.101.65.69
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 151.101.65.69 diakui dengan mengirim nilai ACK 1960165834 ke IP 192.168.1.8 kemudian data dari 192.168.1.8 harus segera dikirimkan kepada IP 151.101.65.69
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 151.101.65.69 diakui dengan mengirim nilai ACK 1960165834 ke IP 192.168.1.8 kemudian data dari 192.168.1.8 harus segera dikirimkan kepada IP 151.101.65.69
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 151.101.65.69 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 1024984740 ke IP 151.101.65.69 kemudian data dari 151.101.65.69 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 151.101.65.69 diakui dengan mengirim nilai ACK 1960165893 ke IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.65.69 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 1024984814 ke IP 151.101.65.69
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.65.69 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 1024984814 ke IP 151.101.65.69

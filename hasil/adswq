@@ -1,0 +1,2 @@
+[UDP]	 Pengguna dengan IP 10.10.20.30 mengirimkan data kepada IP 239.255.255.250 dari port 63194 menuju port 1900 dengan data sebesar 182 bytes
+[UDP]	 Pengguna dengan IP 10.10.22.7 mengirimkan data kepada IP 239.255.255.250 dari port 45460 menuju port 1900 dengan data sebesar 133 bytes

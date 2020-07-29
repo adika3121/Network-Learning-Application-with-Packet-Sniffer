@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Preferred" vsizetype="Expanding">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 #90caf9, stop:1 #a6d4fa);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="label">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <family>Lato Heavy</family>
+        <pointsize>18</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Glosarium</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QFrame" name="frame">
+      <property name="frameShape">
+       <enum>QFrame::StyledPanel</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Raised</enum>
+      </property>
+      <layout class="QHBoxLayout" name="horizontalLayout">
+       <item>
+        <widget class="QFrame" name="frame_3">
+         <property name="maximumSize">
+          <size>
+           <width>150</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <layout class="QVBoxLayout" name="verticalLayout_2">
+          <item>
+           <widget class="QPushButton" name="sniff_app">
+            <property name="styleSheet">
+             <string notr="true">padding: 4px 15px;
+    font-size: 11px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+  background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #8C9EFF, stop: 1 #536DFE);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;</string>
+            </property>
+            <property name="text">
+             <string>Istilah Jaringan</string>
+            </property>
+            <property name="default">
+             <bool>false</bool>
+            </property>
+            <property name="flat">
+             <bool>false</bool>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="sekilas_protokol">
+            <property name="styleSheet">
+             <string notr="true">padding: 4px 4px;
+    font-size: 11px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+   background-color: #3949AB;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;</string>
+            </property>
+            <property name="text">
+             <string>Sekilas Tentang Protokol</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <spacer name="verticalSpacer">
+            <property name="orientation">
+             <enum>Qt::Vertical</enum>
+            </property>
+            <property name="sizeType">
+             <enum>QSizePolicy::Maximum</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>20</width>
+              <height>300</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+          <item>
+           <widget class="QPushButton" name="kembaliBtn">
+            <property name="styleSheet">
+             <string notr="true">padding: 4px 15px;
+    font-size: 11px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #3949AB;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;</string>
+            </property>
+            <property name="text">
+             <string>Kembali</string>
+            </property>
+            <property name="icon">
+             <iconset>
+              <normaloff>resource/1x/Asset 2.png</normaloff>resource/1x/Asset 2.png</iconset>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QFrame" name="frame_2">
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <layout class="QVBoxLayout" name="verticalLayout_3">
+          <item>
+           <widget class="QScrollArea" name="scrollArea">
+            <property name="widgetResizable">
+             <bool>true</bool>
+            </property>
+            <widget class="QWidget" name="scrollAreaWidgetContents">
+             <property name="geometry">
+              <rect>
+               <x>0</x>
+               <y>0</y>
+               <width>589</width>
+               <height>464</height>
+              </rect>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">background-color: rgb(255, 255, 255);</string>
+             </property>
+             <layout class="QVBoxLayout" name="verticalLayout_4">
+              <item>
+               <widget class="QTableWidget" name="tableWidget">
+                <attribute name="horizontalHeaderCascadingSectionResizes">
+                 <bool>false</bool>
+                </attribute>
+                <attribute name="horizontalHeaderStretchLastSection">
+                 <bool>true</bool>
+                </attribute>
+                <attribute name="verticalHeaderVisible">
+                 <bool>false</bool>
+                </attribute>
+                <attribute name="verticalHeaderCascadingSectionResizes">
+                 <bool>false</bool>
+                </attribute>
+                <attribute name="verticalHeaderDefaultSectionSize">
+                 <number>68</number>
+                </attribute>
+                <attribute name="verticalHeaderShowSortIndicator" stdset="0">
+                 <bool>false</bool>
+                </attribute>
+                <attribute name="verticalHeaderStretchLastSection">
+                 <bool>false</bool>
+                </attribute>
+                <row>
+                 <property name="text">
+                  <string>1</string>
+                 </property>
+                </row>
+                <row>
+                 <property name="text">
+                  <string>2</string>
+                 </property>
+                </row>
+                <row>
+                 <property name="text">
+                  <string>3</string>
+                 </property>
+                </row>
+                <row>
+                 <property name="text">
+                  <string>4</string>
+                 </property>
+                </row>
+                <row>
+                 <property name="text">
+                  <string>5</string>
+                 </property>
+                </row>
+                <row>
+                 <property name="text">
+                  <string>6</string>
+                 </property>
+                </row>
+                <row>
+                 <property name="text">
+                  <string>7</string>
+                 </property>
+                </row>
+                <row>
+                 <property name="text">
+                  <string>8</string>
+                 </property>
+                </row>
+                <row>
+                 <property name="text">
+                  <string>9</string>
+                 </property>
+                </row>
+                <row>
+                 <property name="text">
+                  <string>10</string>
+                 </property>
+                </row>
+                <row>
+                 <property name="text">
+                  <string>11</string>
+                 </property>
+                </row>
+                <row>
+                 <property name="text">
+                  <string>12</string>
+                 </property>
+                </row>
+                <row>
+                 <property name="text">
+                  <string>13</string>
+                 </property>
+                </row>
+                <row>
+                 <property name="text">
+                  <string>14</string>
+                 </property>
+                </row>
+                <column>
+                 <property name="text">
+                  <string>Istilah</string>
+                 </property>
+                </column>
+                <column>
+                 <property name="text">
+                  <string>Penjelasan</string>
+                 </property>
+                </column>
+                <item row="0" column="0">
+                 <property name="text">
+                  <string>IP Address</string>
+                 </property>
+                 <property name="textAlignment">
+                  <set>AlignLeading|AlignVCenter</set>
+                 </property>
+                </item>
+                <item row="0" column="1">
+                 <property name="text">
+                  <string>Sebaris angka yang dimiliki oleh sebuah perangkat komputer yang digunakan sebagai penanda suatu perangkat agar lebih mudah dihubungi dalam suatu jaringan </string>
+                 </property>
+                </item>
+                <item row="1" column="0">
+                 <property name="text">
+                  <string>Sniffing</string>
+                 </property>
+                </item>
+                <item row="1" column="1">
+                 <property name="text">
+                  <string>Sniffing adalah proses monitoring semua paket data yang lewat dalam suatu jaringan. Kegiatan ini umumnya dilakukan oleh network administrator untuk menganalisis apa yang sedang terjadi pada jaringan</string>
+                 </property>
+                </item>
+                <item row="2" column="0">
+                 <property name="text">
+                  <string>Interface</string>
+                 </property>
+                </item>
+                <item row="2" column="1">
+                 <property name="text">
+                  <string>Sebuah titik interkoneksi yang menghubungkan antara sebuah perangkat komputer dengan jaringan komputer. Umumnya Interface dapat berupa perangkat keras seperti Network Interface Card Wifi namun terkadang juga dapat berupa perangkat lunak seperti loopback interface</string>
+                 </property>
+                </item>
+                <item row="3" column="0">
+                 <property name="text">
+                  <string>Ethernet</string>
+                 </property>
+                </item>
+                <item row="3" column="1">
+                 <property name="text">
+                  <string>Teknologi jaringan yang biasa digunakan untuk membuat jaringan dengan kabel</string>
+                 </property>
+                </item>
+                <item row="4" column="0">
+                 <property name="text">
+                  <string>Wi-Fi</string>
+                 </property>
+                </item>
+                <item row="4" column="1">
+                 <property name="text">
+                  <string>Teknologi jaringan yang biasa digunakan untuk membuat jaringan secara nirkabel</string>
+                 </property>
+                </item>
+                <item row="5" column="0">
+                 <property name="text">
+                  <string>MAC Address</string>
+                 </property>
+                </item>
+                <item row="5" column="1">
+                 <property name="text">
+                  <string>Merupakan singkatan dari Media Access Control adalah sebuah metode identifikasi unik yang ditempatkan di setiap network interface controller untuk digunakan sebagai network address dalam komunikasi jaringan komputer</string>
+                 </property>
+                </item>
+                <item row="6" column="0">
+                 <property name="text">
+                  <string>SOA</string>
+                 </property>
+                </item>
+                <item row="6" column="1">
+                 <property name="text">
+                  <string>Singkatan dari Start Of Authority, adalah sebuah paket DNS yang berisikan informasi mengenai otoritas yang mengatur sebuah domain name</string>
+                 </property>
+                </item>
+                <item row="7" column="0">
+                 <property name="text">
+                  <string>SYN</string>
+                 </property>
+                </item>
+                <item row="7" column="1">
+                 <property name="text">
+                  <string>Singkatan dari Synchronize, adalah sebuah TCP packet yang biasa dikirim untuk meminta koneksi baru dibuat antar dua perangkat. Jika paket SYN diterima oleh perangkat kedua maka perangkat kedua akan mengirimkan pesan SYN/ACK kepada perangkat pengirim sebelumnya. </string>
+                 </property>
+                </item>
+                <item row="8" column="0">
+                 <property name="text">
+                  <string>ACK</string>
+                 </property>
+                </item>
+                <item row="8" column="1">
+                 <property name="text">
+                  <string>Singkatan dari Acknowlegment, merupakan paket dari TCP yang dikirimkan untuk menandakan bahwa permintaan diterima</string>
+                 </property>
+                </item>
+                <item row="9" column="0">
+                 <property name="text">
+                  <string>PSH</string>
+                 </property>
+                </item>
+                <item row="9" column="1">
+                 <property name="text">
+                  <string>Sebuah paket dari TCP yang meminta untuk segera mengirimkan sebuah data kepada alamat penerima dengan mendorong data tersebut agar segera keluar dibandingkan dengan menunggu data lain keluar dari buffer</string>
+                 </property>
+                </item>
+                <item row="10" column="0">
+                 <property name="text">
+                  <string>URG</string>
+                 </property>
+                </item>
+                <item row="10" column="1">
+                 <property name="text">
+                  <string>Sebuah paket dari TCP yang apabila dikirim menandakan bahwa paket tersebut bersifat urgensi dan harus diprioritaskan dalam pengirimannya. </string>
+                 </property>
+                </item>
+                <item row="11" column="0">
+                 <property name="text">
+                  <string>RST</string>
+                 </property>
+                </item>
+                <item row="11" column="1">
+                 <property name="text">
+                  <string>Merupakan sebuah paket TCP yang akan dikirimkan apabila ada sebuah paket TCP tiba-tiba datang ke perangkat. Perangkat tersebut biasanya akan mengirmkan sebuah paket reset ke jaringan yang sama</string>
+                 </property>
+                </item>
+                <item row="12" column="0">
+                 <property name="text">
+                  <string>FIN</string>
+                 </property>
+                </item>
+                <item row="12" column="1">
+                 <property name="text">
+                  <string>Sebuah paket TCP yang biasanya digunakan untuk mengakhiri sebuah koneksi TCP. </string>
+                 </property>
+                </item>
+                <item row="13" column="0">
+                 <property name="text">
+                  <string>Port</string>
+                 </property>
+                </item>
+                <item row="13" column="1">
+                 <property name="text">
+                  <string>Titik akhir komunikasi yang digunakan untuk mengidentifikasi proses tertentu yang akan masuk ke perangkat melalui jaringan </string>
+                 </property>
+                </item>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="resource/glosarium/glosarium_sniffing.qrc"/>
+ </resources>
+ <connections/>
+</ui>

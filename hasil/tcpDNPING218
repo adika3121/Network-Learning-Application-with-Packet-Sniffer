@@ -1,0 +1,49 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.8.246 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 942996155 ke IP 151.101.8.246
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 52.46.130.13 diakui dengan mengirim nilai ACK 3971171408 ke IP 192.168.76.225
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 35.186.224.47 diakui dengan mengirim nilai ACK 2676459206 ke IP 192.168.76.225 kemudian data dari 192.168.76.225 harus segera dikirimkan kepada IP 35.186.224.47
+[TCP <ACK>]	 Permintaan koneksi dari IP 52.46.130.13 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 2987908980 ke IP 52.46.130.13
+[TCP <ACK>]	 Permintaan koneksi dari IP 35.186.224.47 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 1148296560 ke IP 35.186.224.47
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 35.186.224.47 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 1148296560 ke IP 35.186.224.47 kemudian data dari 35.186.224.47 harus segera dikirimkan kepada IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 35.186.224.47 diakui dengan mengirim nilai ACK 2676459237 ke IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 104.18.73.113 diakui dengan mengirim nilai ACK 3628429145 ke IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 104.18.73.113 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 4034280865 ke IP 104.18.73.113
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 151.101.8.246 diakui dengan mengirim nilai ACK 3545413342 ke IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 74.125.200.188 diakui dengan mengirim nilai ACK 900962996 ke IP 192.168.76.225
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.76.225 dengan IP 45.64.1.166 berakhir dengan mengirim nilai ACK 3157390456
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.76.225 dengan IP 45.64.1.166 berakhir dengan mengirim nilai ACK 1040806510
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.76.225 dengan IP 45.64.1.166 berakhir dengan mengirim nilai ACK 1571440985
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.76.225 dengan IP 45.64.1.166 berakhir dengan mengirim nilai ACK 227695757
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.76.225 dengan IP 45.64.1.166 berakhir dengan mengirim nilai ACK 1053313849
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.76.225 dengan IP 45.64.1.166 berakhir dengan mengirim nilai ACK 1056363039
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 157.240.208.14 diakui dengan mengirim nilai ACK 3180109018 ke IP 192.168.76.225 namun perangkat dengan IP 157.240.208.14 tidak sedang menunggu koneksi dari IP 192.168.76.225 sehingga koneksi dibatalkan
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.76.225 dengan IP 52.76.195.214 berakhir dengan mengirim nilai ACK 305119372
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 13.250.86.244 diakui dengan mengirim nilai ACK 3338170679 ke IP 192.168.76.225 namun perangkat dengan IP 13.250.86.244 tidak sedang menunggu koneksi dari IP 192.168.76.225 sehingga koneksi dibatalkan
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.8.246 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 2441336460 ke IP 151.101.8.246
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.200.188 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 1244137503 ke IP 74.125.200.188
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 52.72.24.241 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 1866227790 ke IP 52.72.24.241 kemudian data dari 52.72.24.241 harus segera dikirimkan kepada IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 52.72.24.241 diakui dengan mengirim nilai ACK 1459458516 ke IP 192.168.76.225
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 52.72.24.241 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 1866227790 ke IP 52.72.24.241 kemudian data dari 52.72.24.241 harus segera dikirimkan kepada IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 52.72.24.241 diakui dengan mengirim nilai ACK 1459458593 ke IP 192.168.76.225
+[TCP <FIN+ACK>]	 Koneksi antara IP 52.72.24.241 dengan IP 192.168.76.225 berakhir dengan mengirim nilai ACK 1866227790
+[TCP <SYN>]	 Pengguna dengan IP 192.168.76.225 mencoba membuat koneksi baru dengan IP 192.168.76.1 dengan mengirim nilai SYN 1284743398 ke IP 192.168.76.1
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.76.225 dengan IP 52.72.24.241 berakhir dengan mengirim nilai ACK 1459458594
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 192.168.76.1 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 1284743399 ke IP 192.168.76.1 kemudian IP 192.168.76.1 mencoba membuat koneksi baru dengan IP 192.168.76.225 dengan nilai SYN 3344599200
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 192.168.76.1 diakui dengan mengirim nilai ACK 3344599201 ke IP 192.168.76.225
+[DNS]	 Pengguna dengan IP 192.168.76.225 mencoba mengakses b'e6858.dsce9.akamaiedge.net.' yang beralamat pada IP  192.168.76.1
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.1 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 1284743445 ke IP 192.168.76.1
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 192.168.76.1 diakui dengan mengirim nilai ACK 3344599744 ke IP 192.168.76.225
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.76.225 dengan IP 192.168.76.1 berakhir dengan mengirim nilai ACK 3344599744
+[TCP <SYN>]	 Pengguna dengan IP 192.168.76.225 mencoba membuat koneksi baru dengan IP 23.200.231.157 dengan mengirim nilai SYN 86402839 ke IP 23.200.231.157
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.76.1 dengan IP 192.168.76.225 berakhir dengan mengirim nilai ACK 1284743446
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 192.168.76.1 diakui dengan mengirim nilai ACK 3344599745 ke IP 192.168.76.225
+[TCP <SYN>]	 Pengguna dengan IP 192.168.76.225 mencoba membuat koneksi baru dengan IP 23.200.231.157 dengan mengirim nilai SYN 2006821273 ke IP 23.200.231.157
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 104.17.120.107 diakui dengan mengirim nilai ACK 1097928053 ke IP 192.168.76.225
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 23.200.231.157 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 86402840 ke IP 23.200.231.157 kemudian IP 23.200.231.157 mencoba membuat koneksi baru dengan IP 192.168.76.225 dengan nilai SYN 3921257354
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 23.200.231.157 diakui dengan mengirim nilai ACK 3921257355 ke IP 192.168.76.225
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 23.200.231.157 diakui dengan mengirim nilai ACK 3921257355 ke IP 192.168.76.225 kemudian data dari 192.168.76.225 harus segera dikirimkan kepada IP 23.200.231.157
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.76.225 dengan IP 52.76.195.214 berakhir dengan mengirim nilai ACK 305119372
+[TCP <ACK>]	 Permintaan koneksi dari IP 52.72.24.241 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 1866227791 ke IP 52.72.24.241
+[TCP <ACK>]	 Permintaan koneksi dari IP 104.17.120.107 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3701437981 ke IP 104.17.120.107
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 35.213.32.16 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 1220571310 ke IP 35.213.32.16 kemudian data dari 35.213.32.16 harus segera dikirimkan kepada IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 35.213.32.16 diakui dengan mengirim nilai ACK 801582651 ke IP 192.168.76.225
+[TCP <FIN+ACK>]	 Koneksi antara IP 35.213.32.16 dengan IP 192.168.76.225 berakhir dengan mengirim nilai ACK 1220571310

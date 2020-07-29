@@ -1,0 +1,4 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.22.249 kepada IP 74.125.68.113 diakui dengan mengirim nilai ACK 1515324668 ke IP 10.10.22.249
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.68.113 kepada IP 10.10.22.249 diakui dengan mengirim nilai ACK 843028018 ke IP 74.125.68.113
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.22.249 kepada IP 172.217.194.138 diakui dengan mengirim nilai ACK 353705360 ke IP 10.10.22.249
+[TCP <ACK>]	 Permintaan koneksi dari IP 172.217.194.138 kepada IP 10.10.22.249 diakui dengan mengirim nilai ACK 776358790 ke IP 172.217.194.138

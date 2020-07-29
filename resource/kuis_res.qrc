@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="gambar">
+    <file>buku_icon_black.png</file>
+  </qresource>
+</RCC>

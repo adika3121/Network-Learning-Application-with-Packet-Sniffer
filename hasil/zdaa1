@@ -1,0 +1,8 @@
+[TCP <SYN>]	 Pengguna dengan IP 10.10.22.249 mencoba membuat koneksi baru dengan IP 8.8.8.8 dengan mengirim nilai SYN 1364694002 ke IP 8.8.8.8
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 8.8.8.8 kepada IP 10.10.22.249 diakui dengan mengirim nilai ACK 1364694003 ke IP 8.8.8.8 kemudian IP 8.8.8.8 mencoba membuat koneksi baru dengan IP 10.10.22.249 dengan nilai SYN 1495862386
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.22.249 kepada IP 8.8.8.8 diakui dengan mengirim nilai ACK 1495862387 ke IP 10.10.22.249
+[DNS]	 Pengguna dengan IP 10.10.22.249 mencoba mengakses b'www.google.com.' yang beralamat pada IP  8.8.8.8
+[DNS]	 Pengguna dengan IP 10.10.22.249 mencoba mengakses b'www.w3schools.com.' yang beralamat pada IP  8.8.8.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 8.8.8.8 kepada IP 10.10.22.249 diakui dengan mengirim nilai ACK 1364694037 ke IP 8.8.8.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.22.249 kepada IP 74.125.200.188 diakui dengan mengirim nilai ACK 3788912751 ke IP 10.10.22.249
+[TCP <ACK>]	 Permintaan koneksi dari IP 8.8.8.8 kepada IP 10.10.22.249 diakui dengan mengirim nilai ACK 1364694074 ke IP 8.8.8.8

@@ -1,0 +1,41 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 104.93.223.90 diakui dengan mengirim nilai ACK 2916967674 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 104.93.223.90 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 3199009172 ke IP 104.93.223.90
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 4178849032 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 4178849032 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 2121131212 ke IP 151.101.10.248
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 35.186.224.53 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 4281822123 ke IP 35.186.224.53 kemudian data dari 35.186.224.53 harus segera dikirimkan kepada IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633704665 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633704665 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3616030883 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3616030883 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633704665 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617610516 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617620680 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617620680 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617620680 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617633748 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617635200 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617635200 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617635200 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617641008 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617649720 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617652624 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617654076 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617655528 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617661336 ke IP 192.168.1.5
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633705813 ke IP 151.101.10.248 kemudian data dari 151.101.10.248 harus segera dikirimkan kepada IP 192.168.1.5
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3617662554 ke IP 192.168.1.5 kemudian data dari 192.168.1.5 harus segera dikirimkan kepada IP 151.101.10.248

@@ -1,0 +1,2 @@
+[UDP]	 Pengguna dengan IP 192.168.70.103 mengirimkan data kepada IP 192.168.70.255 dari port 8612 menuju port 8612 dengan data sebesar 24 bytes
+[UDP]	 Pengguna dengan IP 192.168.70.103 mengirimkan data kepada IP 192.168.70.255 dari port 8612 menuju port 8610 dengan data sebesar 24 bytes

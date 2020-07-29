@@ -1,0 +1,2 @@
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 118.98.99.110 diakui dengan mengirim nilai ACK 3762591184 ke IP 192.168.1.5 kemudian data dari 192.168.1.5 harus segera dikirimkan kepada IP 118.98.99.110
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.5 dengan IP 118.98.99.110 berakhir dengan mengirim nilai ACK 3762591184

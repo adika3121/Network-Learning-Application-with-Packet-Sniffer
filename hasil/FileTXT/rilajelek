@@ -1,0 +1,40 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 104.93.223.90 diakui dengan mengirim nilai ACK 1840265824 ke IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 87.248.100.136 diakui dengan mengirim nilai ACK 637701422 ke IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 104.93.223.90 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 1768130875 ke IP 104.93.223.90
+[TCP <ACK>]	 Permintaan koneksi dari IP 87.248.100.136 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 3532195209 ke IP 87.248.100.136
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461095423 ke IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308606 ke IP 106.10.250.10
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 74.125.130.188 diakui dengan mengirim nilai ACK 3538606475 ke IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.130.188 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 477468454 ke IP 74.125.130.188
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461095423 ke IP 192.168.1.2 kemudian data dari 192.168.1.2 harus segera dikirimkan kepada IP 106.10.250.10
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461095423 ke IP 192.168.1.2 kemudian data dari 192.168.1.2 harus segera dikirimkan kepada IP 106.10.250.10
+[TCP <ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308845 ke IP 106.10.250.10
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308845 ke IP 106.10.250.10 kemudian data dari 106.10.250.10 harus segera dikirimkan kepada IP 192.168.1.2
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308845 ke IP 106.10.250.10 kemudian data dari 106.10.250.10 harus segera dikirimkan kepada IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461095461 ke IP 192.168.1.2
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308845 ke IP 106.10.250.10 kemudian data dari 106.10.250.10 harus segera dikirimkan kepada IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461095461 ke IP 192.168.1.2
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308845 ke IP 106.10.250.10 kemudian data dari 106.10.250.10 harus segera dikirimkan kepada IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461095967 ke IP 192.168.1.2
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461095967 ke IP 192.168.1.2 kemudian data dari 192.168.1.2 harus segera dikirimkan kepada IP 106.10.250.10
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308931 ke IP 106.10.250.10 kemudian data dari 106.10.250.10 harus segera dikirimkan kepada IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461095967 ke IP 192.168.1.2
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308931 ke IP 106.10.250.10 kemudian data dari 106.10.250.10 harus segera dikirimkan kepada IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461096743 ke IP 192.168.1.2
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308931 ke IP 106.10.250.10 kemudian data dari 106.10.250.10 harus segera dikirimkan kepada IP 192.168.1.2
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308931 ke IP 106.10.250.10 kemudian data dari 106.10.250.10 harus segera dikirimkan kepada IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461096826 ke IP 192.168.1.2
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308931 ke IP 106.10.250.10 kemudian data dari 106.10.250.10 harus segera dikirimkan kepada IP 192.168.1.2
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308931 ke IP 106.10.250.10 kemudian data dari 106.10.250.10 harus segera dikirimkan kepada IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461097823 ke IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308931 ke IP 106.10.250.10
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461097823 ke IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308931 ke IP 106.10.250.10
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461100583 ke IP 192.168.1.2
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.2 mencoba membuat koneksi baru dengan IP 180.222.102.158 dengan mengirim nilai SYN 2278442202 ke IP 180.222.102.158
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.2 mencoba membuat koneksi baru dengan IP 36.86.63.182 dengan mengirim nilai SYN 3901194901 ke IP 36.86.63.182
+[TCP <ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308931 ke IP 106.10.250.10
+[TCP <ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308931 ke IP 106.10.250.10
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461101963 ke IP 192.168.1.2
+[TCP <ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 2197308931 ke IP 106.10.250.10
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.2 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 461101963 ke IP 192.168.1.2

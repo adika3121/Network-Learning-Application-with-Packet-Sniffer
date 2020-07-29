@@ -1,0 +1,2 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 100.80.207.153 kepada IP 151.101.128.134 diakui dengan mengirim nilai ACK 346352272 ke IP 100.80.207.153
+[TCP <FIN+ACK>]	 Koneksi antara IP 100.80.207.153 dengan IP 210.176.156.50 berakhir dengan mengirim nilai ACK 754633969

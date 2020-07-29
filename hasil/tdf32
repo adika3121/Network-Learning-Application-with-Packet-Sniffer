@@ -1,0 +1,7 @@
+[DNS]	 Pengguna dengan IP 192.168.1.33 mencoba mengakses b'gfs.line.naver.jp.' yang beralamat pada IP  118.98.44.10
+[DNS]	 Pengguna dengan IP 192.168.1.33 mencoba mengakses b'daisy.ubuntu.com.' yang beralamat pada IP  118.98.44.100
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.33 dengan IP 104.42.39.77 berakhir dengan mengirim nilai ACK 1785210115
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.33 dengan IP 74.125.200.100 berakhir dengan mengirim nilai ACK 1604579049
+[DNS]	 Pengguna dengan IP 192.168.1.33 mencoba mengakses b'daisy.ubuntu.com.' yang beralamat pada IP  118.98.44.10
+[DNS]	 Pengguna dengan IP 192.168.1.33 mencoba mengakses b'_ipps._tcp.local.' yang beralamat pada IP  224.0.0.251
+[DNS]	 Pengguna dengan IP 192.168.1.33 mencoba mengakses b'connectivity-check.ubuntu.com.' yang beralamat pada IP  118.98.44.10

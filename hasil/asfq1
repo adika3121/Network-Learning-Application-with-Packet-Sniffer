@@ -1,0 +1,3 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 117.18.237.29 kepada IP 100.80.207.153 diakui dengan mengirim nilai ACK 926273902 ke IP 117.18.237.29
+[TCP <ACK>]	 Permintaan koneksi dari IP 100.80.207.153 kepada IP 117.18.237.29 diakui dengan mengirim nilai ACK 463167806 ke IP 100.80.207.153
+[TCP <SYN>]	 Pengguna dengan IP 100.80.207.153 mencoba membuat koneksi baru dengan IP 210.210.178.70 dengan mengirim nilai SYN 2860571961 ke IP 210.210.178.70

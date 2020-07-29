@@ -1,0 +1,4 @@
+[TCP <SYN>]	 Pengguna dengan IP 192.168.70.103 mencoba membuat koneksi baru dengan IP 35.224.99.156 dengan mengirim nilai SYN 3502475050 ke IP 35.224.99.156
+[UDP]	 Pengguna dengan IP 192.168.70.106 mengirimkan data kepada IP 192.168.70.255 dari port 54915 menuju port 54915 dengan data sebesar 271 bytes
+[UDP]	 Pengguna dengan IP 192.168.70.106 mengirimkan data kepada IP 192.168.70.255 dari port 54915 menuju port 54915 dengan data sebesar 271 bytes
+[UDP]	 Pengguna dengan IP 192.168.70.106 mengirimkan data kepada IP 192.168.70.255 dari port 54915 menuju port 54915 dengan data sebesar 271 bytes

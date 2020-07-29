@@ -1,0 +1,202 @@
+[
+  {
+    "_index": "packets-2020-05-20",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame": {
+          "frame.encap_type": "1",
+          "frame.time": "May 20, 2020 12:38:23.453224000 Malay Peninsula Standard Time",
+          "frame.offset_shift": "0.000000000",
+          "frame.time_epoch": "1589949503.453224000",
+          "frame.time_delta": "0.000000000",
+          "frame.time_delta_displayed": "0.000000000",
+          "frame.time_relative": "0.000000000",
+          "frame.number": "1",
+          "frame.len": "74",
+          "frame.cap_len": "74",
+          "frame.marked": "0",
+          "frame.ignored": "0",
+          "frame.protocols": "eth:ethertype:ip:icmp:data"
+        },
+        "eth": {
+          "eth.dst": "88:5d:fb:e2:a5:be",
+          "eth.dst_tree": {
+            "eth.dst_resolved": "zte_e2:a5:be",
+            "eth.dst.oui": "8936955",
+            "eth.dst.oui_resolved": "zte corporation",
+            "eth.addr": "88:5d:fb:e2:a5:be",
+            "eth.addr_resolved": "zte_e2:a5:be",
+            "eth.addr.oui": "8936955",
+            "eth.addr.oui_resolved": "zte corporation",
+            "eth.dst.lg": "0",
+            "eth.lg": "0",
+            "eth.dst.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.src": "4c:bb:58:a4:b8:8e",
+          "eth.src_tree": {
+            "eth.src_resolved": "ChiconyE_a4:b8:8e",
+            "eth.src.oui": "5028696",
+            "eth.src.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.addr": "4c:bb:58:a4:b8:8e",
+            "eth.addr_resolved": "ChiconyE_a4:b8:8e",
+            "eth.addr.oui": "5028696",
+            "eth.addr.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.src.lg": "0",
+            "eth.lg": "0",
+            "eth.src.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.type": "0x00000800"
+        },
+        "ip": {
+          "ip.version": "4",
+          "ip.hdr_len": "20",
+          "ip.dsfield": "0x00000000",
+          "ip.dsfield_tree": {
+            "ip.dsfield.dscp": "0",
+            "ip.dsfield.ecn": "0"
+          },
+          "ip.len": "60",
+          "ip.id": "0x0000a860",
+          "ip.flags": "0x00000000",
+          "ip.flags_tree": {
+            "ip.flags.rb": "0",
+            "ip.flags.df": "0",
+            "ip.flags.mf": "0"
+          },
+          "ip.frag_offset": "0",
+          "ip.ttl": "128",
+          "ip.proto": "1",
+          "ip.checksum": "0x0000c0a3",
+          "ip.checksum.status": "2",
+          "ip.src": "192.168.1.5",
+          "ip.addr": "192.168.1.5",
+          "ip.src_host": "192.168.1.5",
+          "ip.host": "192.168.1.5",
+          "ip.dst": "8.8.8.8",
+          "ip.addr": "8.8.8.8",
+          "ip.dst_host": "8.8.8.8",
+          "ip.host": "8.8.8.8"
+        },
+        "icmp": {
+          "icmp.type": "8",
+          "icmp.code": "0",
+          "icmp.checksum": "0x00004d08",
+          "icmp.checksum.status": "1",
+          "icmp.ident": "1",
+          "icmp.ident": "256",
+          "icmp.seq": "83",
+          "icmp.seq_le": "21248",
+          "data": {
+            "data.data": "61:62:63:64:65:66:67:68:69:6a:6b:6c:6d:6e:6f:70:71:72:73:74:75:76:77:61:62:63:64:65:66:67:68:69",
+            "data.len": "32"
+          }
+        }
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-05-20",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame": {
+          "frame.encap_type": "1",
+          "frame.time": "May 20, 2020 12:38:23.484923000 Malay Peninsula Standard Time",
+          "frame.offset_shift": "0.000000000",
+          "frame.time_epoch": "1589949503.484923000",
+          "frame.time_delta": "0.031699000",
+          "frame.time_delta_displayed": "0.031699000",
+          "frame.time_relative": "0.031699000",
+          "frame.number": "2",
+          "frame.len": "74",
+          "frame.cap_len": "74",
+          "frame.marked": "0",
+          "frame.ignored": "0",
+          "frame.protocols": "eth:ethertype:ip:icmp:data"
+        },
+        "eth": {
+          "eth.dst": "4c:bb:58:a4:b8:8e",
+          "eth.dst_tree": {
+            "eth.dst_resolved": "ChiconyE_a4:b8:8e",
+            "eth.dst.oui": "5028696",
+            "eth.dst.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.addr": "4c:bb:58:a4:b8:8e",
+            "eth.addr_resolved": "ChiconyE_a4:b8:8e",
+            "eth.addr.oui": "5028696",
+            "eth.addr.oui_resolved": "Chicony Electronics Co., Ltd.",
+            "eth.dst.lg": "0",
+            "eth.lg": "0",
+            "eth.dst.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.src": "88:5d:fb:e2:a5:be",
+          "eth.src_tree": {
+            "eth.src_resolved": "zte_e2:a5:be",
+            "eth.src.oui": "8936955",
+            "eth.src.oui_resolved": "zte corporation",
+            "eth.addr": "88:5d:fb:e2:a5:be",
+            "eth.addr_resolved": "zte_e2:a5:be",
+            "eth.addr.oui": "8936955",
+            "eth.addr.oui_resolved": "zte corporation",
+            "eth.src.lg": "0",
+            "eth.lg": "0",
+            "eth.src.ig": "0",
+            "eth.ig": "0"
+          },
+          "eth.type": "0x00000800"
+        },
+        "ip": {
+          "ip.version": "4",
+          "ip.hdr_len": "20",
+          "ip.dsfield": "0x00000000",
+          "ip.dsfield_tree": {
+            "ip.dsfield.dscp": "0",
+            "ip.dsfield.ecn": "0"
+          },
+          "ip.len": "60",
+          "ip.id": "0x00000000",
+          "ip.flags": "0x00000000",
+          "ip.flags_tree": {
+            "ip.flags.rb": "0",
+            "ip.flags.df": "0",
+            "ip.flags.mf": "0"
+          },
+          "ip.frag_offset": "0",
+          "ip.ttl": "51",
+          "ip.proto": "1",
+          "ip.checksum": "0x0000b604",
+          "ip.checksum.status": "2",
+          "ip.src": "8.8.8.8",
+          "ip.addr": "8.8.8.8",
+          "ip.src_host": "8.8.8.8",
+          "ip.host": "8.8.8.8",
+          "ip.dst": "192.168.1.5",
+          "ip.addr": "192.168.1.5",
+          "ip.dst_host": "192.168.1.5",
+          "ip.host": "192.168.1.5"
+        },
+        "icmp": {
+          "icmp.type": "0",
+          "icmp.code": "0",
+          "icmp.checksum": "0x00005508",
+          "icmp.checksum.status": "1",
+          "icmp.ident": "1",
+          "icmp.ident": "256",
+          "icmp.seq": "83",
+          "icmp.seq_le": "21248",
+          "icmp.resp_to": "1",
+          "icmp.resptime": "31.699",
+          "data": {
+            "data.data": "61:62:63:64:65:66:67:68:69:6a:6b:6c:6d:6e:6f:70:71:72:73:74:75:76:77:61:62:63:64:65:66:67:68:69",
+            "data.len": "32"
+          }
+        }
+      }
+    }
+  }
+]

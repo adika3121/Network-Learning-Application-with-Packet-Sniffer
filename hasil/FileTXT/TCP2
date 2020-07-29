@@ -1,0 +1,30 @@
+Permintaan koneksi dari IP 10.10.17.208 kepada IP 210.176.156.55 diakui dengan mengirim nilai ACK 2274689407 ke IP 10.10.17.208
+Permintaan koneksi dari IP 67.221.239.85 kepada IP 10.10.17.208 diakui dengan mengirim nilai ACK 776237622 ke IP 67.221.239.85
+Permintaan koneksi dari IP 67.221.239.85 kepada IP 10.10.17.208 diakui dengan mengirim nilai ACK 3872425429 ke IP 67.221.239.85
+Permintaan koneksi dari IP 10.10.17.208 kepada IP 67.221.239.85 diakui dengan mengirim nilai ACK 3415517700 ke IP 10.10.17.208
+Permintaan koneksi dari IP 10.10.17.208 kepada IP 67.221.239.85 diakui dengan mengirim nilai ACK 378505868 ke IP 10.10.17.208
+Koneksi antara IP 10.10.17.208 dengan IP 67.221.239.85 berakhir dengan mengirim nilai ACK 3872425429
+Koneksi antara IP 10.10.17.208 dengan IP 67.221.239.85 berakhir dengan mengirim nilai ACK 776237622
+Koneksi antara IP 10.10.17.208 dengan IP 210.176.156.55 berakhir dengan mengirim nilai ACK 4124846161
+Koneksi antara IP 10.10.17.208 dengan IP 209.167.231.17 berakhir dengan mengirim nilai ACK 822434760
+Pengguna dengan IP 10.10.17.208 mencoba membuat koneksi baru dengan IP 104.42.39.77 dengan mengirim nilai SYN 1160889835 ke IP 104.42.39.77
+Koneksi antara IP 210.176.156.55 dengan IP 10.10.17.208 berakhir dengan mengirim nilai ACK 2274689408
+Permintaan koneksi dari IP 210.176.156.55 kepada IP 10.10.17.208 diakui dengan mengirim nilai ACK 4124846162 ke IP 210.176.156.55
+Pengguna dengan IP 10.10.17.208 mencoba membuat koneksi baru dengan IP 104.42.39.77 dengan mengirim nilai SYN 3679286427 ke IP 104.42.39.77
+Permintaan koneksi dari IP 10.10.17.208 kepada IP 104.42.39.77 diakui dengan mengirim nilai ACK 1160889836 ke IP 10.10.17.208 kemudian IP 104.42.39.77 mencoba membuat koneksi baru dengan IP 10.10.17.208 dengan nilai SYN 965342665
+Permintaan koneksi dari IP 104.42.39.77 kepada IP 10.10.17.208 diakui dengan mengirim nilai ACK 965342666 ke IP 104.42.39.77
+Permintaan koneksi dari IP 104.42.39.77 kepada IP 10.10.17.208 diakui dengan mengirim nilai ACK 965342666 ke IP 104.42.39.77 kemudian data dari 10.10.17.208 harus segera dikirimkan kepada IP 104.42.39.77
+Koneksi antara IP 67.221.239.85 dengan IP 10.10.17.208 berakhir dengan mengirim nilai ACK 378505869
+Permintaan koneksi dari IP 67.221.239.85 kepada IP 10.10.17.208 diakui dengan mengirim nilai ACK 3872425430 ke IP 67.221.239.85
+Koneksi antara IP 67.221.239.85 dengan IP 10.10.17.208 berakhir dengan mengirim nilai ACK 3415517701
+Permintaan koneksi dari IP 67.221.239.85 kepada IP 10.10.17.208 diakui dengan mengirim nilai ACK 776237623 ke IP 67.221.239.85
+Permintaan koneksi dari IP 10.10.17.208 kepada IP 209.167.231.17 diakui dengan mengirim nilai ACK 2256029814 ke IP 10.10.17.208
+Koneksi antara IP 209.167.231.17 dengan IP 10.10.17.208 berakhir dengan mengirim nilai ACK 2256029814
+Permintaan koneksi dari IP 209.167.231.17 kepada IP 10.10.17.208 diakui dengan mengirim nilai ACK 822434761 ke IP 209.167.231.17
+Permintaan koneksi dari IP 10.10.17.208 kepada IP 104.42.39.77 diakui dengan mengirim nilai ACK 3679286428 ke IP 10.10.17.208 kemudian IP 104.42.39.77 mencoba membuat koneksi baru dengan IP 10.10.17.208 dengan nilai SYN 2153572574
+Permintaan koneksi dari IP 104.42.39.77 kepada IP 10.10.17.208 diakui dengan mengirim nilai ACK 2153572575 ke IP 104.42.39.77
+Permintaan koneksi dari IP 104.42.39.77 kepada IP 10.10.17.208 diakui dengan mengirim nilai ACK 2153572575 ke IP 104.42.39.77 kemudian data dari 10.10.17.208 harus segera dikirimkan kepada IP 104.42.39.77
+Permintaan koneksi dari IP 10.10.17.208 kepada IP 104.42.39.77 diakui dengan mengirim nilai ACK 1160890361 ke IP 10.10.17.208
+Permintaan koneksi dari IP 10.10.17.208 kepada IP 104.42.39.77 diakui dengan mengirim nilai ACK 1160890361 ke IP 10.10.17.208
+Permintaan koneksi dari IP 104.42.39.77 kepada IP 10.10.17.208 diakui dengan mengirim nilai ACK 965344114 ke IP 104.42.39.77
+Permintaan koneksi dari IP 10.10.17.208 kepada IP 104.42.39.77 diakui dengan mengirim nilai ACK 1160890361 ke IP 10.10.17.208

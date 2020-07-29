@@ -1,0 +1,40 @@
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505339 ke IP 127.0.0.1
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505339 ke IP 127.0.0.1
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505340 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505340 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505342 ke IP 127.0.0.1
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505342 ke IP 127.0.0.1
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505343 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505343 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505345 ke IP 127.0.0.1
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505345 ke IP 127.0.0.1
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505346 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505346 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505348 ke IP 127.0.0.1
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505348 ke IP 127.0.0.1
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505349 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505349 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505351 ke IP 127.0.0.1
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505351 ke IP 127.0.0.1
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505352 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505352 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505354 ke IP 127.0.0.1
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505354 ke IP 127.0.0.1
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505355 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505355 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505357 ke IP 127.0.0.1
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505357 ke IP 127.0.0.1
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505358 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505358 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505360 ke IP 127.0.0.1
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505360 ke IP 127.0.0.1
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505361 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505361 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505363 ke IP 127.0.0.1
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505363 ke IP 127.0.0.1
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505364 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505364 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505366 ke IP 127.0.0.1
+[TCP <SYN>]	 Pengguna dengan IP 127.0.0.1 mencoba membuat koneksi baru dengan IP 127.0.0.1 dengan mengirim nilai SYN 2121505366 ke IP 127.0.0.1
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505367 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 127.0.0.1 kepada IP 127.0.0.1 diakui dengan mengirim nilai ACK 2121505367 ke IP 127.0.0.1 namun perangkat dengan IP 127.0.0.1 tidak sedang menunggu koneksi dari IP 127.0.0.1 sehingga koneksi dibatalkan

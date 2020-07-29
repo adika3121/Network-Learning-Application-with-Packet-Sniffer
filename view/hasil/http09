@@ -1,0 +1,8 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 172.217.194.132 diakui dengan mengirim nilai ACK 21543294 ke IP 192.168.1.4
+[TCP <ACK>]	 Permintaan koneksi dari IP 172.217.194.132 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 3374314616 ke IP 172.217.194.132
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.4 mencoba membuat koneksi baru dengan IP 3.19.188.212 dengan mengirim nilai SYN 4055346986 ke IP 3.19.188.212
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.4 mencoba membuat koneksi baru dengan IP 118.98.75.68 dengan mengirim nilai SYN 493803277 ke IP 118.98.75.68
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.4 mencoba membuat koneksi baru dengan IP 74.125.68.121 dengan mengirim nilai SYN 984613300 ke IP 74.125.68.121
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.4 mencoba membuat koneksi baru dengan IP 103.25.202.18 dengan mengirim nilai SYN 2481056049 ke IP 103.25.202.18
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.4 mencoba membuat koneksi baru dengan IP 167.114.209.61 dengan mengirim nilai SYN 54243380 ke IP 167.114.209.61
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 118.98.75.68 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 493803278 ke IP 118.98.75.68 kemudian IP 118.98.75.68 mencoba membuat koneksi baru dengan IP 192.168.1.4 dengan nilai SYN 1709855970

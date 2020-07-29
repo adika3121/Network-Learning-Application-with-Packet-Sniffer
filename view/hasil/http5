@@ -1,0 +1,4 @@
+[TCP <SYN>]	 Pengguna dengan IP 192.168.43.56 mencoba membuat koneksi baru dengan IP 74.125.24.132 dengan mengirim nilai SYN 4145388850 ke IP 74.125.24.132
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.43.56 diakui dengan mengirim nilai ACK 4145388851 ke IP 74.125.24.132 kemudian IP 74.125.24.132 mencoba membuat koneksi baru dengan IP 192.168.43.56 dengan nilai SYN 4260557127
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.43.56 kepada IP 74.125.24.132 diakui dengan mengirim nilai ACK 4260557128 ke IP 192.168.43.56
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.43.56 kepada IP 118.98.104.42 diakui dengan mengirim nilai ACK 165560638 ke IP 192.168.43.56

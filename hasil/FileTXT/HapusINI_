@@ -1,0 +1,37 @@
+[DNS]	 Pengguna dengan IP 192.168.1.2 mencoba mengakses b'www.apple.com.' yang beralamat pada IP  118.98.44.10
+[DNS]	 Pengguna dengan IP 192.168.1.2 mencoba mengakses b'securemetrics.apple.com.' yang beralamat pada IP  118.98.44.10
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 172.217.160.46 dari port 36915 menuju port 443 dengan data sebesar 673 bytes
+[UDP]	 Pengguna dengan IP 172.217.160.46 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 36915 dengan data sebesar 80 bytes
+[UDP]	 Pengguna dengan IP 172.217.160.46 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 36915 dengan data sebesar 25 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 172.217.160.46 dari port 36915 menuju port 443 dengan data sebesar 37 bytes
+[DNS]	 Pengguna dengan IP 192.168.1.2 mencoba mengakses b'clients4.google.com.' yang beralamat pada IP  118.98.44.10
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 74.125.200.100 dari port 47434 menuju port 443 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 74.125.200.100 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 47434 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 74.125.200.100 dari port 47434 menuju port 443 dengan data sebesar 36 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 74.125.200.100 dari port 47434 menuju port 443 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 74.125.200.100 dari port 47434 menuju port 443 dengan data sebesar 1332 bytes
+[UDP]	 Pengguna dengan IP 74.125.200.100 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 47434 dengan data sebesar 28 bytes
+[UDP]	 Pengguna dengan IP 74.125.200.100 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 47434 dengan data sebesar 28 bytes
+[UDP]	 Pengguna dengan IP 74.125.200.100 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 47434 dengan data sebesar 440 bytes
+[UDP]	 Pengguna dengan IP 74.125.200.100 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 47434 dengan data sebesar 448 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 74.125.200.100 dari port 47434 menuju port 443 dengan data sebesar 36 bytes
+[UDP]	 Pengguna dengan IP 74.125.200.100 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 47434 dengan data sebesar 36 bytes
+[UDP]	 Pengguna dengan IP 74.125.200.100 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 47434 dengan data sebesar 155 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 74.125.200.100 dari port 47434 menuju port 443 dengan data sebesar 36 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 172.217.160.46 dari port 36915 menuju port 443 dengan data sebesar 530 bytes
+[UDP]	 Pengguna dengan IP 172.217.160.46 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 36915 dengan data sebesar 30 bytes
+[UDP]	 Pengguna dengan IP 172.217.160.46 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 36915 dengan data sebesar 25 bytes
+[UDP]	 Pengguna dengan IP 172.217.160.46 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 36915 dengan data sebesar 71 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 172.217.160.46 dari port 36915 menuju port 443 dengan data sebesar 40 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 172.217.160.46 dari port 36915 menuju port 443 dengan data sebesar 37 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 74.125.200.100 dari port 47434 menuju port 443 dengan data sebesar 31 bytes
+[UDP]	 Pengguna dengan IP 74.125.200.100 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 47434 dengan data sebesar 28 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 172.217.160.46 dari port 36915 menuju port 443 dengan data sebesar 31 bytes
+[UDP]	 Pengguna dengan IP 172.217.160.46 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 36915 dengan data sebesar 30 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 172.217.160.46 dari port 36915 menuju port 443 dengan data sebesar 655 bytes
+[UDP]	 Pengguna dengan IP 172.217.160.46 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 36915 dengan data sebesar 80 bytes
+[UDP]	 Pengguna dengan IP 172.217.160.46 mengirimkan data kepada IP 192.168.1.2 dari port 443 menuju port 36915 dengan data sebesar 25 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 172.217.160.46 dari port 36915 menuju port 443 dengan data sebesar 37 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 239.255.255.250 dari port 45109 menuju port 1900 dengan data sebesar 179 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 239.255.255.250 dari port 45109 menuju port 1900 dengan data sebesar 179 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 239.255.255.250 dari port 45109 menuju port 1900 dengan data sebesar 179 bytes

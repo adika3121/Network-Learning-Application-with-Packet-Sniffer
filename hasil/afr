@@ -1,0 +1,2 @@
+[UDP]	 Pengguna dengan IP 10.10.24.1 mengirimkan data kepada IP 255.255.255.255 dari port 5678 menuju port 5678 dengan data sebesar 168 bytes
+[UDP]	 Pengguna dengan IP 10.10.24.45 mengirimkan data kepada IP 255.255.255.255 dari port 49865 menuju port 1947 dengan data sebesar 48 bytes

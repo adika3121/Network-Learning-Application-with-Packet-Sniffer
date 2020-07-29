@@ -1,0 +1,2 @@
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.5 mencoba membuat koneksi baru dengan IP 45.64.1.166 dengan mengirim nilai SYN 432492368 ke IP 45.64.1.166
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 45.64.1.166 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 432492369 ke IP 45.64.1.166 kemudian IP 45.64.1.166 mencoba membuat koneksi baru dengan IP 192.168.1.5 dengan nilai SYN 2402499394

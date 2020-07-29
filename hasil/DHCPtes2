@@ -1,0 +1,4 @@
+[DHCP Discover]	 Host adhika-Inspiron-7447 dengan MAC Address (c0:25:e9:2f:6e:c3) ingin meminta IP
+[DHCP Offer]	 DHCP Server 192.168.1.1 dengan MAC Address (88:5d:fb:e2:a5:be) menawarkan IP 192.168.1.8
+[DHCP Request]	 Host adhika-Inspiron-7447 dengan MAC Address(c0:25:e9:2f:6e:c3) meminta IP 192.168.1.8
+[DHCP ACK]	 DHCP Server 192.168.1.1 (88:5d:fb:e2:a5:be) menyetujui penggunaan IP 192.168.1.8

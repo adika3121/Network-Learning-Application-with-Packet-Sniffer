@@ -1,0 +1,6 @@
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 100.80.207.153 kepada IP 72.34.250.78 diakui dengan mengirim nilai ACK 965449288ke IP100.80.207.153 namun perangkat dengan IP 72.34.250.78 tidak sedang menunggu koneksi dari IP 100.80.207.153 sehingga koneksi dibatalkan
+[TCP <FIN+ACK>]	 Koneksi antara IP 100.80.207.153 dengan IP 210.176.156.48 berakhir dengan mengirim nilai ACK 324000047
+[DNS]	 Pengguna dengan IP 100.80.207.153 mencoba mengakses b'dt.adsafeprotected.com.' yang beralamat pada IP  202.158.3.7
+[UDP]	 Pengguna dengan IP 100.80.207.153 mengirimkan data kepada IP 172.217.194.190 dari port 51394 menuju port 443 dengan data sebesar 712 bytes
+[UDP]	 Pengguna dengan IP 172.217.194.190 mengirimkan data kepada IP 100.80.207.153 dari port 443 menuju port 51394 dengan data sebesar 79 bytes
+[UDP]	 Pengguna dengan IP 172.217.194.190 mengirimkan data kepada IP 100.80.207.153 dari port 443 menuju port 51394 dengan data sebesar 25 bytes

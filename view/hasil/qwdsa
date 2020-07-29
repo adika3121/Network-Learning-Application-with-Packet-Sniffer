@@ -1,0 +1,4 @@
+[UDP]	 Pengguna dengan IP 192.168.1.7 mengirimkan data kepada IP 192.168.1.255 dari port 54915 menuju port 54915 dengan data sebesar 271 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.7 mengirimkan data kepada IP 192.168.1.255 dari port 54915 menuju port 54915 dengan data sebesar 271 bytes
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.10 mencoba membuat koneksi baru dengan IP 54.225.227.202 dengan mengirim nilai SYN 3364989114 ke IP 54.225.227.202
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.10 mencoba membuat koneksi baru dengan IP 35.241.59.85 dengan mengirim nilai SYN 808451734 ke IP 35.241.59.85

@@ -1,0 +1,3 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.70.103 kepada IP 151.101.130.217 diakui dengan mengirim nilai ACK 3782737350 ke IP 192.168.70.103
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.130.217 kepada IP 192.168.70.103 diakui dengan mengirim nilai ACK 1226699838 ke IP 151.101.130.217
+[UDP]	 Pengguna dengan IP 192.168.70.106 mengirimkan data kepada IP 192.168.70.255 dari port 54915 menuju port 54915 dengan data sebesar 271 bytes

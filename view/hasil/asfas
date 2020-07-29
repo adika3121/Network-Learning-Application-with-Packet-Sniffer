@@ -1,0 +1,4 @@
+[DNS]	 Pengguna dengan IP fe80::7c87:4c2b:2e76:a5d6bertanya alamat IP darib'ajax.googleapis.com.'kepada DNS Server dengan IP fe80::1
+[DNS]	 Pengguna dengan IP fe80::7c87:4c2b:2e76:a5d6bertanya alamat IP darib'cdnjs.cloudflare.com.'kepada DNS Server dengan IP fe80::1
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 23.195.242.234 diakui dengan mengirim nilai ACK 4113417841 ke IP 192.168.1.4 kemudian data dari 192.168.1.4 harus segera dikirimkan kepada IP 23.195.242.234
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 23.195.242.234 diakui dengan mengirim nilai ACK 4113417841 ke IP 192.168.1.4 kemudian data dari 192.168.1.4 harus segera dikirimkan kepada IP 23.195.242.234

@@ -1,0 +1,20 @@
+[TCP <FIN+ACK>]	 Koneksi antara IP 10.10.24.221 dengan IP 172.217.194.113 berakhir dengan mengirim nilai ACK 2744352676
+[TCP <SYN>]	 Pengguna dengan IP 10.10.24.221 mencoba membuat koneksi baru dengan IP 103.102.166.224 dengan mengirim nilai SYN 1746599898 ke IP 103.102.166.224
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 103.102.166.224 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 1746599899 ke IP 103.102.166.224 kemudian IP 103.102.166.224 mencoba membuat koneksi baru dengan IP 10.10.24.221 dengan nilai SYN 1181215185
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 103.102.166.224 diakui dengan mengirim nilai ACK 1181215186 ke IP 10.10.24.221
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 103.102.166.224 diakui dengan mengirim nilai ACK 1181215186 ke IP 10.10.24.221 kemudian data dari 10.10.24.221 harus segera dikirimkan kepada IP 103.102.166.224
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.102.166.224 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 1746600416 ke IP 103.102.166.224
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.102.166.224 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 1746600416 ke IP 103.102.166.224
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 103.102.166.224 diakui dengan mengirim nilai ACK 1181216634 ke IP 10.10.24.221
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.102.166.224 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 1746600416 ke IP 103.102.166.224
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 103.102.166.224 diakui dengan mengirim nilai ACK 1181218082 ke IP 10.10.24.221
+[TCP <ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 1654666185 ke IP 106.10.250.10
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 3012664911 ke IP 10.10.24.221
+[TCP <ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 1654666185 ke IP 106.10.250.10
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 3012666363 ke IP 10.10.24.221
+[TCP <ACK>]	 Permintaan koneksi dari IP 106.10.250.10 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 1654666185 ke IP 106.10.250.10
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 106.10.250.10 diakui dengan mengirim nilai ACK 3012667815 ke IP 10.10.24.221
+[TCP <ACK>]	 Permintaan koneksi dari IP 119.161.10.11 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 1421065771 ke IP 119.161.10.11
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 119.161.10.11 diakui dengan mengirim nilai ACK 2331861629 ke IP 10.10.24.221
+[TCP <ACK>]	 Permintaan koneksi dari IP 119.161.10.11 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 1421065771 ke IP 119.161.10.11
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 119.161.10.11 diakui dengan mengirim nilai ACK 2331863077 ke IP 10.10.24.221

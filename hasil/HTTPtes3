@@ -1,0 +1,70 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 67.202.94.86 diakui dengan mengirim nilai ACK 3990777913 ke IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 74.125.24.157 diakui dengan mengirim nilai ACK 214103440 ke IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.157 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 2626387580 ke IP 74.125.24.157
+[TCP <ACK>]	 Permintaan koneksi dari IP 67.202.94.86 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 2102397604 ke IP 67.202.94.86
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.8 dengan IP 192.0.73.2 berakhir dengan mengirim nilai ACK 3503714946
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.8 dengan IP 192.0.73.2 berakhir dengan mengirim nilai ACK 1526994030
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.8 dengan IP 192.0.73.2 berakhir dengan mengirim nilai ACK 4180158379
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.8 dengan IP 192.0.73.2 berakhir dengan mengirim nilai ACK 4283530134
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.8 dengan IP 192.0.73.2 berakhir dengan mengirim nilai ACK 2090872963
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.8 dengan IP 192.0.73.2 berakhir dengan mengirim nilai ACK 3181345181
+[<HTTP>]	 Perangkat  192.168.1.8  melakukan request  dickytkj4.blogspot.com/2016/03/konfigurasi-mikrotik-langkah-langkah.html  dengan method  GET
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 2973097532 ke IP 74.125.24.132
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 2973097532 ke IP 74.125.24.132 kemudian data dari 74.125.24.132 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 74.125.24.132 diakui dengan mengirim nilai ACK 599092453 ke IP 192.168.1.8
+[<HTTP>]	 Perangkat  192.168.1.8  melakukan request  t.dtscout.com/i/?l=http%3A%2F%2Fdickytkj4.blogspot.com%2F2016%2F03%2Fkonfigurasi-mikrotik-langkah-langkah.html&j=http%3A%2F%2Fdickytkj4.blogspot.com%2F2016%2F03%2Fkonfigurasi-mikrotik-langkah-langkah.html  dengan method  GET
+[<HTTP>]	 Perangkat  192.168.1.8  melakukan request  whos.amung.us/pingjs/?k=ogs7rlm2i71r&t=CARA%20KONFIGURASI%20MIKROTIK%20DI%20VIRTUAL%20BOX&c=u&y=http%3A%2F%2Fdickytkj4.blogspot.com%2F2016%2F03%2Fkonfigurasi-mikrotik-langkah-langkah.html&a=0&d=1.11&v=22&r=1248  dengan method  GET
+[TCP <ACK>]	 Permintaan koneksi dari IP 107.182.233.217 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3438869976 ke IP 107.182.233.217
+[TCP <ACK>]	 Permintaan koneksi dari IP 67.202.94.86 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 2102399732 ke IP 67.202.94.86
+[TCP <ACK>]	 Permintaan koneksi dari IP 107.182.233.217 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3438869976 ke IP 107.182.233.217
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 107.182.233.217 diakui dengan mengirim nilai ACK 1511756410 ke IP 192.168.1.8
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 107.182.233.217 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3438869976 ke IP 107.182.233.217 kemudian data dari 107.182.233.217 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 107.182.233.217 diakui dengan mengirim nilai ACK 1511756430 ke IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 107.182.233.217 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3438869976 ke IP 107.182.233.217
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 107.182.233.217 diakui dengan mengirim nilai ACK 1511757870 ke IP 192.168.1.8
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 107.182.233.217 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3438869976 ke IP 107.182.233.217 kemudian data dari 107.182.233.217 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 107.182.233.217 diakui dengan mengirim nilai ACK 1511758472 ke IP 192.168.1.8
+[<HTTP>]	 Perangkat  192.168.1.8  melakukan request  t.dtscdn.com/widget/?d=2DE7B66B7CBB6B5D5520FE340239BF29&p=836148727&t=-480&s=1366x768x24&u=http%3A%2F%2Fdickytkj4.blogspot.com%2F2016%2F03%2Fkonfigurasi-mikrotik-langkah-langkah.html&r=http%3A%2F%2Fdickytkj4.blogspot.com%2F2016%2F03%2Fkonfigurasi-mikrotik-langkah-langkah.html  dengan method  GET
+[TCP <ACK>]	 Permintaan koneksi dari IP 45.55.96.63 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3765525040 ke IP 45.55.96.63
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 67.202.94.86 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 2102399732 ke IP 67.202.94.86 kemudian data dari 67.202.94.86 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 67.202.94.86 diakui dengan mengirim nilai ACK 3990778865 ke IP 192.168.1.8
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 45.55.96.63 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3765525040 ke IP 45.55.96.63 kemudian data dari 45.55.96.63 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 45.55.96.63 diakui dengan mengirim nilai ACK 1884516408 ke IP 192.168.1.8
+[<HTTP>]	 Perangkat  192.168.1.8  melakukan request  anshar-mtk.blogspot.com/2014/05/fungsi-kedudukan-eksistensi-dan.html  dengan method  GET
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3885855906 ke IP 74.125.24.132
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3885855906 ke IP 74.125.24.132 kemudian data dari 74.125.24.132 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 74.125.24.132 diakui dengan mengirim nilai ACK 1891205175 ke IP 192.168.1.8
+[<HTTP>]	 Perangkat  192.168.1.8  melakukan request  s4.histats.com/stats/2332693.php?2332693&@f16&@g0&@h5&@i1&@j1577071992402&@k115717&@l5&@mFungsi%2C%20Kedudukan%2C%20Eksistensi%2C%20dan%20Tantangan%20Bahasa%20Indonesia%20~%20Blog%20Anshar&@n0&@o1000&@q0&@r0&@s430&@ten-US&@u1366&@b1:-198154933&@b3:1577071992&@b4:js15.js&@b5:480&@a-_0.2.1&@vhttp%3A%2F%2Fanshar-mtk.blogspot.com%2F2014%2F05%2Ffungsi-kedudukan-eksistensi-dan.html%23&@w  dengan method  GET
+[TCP <ACK>]	 Permintaan koneksi dari IP 198.27.67.211 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 2484890950 ke IP 198.27.67.211
+[<HTTP>]	 Perangkat  192.168.1.8  melakukan request  anshar-mtk.blogspot.com/b/stats?style=BLACK_TRANSPARENT&timeRange=ALL_TIME&token=APq4FmBHvz2JvPSe9zD90tW93y1X9uHK76_H95g_MEGNtsF6Zw4dzZrdPgj4IhacEb3UN0l-NottycHayOrWKmoxd7Wnvuo35w  dengan method  GET
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3885856880 ke IP 74.125.24.132
+[<HTTP>]	 Perangkat  192.168.1.8  melakukan request  dickytkj4.blogspot.com/favicon.ico  dengan method  GET
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 2973098038 ke IP 74.125.24.132
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3885856880 ke IP 74.125.24.132 kemudian data dari 74.125.24.132 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 74.125.24.132 diakui dengan mengirim nilai ACK 1891205761 ke IP 192.168.1.8
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 198.27.67.211 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 2484890950 ke IP 198.27.67.211 kemudian data dari 198.27.67.211 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 198.27.67.211 diakui dengan mengirim nilai ACK 2860467 ke IP 192.168.1.8
+[<HTTP>]	 Perangkat  192.168.1.8  melakukan request  e.dtscout.com/e/?v=1a&pid=5200&site=1&l=http%3A%2F%2Fanshar-mtk.blogspot.com%2F2014%2F05%2Ffungsi-kedudukan-eksistensi-dan.html%23&j=  dengan method  GET
+[TCP <ACK>]	 Permintaan koneksi dari IP 107.182.233.217 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3880171937 ke IP 107.182.233.217
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 2973098038 ke IP 74.125.24.132 kemudian data dari 74.125.24.132 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 74.125.24.132 diakui dengan mengirim nilai ACK 599093556 ke IP 192.168.1.8
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 107.182.233.217 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3880171937 ke IP 107.182.233.217 kemudian data dari 107.182.233.217 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 107.182.233.217 diakui dengan mengirim nilai ACK 1887403362 ke IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 107.182.233.217 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3880171937 ke IP 107.182.233.217
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 107.182.233.217 diakui dengan mengirim nilai ACK 1887404822 ke IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 107.182.233.217 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3880171937 ke IP 107.182.233.217
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 107.182.233.217 diakui dengan mengirim nilai ACK 1887406262 ke IP 192.168.1.8
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 107.182.233.217 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3880171937 ke IP 107.182.233.217 kemudian data dari 107.182.233.217 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 107.182.233.217 diakui dengan mengirim nilai ACK 1887406507 ke IP 192.168.1.8
+[<HTTP>]	 Perangkat  192.168.1.8  melakukan request  t.dtscdn.com/widget/?d=2DE7B66B7CBB6B5D5520FE340239BF29&p=836148727&t=-480&s=1366x768x24&u=http%3A%2F%2Fanshar-mtk.blogspot.com%2F2014%2F05%2Ffungsi-kedudukan-eksistensi-dan.html%23&r=  dengan method  GET
+[TCP <ACK>]	 Permintaan koneksi dari IP 45.55.96.63 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3765525564 ke IP 45.55.96.63
+[<HTTP>]	 Perangkat  192.168.1.8  melakukan request  cubbytembem.blogspot.com/2014/11/makalah-perkembangan-masa-prenatal.html  dengan method  GET
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.132 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 1046728642 ke IP 74.125.24.132
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 45.55.96.63 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3765525564 ke IP 45.55.96.63 kemudian data dari 45.55.96.63 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 45.55.96.63 diakui dengan mengirim nilai ACK 1884516861 ke IP 192.168.1.8
+[<HTTP>]	 Perangkat  192.168.1.8  melakukan request  feeds.delicious.com/v2/json/urlinfo/data?url=http%3A%2F%2Fanshar-mtk.blogspot.com%2F2014%2F05%2Ffungsi-kedudukan-eksistensi-dan.html%23&callback=jQuery15209918043871677269_1577071992563&_=1577071993959  dengan method  GET
+[TCP <ACK>]	 Permintaan koneksi dari IP 36.86.63.182 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 2131705022 ke IP 36.86.63.182
+[TCP <FIN+ACK>]	 Koneksi antara IP 36.86.63.182 dengan IP 192.168.1.8 berakhir dengan mengirim nilai ACK 2131705022
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.8 dengan IP 36.86.63.182 berakhir dengan mengirim nilai ACK 3922249977
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.8 mencoba membuat koneksi baru dengan IP 36.86.63.182 dengan mengirim nilai SYN 2347038107 ke IP 36.86.63.182
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 36.86.63.182 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 2347038108 ke IP 36.86.63.182 kemudian IP 36.86.63.182 mencoba membuat koneksi baru dengan IP 192.168.1.8 dengan nilai SYN 480611392

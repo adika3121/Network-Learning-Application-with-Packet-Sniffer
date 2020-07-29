@@ -1,0 +1,30 @@
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 172.16.82.128 kepada IP 74.125.24.95 diakui dengan mengirim nilai ACK 2764039278 ke IP 172.16.82.128 kemudian data dari 172.16.82.128 harus segera dikirimkan kepada IP 74.125.24.95
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.136 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 277000161 ke IP 74.125.24.136
+[TCP <ACK>]	 Permintaan koneksi dari IP 172.16.82.128 kepada IP 74.125.24.136 diakui dengan mengirim nilai ACK 3996115694 ke IP 172.16.82.128
+[TCP <ACK>]	 Permintaan koneksi dari IP 172.16.82.128 kepada IP 74.125.130.188 diakui dengan mengirim nilai ACK 2999786532 ke IP 172.16.82.128
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 172.16.82.128 kepada IP 172.217.194.94 diakui dengan mengirim nilai ACK 234195883 ke IP 172.16.82.128 kemudian data dari 172.16.82.128 harus segera dikirimkan kepada IP 172.217.194.94
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 172.16.82.128 kepada IP 172.217.194.94 diakui dengan mengirim nilai ACK 234195883 ke IP 172.16.82.128 kemudian data dari 172.16.82.128 harus segera dikirimkan kepada IP 172.217.194.94
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.136 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 277000161 ke IP 74.125.24.136
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204233 ke IP 74.125.24.95
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.136 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 277000161 ke IP 74.125.24.136
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95 kemudian data dari 74.125.24.95 harus segera dikirimkan kepada IP 172.16.82.128
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95 kemudian data dari 74.125.24.95 harus segera dikirimkan kepada IP 172.16.82.128
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95 kemudian data dari 74.125.24.95 harus segera dikirimkan kepada IP 172.16.82.128
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95 kemudian data dari 74.125.24.95 harus segera dikirimkan kepada IP 172.16.82.128
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.136 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 277000161 ke IP 74.125.24.136
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.136 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 277000161 ke IP 74.125.24.136
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95 kemudian data dari 74.125.24.95 harus segera dikirimkan kepada IP 172.16.82.128
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.136 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 277000161 ke IP 74.125.24.136
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95 kemudian data dari 74.125.24.95 harus segera dikirimkan kepada IP 172.16.82.128
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.136 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 277000161 ke IP 74.125.24.136
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95 kemudian data dari 74.125.24.95 harus segera dikirimkan kepada IP 172.16.82.128
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.136 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 277000161 ke IP 74.125.24.136
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95 kemudian data dari 74.125.24.95 harus segera dikirimkan kepada IP 172.16.82.128
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 74.125.24.95 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 1849204737 ke IP 74.125.24.95 kemudian data dari 74.125.24.95 harus segera dikirimkan kepada IP 172.16.82.128
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.130.188 kepada IP 172.16.82.128 diakui dengan mengirim nilai ACK 578241993 ke IP 74.125.130.188

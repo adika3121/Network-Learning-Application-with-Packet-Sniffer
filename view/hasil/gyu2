@@ -1,0 +1,6 @@
+[ICMP]	 Waktu: 03/06/2020, 10:04:52 IP: 10.10.26.127 melakukan request ke IP: 8.8.8.8
+[ICMP]	 Waktu: 03/06/2020, 10:04:52 IP: 8.8.8.8 melakukan reply ke IP: 10.10.26.127
+[ICMP]	 Waktu: 03/06/2020, 10:04:53 IP: 10.10.26.127 melakukan request ke IP: 8.8.8.8
+[DNS]	 Pengguna dengan IP 10.10.26.127 mencoba mengakses b'i.stack.imgur.com.' yang beralamat pada IP  10.10.24.1
+[DNS]	 Pengguna dengan IP 10.10.26.127 mencoba mengakses b'www.gravatar.com.' yang beralamat pada IP  10.10.24.1
+[DNS]	 Pengguna dengan IP 10.10.26.127 mencoba mengakses b'lh3.googleusercontent.com.' yang beralamat pada IP  10.10.24.1

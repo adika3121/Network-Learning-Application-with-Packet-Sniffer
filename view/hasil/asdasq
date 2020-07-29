@@ -1,0 +1,32 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 151.101.10.248 diakui dengan mengirim nilai ACK 3622154447 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.10.248 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 633709635 ke IP 151.101.10.248
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 35.186.224.47 diakui dengan mengirim nilai ACK 3363000407 ke IP 192.168.1.5 kemudian data dari 192.168.1.5 harus segera dikirimkan kepada IP 35.186.224.47
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 162.159.134.234 diakui dengan mengirim nilai ACK 975467053 ke IP 192.168.1.5 kemudian data dari 192.168.1.5 harus segera dikirimkan kepada IP 162.159.134.234
+[TCP <ACK>]	 Permintaan koneksi dari IP 162.159.134.234 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 2840516263 ke IP 162.159.134.234
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 162.159.134.234 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 2840516263 ke IP 162.159.134.234 kemudian data dari 162.159.134.234 harus segera dikirimkan kepada IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 162.159.134.234 diakui dengan mengirim nilai ACK 975467086 ke IP 192.168.1.5
+[DNS]	 Pengguna dengan IP 192.168.1.5 mencoba mengakses b'bidder.criteo.com.' yang beralamat pada IP  118.98.44.100
+[DNS]	 Pengguna dengan IP 192.168.1.5 mencoba mengakses b'ap.lijit.com.' yang beralamat pada IP  118.98.44.100
+[DNS]	 Pengguna dengan IP 192.168.1.5 mencoba mengakses b'fastlane.rubiconproject.com.' yang beralamat pada IP  118.98.44.100
+[DNS]	 Pengguna dengan IP 192.168.1.5 mencoba mengakses b'prebid.media.net.' yang beralamat pada IP  118.98.44.100
+[DNS]	 Pengguna dengan IP 192.168.1.5 mencoba mengakses b'hbopenbid.pubmatic.com.' yang beralamat pada IP  118.98.44.100
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.5 mencoba membuat koneksi baru dengan IP 182.161.72.148 dengan mengirim nilai SYN 78241585 ke IP 182.161.72.148
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.5 mencoba membuat koneksi baru dengan IP 209.191.163.210 dengan mengirim nilai SYN 3291090749 ke IP 209.191.163.210
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.5 mencoba membuat koneksi baru dengan IP 210.176.156.50 dengan mengirim nilai SYN 860126958 ke IP 210.176.156.50
+[DNS]	 Pengguna dengan IP 192.168.1.5 mencoba mengakses b'ib.adnxs.com.' yang beralamat pada IP  118.98.44.100
+[DNS]	 Pengguna dengan IP 192.168.1.5 mencoba mengakses b'cpm.adsolut.in.' yang beralamat pada IP  118.98.44.100
+[DNS]	 Pengguna dengan IP 192.168.1.5 mencoba mengakses b'as-sec.casalemedia.com.' yang beralamat pada IP  118.98.44.100
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.5 mencoba membuat koneksi baru dengan IP 23.36.252.26 dengan mengirim nilai SYN 4256874971 ke IP 23.36.252.26
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.5 mencoba membuat koneksi baru dengan IP 103.231.98.193 dengan mengirim nilai SYN 310706907 ke IP 103.231.98.193
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.5 mencoba membuat koneksi baru dengan IP 103.43.90.180 dengan mengirim nilai SYN 1254817296 ke IP 103.43.90.180
+[DNS]	 Pengguna dengan IP 192.168.1.5 mencoba mengakses b'dmx.districtm.io.' yang beralamat pada IP  118.98.44.100
+[DNS]	 Pengguna dengan IP 192.168.1.5 mencoba mengakses b'hb-api.omnitagjs.com.' yang beralamat pada IP  118.98.44.100
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.5 mencoba membuat koneksi baru dengan IP 104.16.190.66 dengan mengirim nilai SYN 1758216427 ke IP 104.16.190.66
+[DNS]	 Pengguna dengan IP 192.168.1.5 mencoba mengakses b'bidder-criteo.hk5.vip.prod.criteo.com.' yang beralamat pada IP  118.98.44.100
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.5 mencoba membuat koneksi baru dengan IP 173.239.59.72 dengan mengirim nilai SYN 530496529 ke IP 173.239.59.72
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.5 mencoba membuat koneksi baru dengan IP 103.43.90.180 dengan mengirim nilai SYN 790226598 ke IP 103.43.90.180
+[DNS]	 Pengguna dengan IP 192.168.1.5 mencoba mengakses b'as-sec.casalemedia.com.' yang beralamat pada IP  118.98.44.100
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.5 mencoba membuat koneksi baru dengan IP 195.244.31.10 dengan mengirim nilai SYN 4164209767 ke IP 195.244.31.10
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.5 mencoba membuat koneksi baru dengan IP 23.221.78.239 dengan mengirim nilai SYN 1687125451 ke IP 23.221.78.239
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 23.36.252.26 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 4256874972 ke IP 23.36.252.26 kemudian IP 23.36.252.26 mencoba membuat koneksi baru dengan IP 192.168.1.5 dengan nilai SYN 1894111386
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 103.231.98.193 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 310706908 ke IP 103.231.98.193 kemudian IP 103.231.98.193 mencoba membuat koneksi baru dengan IP 192.168.1.5 dengan nilai SYN 2174942780

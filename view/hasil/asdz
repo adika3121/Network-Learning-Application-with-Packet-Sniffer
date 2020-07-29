@@ -1,0 +1,4 @@
+[ICMP]	 Waktu: 2020-06-09 18:23:08 IP: 192.168.1.8 melakukan request ke IP: 8.8.8.8
+[ICMP]	 Waktu: 2020-06-09 18:23:08 IP: 8.8.8.8 melakukan reply ke IP: 192.168.1.8
+[ICMP]	 Waktu: 2020-06-09 18:23:09 IP: 192.168.1.8 melakukan request ke IP: 8.8.8.8
+[ICMP]	 Waktu: 2020-06-09 18:23:09 IP: 8.8.8.8 melakukan reply ke IP: 192.168.1.8

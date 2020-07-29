@@ -1,0 +1,32 @@
+[TCP <SYN>]	 Pengguna dengan IP 10.10.24.221 mencoba membuat koneksi baru dengan IP 172.217.194.102 dengan mengirim nilai SYN 3354997341 ke IP 172.217.194.102
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 172.217.194.102 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3354997342 ke IP 172.217.194.102 kemudian IP 172.217.194.102 mencoba membuat koneksi baru dengan IP 10.10.24.221 dengan nilai SYN 2738952519
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 172.217.194.102 diakui dengan mengirim nilai ACK 2738952520 ke IP 10.10.24.221
+[TCP <HTTP>]	 Perangkat 10.10.24.221 melakukan request maps.google.com/ dengan method GET
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 172.217.194.102 diakui dengan mengirim nilai ACK 2738952520 ke IP 10.10.24.221 kemudian data dari 10.10.24.221 harus segera dikirimkan kepada IP 172.217.194.102
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 172.217.194.102 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3354998508 ke IP 172.217.194.102 kemudian data dari 172.217.194.102 harus segera dikirimkan kepada IP 10.10.24.221
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 172.217.194.102 diakui dengan mengirim nilai ACK 2738953106 ke IP 10.10.24.221
+[TCP <HTTP>]	 Perangkat 10.10.24.221 melakukan request maps.google.com/maps dengan method GET
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 172.217.194.102 diakui dengan mengirim nilai ACK 2738953106 ke IP 10.10.24.221 kemudian data dari 10.10.24.221 harus segera dikirimkan kepada IP 172.217.194.102
+[TCP <ACK>]	 Permintaan koneksi dari IP 172.217.194.102 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3354998508 ke IP 172.217.194.102
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 172.217.194.102 diakui dengan mengirim nilai ACK 2738953106 ke IP 10.10.24.221
+[TCP <ACK>]	 Permintaan koneksi dari IP 172.217.194.102 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3354999678 ke IP 172.217.194.102
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 172.217.194.102 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3354999678 ke IP 172.217.194.102 kemudian data dari 172.217.194.102 harus segera dikirimkan kepada IP 10.10.24.221
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 172.217.194.102 diakui dengan mengirim nilai ACK 2738953745 ke IP 10.10.24.221
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 74.125.200.188 diakui dengan mengirim nilai ACK 805566218 ke IP 10.10.24.221
+[TCP <ACK>]	 Permintaan koneksi dari IP 74.125.200.188 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 113545098 ke IP 74.125.200.188
+[TCP <SYN>]	 Pengguna dengan IP 10.10.24.221 mencoba membuat koneksi baru dengan IP 103.102.166.224 dengan mengirim nilai SYN 3056187013 ke IP 103.102.166.224
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 103.102.166.224 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3056187014 ke IP 103.102.166.224 kemudian IP 103.102.166.224 mencoba membuat koneksi baru dengan IP 10.10.24.221 dengan nilai SYN 2031862498
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 103.102.166.224 diakui dengan mengirim nilai ACK 2031862499 ke IP 10.10.24.221
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 103.102.166.224 diakui dengan mengirim nilai ACK 2031862499 ke IP 10.10.24.221 kemudian data dari 10.10.24.221 harus segera dikirimkan kepada IP 103.102.166.224
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.102.166.224 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3056187531 ke IP 103.102.166.224
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 103.102.166.224 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3056187531 ke IP 103.102.166.224 kemudian data dari 103.102.166.224 harus segera dikirimkan kepada IP 10.10.24.221
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 103.102.166.224 diakui dengan mengirim nilai ACK 2031862641 ke IP 10.10.24.221
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 103.102.166.224 diakui dengan mengirim nilai ACK 2031862641 ke IP 10.10.24.221 kemudian data dari 10.10.24.221 harus segera dikirimkan kepada IP 103.102.166.224
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 103.102.166.224 diakui dengan mengirim nilai ACK 2031862641 ke IP 10.10.24.221 kemudian data dari 10.10.24.221 harus segera dikirimkan kepada IP 103.102.166.224
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 103.102.166.224 diakui dengan mengirim nilai ACK 2031862641 ke IP 10.10.24.221 kemudian data dari 10.10.24.221 harus segera dikirimkan kepada IP 103.102.166.224
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.102.166.224 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3056187659 ke IP 103.102.166.224
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 103.102.166.224 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3056187659 ke IP 103.102.166.224 kemudian data dari 103.102.166.224 harus segera dikirimkan kepada IP 10.10.24.221
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 103.102.166.224 diakui dengan mengirim nilai ACK 2031862671 ke IP 10.10.24.221 kemudian data dari 10.10.24.221 harus segera dikirimkan kepada IP 103.102.166.224
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 103.102.166.224 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3056187659 ke IP 103.102.166.224 kemudian data dari 103.102.166.224 harus segera dikirimkan kepada IP 10.10.24.221
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 103.102.166.224 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3056187659 ke IP 103.102.166.224 kemudian data dari 103.102.166.224 harus segera dikirimkan kepada IP 10.10.24.221
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 103.102.166.224 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3056188100 ke IP 103.102.166.224 kemudian data dari 103.102.166.224 harus segera dikirimkan kepada IP 10.10.24.221

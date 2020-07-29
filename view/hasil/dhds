@@ -1,0 +1,10 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 210.176.156.35 diakui dengan mengirim nilai ACK 758574989 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 210.176.156.35 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 3900573441 ke IP 210.176.156.35
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 23.221.77.51 diakui dengan mengirim nilai ACK 1963070083 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 23.221.77.51 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 316047473 ke IP 23.221.77.51
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 23.221.77.51 diakui dengan mengirim nilai ACK 1976881502 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 23.221.77.51 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 1012448633 ke IP 23.221.77.51
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 35.186.224.47 diakui dengan mengirim nilai ACK 3363003414 ke IP 192.168.1.5 kemudian data dari 192.168.1.5 harus segera dikirimkan kepada IP 35.186.224.47
+[TCP <ACK>]	 Permintaan koneksi dari IP 35.186.224.47 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 947375495 ke IP 35.186.224.47
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 35.186.224.47 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 947375495 ke IP 35.186.224.47 kemudian data dari 35.186.224.47 harus segera dikirimkan kepada IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 35.186.224.47 diakui dengan mengirim nilai ACK 3363003445 ke IP 192.168.1.5

@@ -1,0 +1,5 @@
+[DNS]	 Pengguna dengan IP fe80::7c87:4c2b:2e76:a5d6bertanya alamat IP darib'incoming.telemetry.mozilla.org.'kepada DNS Server dengan IP fe80::1
+[DNS]	 Pengguna dengan IP fe80::7c87:4c2b:2e76:a5d6bertanya alamat IP darib'pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com.'kepada DNS Server dengan IP fe80::1
+[DNS]	 Pengguna dengan IP fe80::7c87:4c2b:2e76:a5d6bertanya alamat IP darib'pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com.'kepada DNS Server dengan IP fe80::1
+[DNS]	 Pengguna dengan IP fe80::7c87:4c2b:2e76:a5d6bertanya alamat IP darib'snippets.cdn.mozilla.net.'kepada DNS Server dengan IP fe80::1
+[DNS]	 Pengguna dengan IP 192.168.1.4bertanya alamat IP darib'snippets.cdn.mozilla.net.'kepada DNS Server dengan IP 118.98.44.100

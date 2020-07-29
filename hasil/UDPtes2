@@ -1,0 +1,10 @@
+[UDP]	 Pengguna dengan IP 192.168.1.8 mengirimkan data kepada IP 172.217.194.100 dari port 58843 menuju port 443 dengan data sebesar 31 bytes
+[UDP]	 Pengguna dengan IP 172.217.194.100 mengirimkan data kepada IP 192.168.1.8 dari port 443 menuju port 58843 dengan data sebesar 30 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.8 mengirimkan data kepada IP 74.125.68.93 dari port 38910 menuju port 443 dengan data sebesar 622 bytes
+[UDP]	 Pengguna dengan IP 74.125.68.93 mengirimkan data kepada IP 192.168.1.8 dari port 443 menuju port 38910 dengan data sebesar 77 bytes
+[UDP]	 Pengguna dengan IP 74.125.68.93 mengirimkan data kepada IP 192.168.1.8 dari port 443 menuju port 38910 dengan data sebesar 25 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.8 mengirimkan data kepada IP 74.125.68.93 dari port 38910 menuju port 443 dengan data sebesar 36 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.8 mengirimkan data kepada IP 172.217.194.100 dari port 58843 menuju port 443 dengan data sebesar 1358 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.8 mengirimkan data kepada IP 172.217.194.100 dari port 58843 menuju port 443 dengan data sebesar 319 bytes
+[UDP]	 Pengguna dengan IP 172.217.194.100 mengirimkan data kepada IP 192.168.1.8 dari port 443 menuju port 58843 dengan data sebesar 30 bytes
+[UDP]	 Pengguna dengan IP 172.217.194.100 mengirimkan data kepada IP 192.168.1.8 dari port 443 menuju port 58843 dengan data sebesar 497 bytes

@@ -1,0 +1,15 @@
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 151.101.1.69 diakui dengan mengirim nilai ACK 4066576118 ke IP 192.168.1.4 kemudian data dari 192.168.1.4 harus segera dikirimkan kepada IP 151.101.1.69
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 151.101.1.69 diakui dengan mengirim nilai ACK 4066576118 ke IP 192.168.1.4 kemudian data dari 192.168.1.4 harus segera dikirimkan kepada IP 151.101.1.69
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 151.101.1.69 diakui dengan mengirim nilai ACK 4066576118 ke IP 192.168.1.4 kemudian data dari 192.168.1.4 harus segera dikirimkan kepada IP 151.101.1.69
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.4 mencoba membuat koneksi baru dengan IP 54.243.128.120 dengan mengirim nilai SYN 3581648944 ke IP 54.243.128.120
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.1.69 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 467162939 ke IP 151.101.1.69
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 151.101.1.69 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 467162939 ke IP 151.101.1.69 kemudian data dari 151.101.1.69 harus segera dikirimkan kepada IP 192.168.1.4
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 151.101.1.69 diakui dengan mengirim nilai ACK 4066576160 ke IP 192.168.1.4
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.1.69 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 467163016 ke IP 151.101.1.69
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 54.243.128.120 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 3581648945 ke IP 54.243.128.120 kemudian IP 54.243.128.120 mencoba membuat koneksi baru dengan IP 192.168.1.4 dengan nilai SYN 4166214902
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 54.243.128.120 diakui dengan mengirim nilai ACK 4166214903 ke IP 192.168.1.4
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 54.243.128.120 diakui dengan mengirim nilai ACK 4166214903 ke IP 192.168.1.4 kemudian data dari 192.168.1.4 harus segera dikirimkan kepada IP 54.243.128.120
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 151.101.1.69 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 467163016 ke IP 151.101.1.69 kemudian data dari 151.101.1.69 harus segera dikirimkan kepada IP 192.168.1.4
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 151.101.1.69 diakui dengan mengirim nilai ACK 4066576590 ke IP 192.168.1.4
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 151.101.1.69 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 467163016 ke IP 151.101.1.69 kemudian data dari 151.101.1.69 harus segera dikirimkan kepada IP 192.168.1.4
+[TCP <ACK>]	 Permintaan koneksi dari IP 151.101.1.69 kepada IP 192.168.1.4 diakui dengan mengirim nilai ACK 467163016 ke IP 151.101.1.69

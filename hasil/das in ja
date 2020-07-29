@@ -1,0 +1,10 @@
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 103.43.90.181 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 598903591 ke IP 103.43.90.181 kemudian data dari 103.43.90.181 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 103.43.90.181 diakui dengan mengirim nilai ACK 963546440 ke IP 192.168.1.8
+[TCP <FIN+ACK>]	 Koneksi antara IP 103.43.90.181 dengan IP 192.168.1.8 berakhir dengan mengirim nilai ACK 598903591
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 103.43.90.181 diakui dengan mengirim nilai ACK 963546441 ke IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 103.231.98.193 diakui dengan mengirim nilai ACK 2183839064 ke IP 192.168.1.8
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 103.231.98.193 diakui dengan mengirim nilai ACK 2183839064 ke IP 192.168.1.8 kemudian data dari 192.168.1.8 harus segera dikirimkan kepada IP 103.231.98.193
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 103.231.98.193 diakui dengan mengirim nilai ACK 2183839064 ke IP 192.168.1.8 kemudian data dari 192.168.1.8 harus segera dikirimkan kepada IP 103.231.98.193
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 103.231.98.193 diakui dengan mengirim nilai ACK 2183839064 ke IP 192.168.1.8 kemudian data dari 192.168.1.8 harus segera dikirimkan kepada IP 103.231.98.193
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 72.34.250.78 diakui dengan mengirim nilai ACK 1761642247ke IP192.168.1.8 namun perangkat dengan IP 72.34.250.78 tidak sedang menunggu koneksi dari IP 192.168.1.8 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 103.43.90.181 diakui dengan mengirim nilai ACK 963546441ke IP192.168.1.8 namun perangkat dengan IP 103.43.90.181 tidak sedang menunggu koneksi dari IP 192.168.1.8 sehingga koneksi dibatalkan

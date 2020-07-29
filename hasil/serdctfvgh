@@ -1,0 +1,4 @@
+[DNS]	 Pengguna dengan IP 10.10.22.249 mencoba mengakses b'maps.google.com.' yang beralamat pada IP  8.8.8.8
+[TCP <SYN>]	 Pengguna dengan IP 10.10.22.249 mencoba membuat koneksi baru dengan IP 172.217.194.113 dengan mengirim nilai SYN 3666274152 ke IP 172.217.194.113
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 172.217.194.113 kepada IP 10.10.22.249 diakui dengan mengirim nilai ACK 3666274153 ke IP 172.217.194.113 kemudian IP 172.217.194.113 mencoba membuat koneksi baru dengan IP 10.10.22.249 dengan nilai SYN 3467486682
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.22.249 kepada IP 172.217.194.113 diakui dengan mengirim nilai ACK 3467486683 ke IP 10.10.22.249

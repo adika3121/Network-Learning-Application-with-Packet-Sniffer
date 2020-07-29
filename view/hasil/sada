@@ -1,0 +1,4 @@
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 151.101.129.69 diakui dengan mengirim nilai ACK 1624048134 ke IP 192.168.1.4 kemudian data dari 192.168.1.4 harus segera dikirimkan kepada IP 151.101.129.69
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.4 kepada IP 151.101.129.69 diakui dengan mengirim nilai ACK 1624048134 ke IP 192.168.1.4 kemudian data dari 192.168.1.4 harus segera dikirimkan kepada IP 151.101.129.69
+[DNS]	 Pengguna dengan IP fe80::dc6f:9862:6284:7165bertanya alamat IP darib'i.ytimg.com.'kepada DNS Server dengan IP fe80::1
+[DNS]	 Pengguna dengan IP fe80::dc6f:9862:6284:7165bertanya alamat IP darib'fonts.gstatic.com.'kepada DNS Server dengan IP fe80::1

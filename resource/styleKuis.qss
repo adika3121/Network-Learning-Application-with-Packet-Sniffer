@@ -1,0 +1,95 @@
+QMainWindow{
+
+  background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 #90caf9, stop:1 #a6d4fa);
+}
+
+QPushButton#menuAwalBtn, #nilaiBtn, #kembali_hasilKuisBtn, #kembaliBtn{
+    padding: 4px 15px;
+    font-size: 11px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #3949AB;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+QPushButton#menuAwalBtn:hover{
+    background-color: #3D5AFE
+}
+
+QPushButton#kembaliBtn:hover{
+    background-color: #3D5AFE
+}
+
+QPushButton#kembali_hasilKuisBtn:hover{
+    background-color: #3D5AFE
+}
+
+QPushButton#nilaiBtn:hover{
+    background-color: #3D5AFE
+}
+
+QPushButton#menuAwalBtn:pressed{
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #8C9EFF, stop: 1 #536DFE);
+}
+
+QPushButton#nilaiBtn:pressed{
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #8C9EFF, stop: 1 #536DFE);
+}
+
+QPushButton#kembaliBtn:pressed{
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #8C9EFF, stop: 1 #536DFE);
+}
+
+QPushButton#kembali_hasilKuisBtn:pressed{
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #8C9EFF, stop: 1 #536DFE);
+}
+
+
+
+QPushButton#pushButton_2, #sebelumBtn, #sesudahBtn{
+    padding: 4px 15px;
+    font-size: 11px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #306ea8;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+QPushButton#pushButton_2:hover{
+    background-color: #10589c
+}
+
+QPushButton#sesudahBtn:hover{
+    background-color: #10589c
+}
+
+QPushButton#sebelumBtn:hover{
+    background-color: #10589c
+}
+
+QPushButton#pushButton_2:pressed{
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #5795cf, stop: 1 #2b7ac4);
+}
+
+QPushButton#sebelumBtn:pressed{
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #5795cf, stop: 1 #2b7ac4);
+}
+
+QPushButton#sesudahBtn:pressed{
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #5795cf, stop: 1 #2b7ac4);
+}

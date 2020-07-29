@@ -1,0 +1,3 @@
+[TCP <FIN+ACK>]	 Koneksi antara IP 10.164.97.162 dengan IP 23.221.77.213 berakhir dengan mengirim nilai ACK 22877926
+[TCP <FIN+ACK>]	 Koneksi antara IP 10.164.97.162 dengan IP 23.221.77.213 berakhir dengan mengirim nilai ACK 545988865
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 23.221.77.213 kepada IP 10.164.97.162 diakui dengan mengirim nilai ACK 2531290573 ke IP 23.221.77.213 kemudian data dari 23.221.77.213 harus segera dikirimkan kepada IP 10.164.97.162

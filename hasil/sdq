@@ -1,0 +1,4 @@
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 147.92.165.206 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 2300821203 ke IP 147.92.165.206 kemudian data dari 147.92.165.206 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 147.92.165.206 diakui dengan mengirim nilai ACK 3874614637 ke IP 192.168.1.8
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 147.92.165.206 diakui dengan mengirim nilai ACK 3874614637 ke IP 192.168.1.8 kemudian data dari 192.168.1.8 harus segera dikirimkan kepada IP 147.92.165.206
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 147.92.165.206 diakui dengan mengirim nilai ACK 3874614637 ke IP 192.168.1.8 kemudian data dari 192.168.1.8 harus segera dikirimkan kepada IP 147.92.165.206

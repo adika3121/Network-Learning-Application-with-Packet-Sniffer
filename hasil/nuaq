@@ -1,0 +1,3 @@
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 162.159.135.234 kepada IP 192.168.1.5 diakui dengan mengirim nilai ACK 327234688 ke IP 162.159.135.234 kemudian data dari 162.159.135.234 harus segera dikirimkan kepada IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 162.159.135.234 diakui dengan mengirim nilai ACK 2776857706 ke IP 192.168.1.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.5 kepada IP 162.159.135.234 diakui dengan mengirim nilai ACK 2776857706 ke IP 192.168.1.5

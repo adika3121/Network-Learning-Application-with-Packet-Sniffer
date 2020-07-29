@@ -1,0 +1,7 @@
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.6 mencoba membuat koneksi baru dengan IP 172.104.25.35 dengan mengirim nilai SYN 2393358967 ke IP 172.104.25.35
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 172.104.25.35 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 2393358968 ke IP 172.104.25.35 kemudian IP 172.104.25.35 mencoba membuat koneksi baru dengan IP 192.168.1.6 dengan nilai SYN 474498377
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 172.104.25.35 diakui dengan mengirim nilai ACK 474498378 ke IP 192.168.1.6
+[<HTTP>]	 Perangkat  192.168.1.6  melakukan request  login.arcai.com/  dengan method  GET
+[TCP <ACK>]	 Permintaan koneksi dari IP 172.104.25.35 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 2393359153 ke IP 172.104.25.35
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 172.104.25.35 kepada IP 192.168.1.6 diakui dengan mengirim nilai ACK 2393359153 ke IP 172.104.25.35 kemudian data dari 172.104.25.35 harus segera dikirimkan kepada IP 192.168.1.6
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.6 kepada IP 172.104.25.35 diakui dengan mengirim nilai ACK 474498574 ke IP 192.168.1.6

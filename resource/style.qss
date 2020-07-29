@@ -1,0 +1,79 @@
+QMainWindow{
+
+  background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 #90caf9, stop:1 #a6d4fa);
+}
+
+
+
+QPushButton{
+        padding: 15px 25px;
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #3949AB;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+        }
+QPushButton::hover{
+    background-color: #3D5AFE
+}
+
+QPushButton::pressed{
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #8C9EFF, stop: 1 #536DFE);
+}
+
+QPushButton#sniffing_btn, #kembali_btn2, #kembali_btn3, #stop_sniff_btn, #detailButton, #kembaliBtn_detail{
+    padding: 4px 15px;
+    font-size: 11px;
+}
+
+QPushButton#cek_glosarium_btn{
+padding: 4px 15px;
+font-size: 11px;
+
+
+}
+
+
+QLabel{
+    font-family: "Avant Garde"
+}
+
+QPushButton#kembali_btn{
+  padding: 15px 25px;
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #3D5AFE;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+QPushButton#kembali_btn::hover{
+    background-color: #3949AB
+}
+
+QPushButton#kembali_btn::pressed{
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #8C9EFF, stop: 1 #536DFE);
+}
+
+QComboBox{
+    padding: 5px 10px;
+    font-size: 12px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #000000;
+    background-color: #e3e3e3;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}

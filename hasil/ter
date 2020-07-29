@@ -1,0 +1,20 @@
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 13.226.120.41 diakui dengan mengirim nilai ACK 3787272266 ke IP 10.10.24.221 namun perangkat dengan IP 13.226.120.41 tidak sedang menunggu koneksi dari IP 10.10.24.221 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 13.227.143.123 diakui dengan mengirim nilai ACK 1985944332 ke IP 10.10.24.221 namun perangkat dengan IP 13.227.143.123 tidak sedang menunggu koneksi dari IP 10.10.24.221 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 184.84.51.22 diakui dengan mengirim nilai ACK 3321888982 ke IP 10.10.24.221 namun perangkat dengan IP 184.84.51.22 tidak sedang menunggu koneksi dari IP 10.10.24.221 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 66.117.25.36 diakui dengan mengirim nilai ACK 1878441924 ke IP 10.10.24.221 namun perangkat dengan IP 66.117.25.36 tidak sedang menunggu koneksi dari IP 10.10.24.221 sehingga koneksi dibatalkan
+[TCP <FIN+ACK>]	 Koneksi antara IP 10.10.24.221 dengan IP 210.176.156.35 berakhir dengan mengirim nilai ACK 2909323064
+[TCP <FIN+ACK>]	 Koneksi antara IP 10.10.24.221 dengan IP 210.176.156.25 berakhir dengan mengirim nilai ACK 971848886
+[TCP <SYN>]	 Pengguna dengan IP 10.10.24.221 mencoba membuat koneksi baru dengan IP 172.217.194.113 dengan mengirim nilai SYN 659622565 ke IP 172.217.194.113
+[TCP <FIN+ACK>]	 Koneksi antara IP 210.176.156.35 dengan IP 10.10.24.221 berakhir dengan mengirim nilai ACK 3186659959
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 210.176.156.35 diakui dengan mengirim nilai ACK 2909323065 ke IP 10.10.24.221
+[TCP <SYN>]	 Pengguna dengan IP 10.10.24.221 mencoba membuat koneksi baru dengan IP 130.57.66.5 dengan mengirim nilai SYN 3594109780 ke IP 130.57.66.5
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.229.179.87 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3893731721 ke IP 192.229.179.87
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 192.229.179.87 diakui dengan mengirim nilai ACK 3828423986 ke IP 192.168.1.8
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 104.244.37.20 diakui dengan mengirim nilai ACK 3640292160ke IP192.168.1.8 namun perangkat dengan IP 104.244.37.20 tidak sedang menunggu koneksi dari IP 192.168.1.8 sehingga koneksi dibatalkan
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 104.244.37.20 diakui dengan mengirim nilai ACK 3343978394ke IP192.168.1.8 namun perangkat dengan IP 104.244.37.20 tidak sedang menunggu koneksi dari IP 192.168.1.8 sehingga koneksi dibatalkan
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.1.8 dengan IP 104.93.203.35 berakhir dengan mengirim nilai ACK 4253574120
+[TCP <SYN>]	 Pengguna dengan IP 192.168.1.8 mencoba membuat koneksi baru dengan IP 104.244.37.20 dengan mengirim nilai SYN 179232655 ke IP 104.244.37.20
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 104.93.203.35 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 593558159 ke IP 104.93.203.35 kemudian data dari 104.93.203.35 harus segera dikirimkan kepada IP 192.168.1.8
+[TCP <RST>]	 Perangkat dengan IP 104.93.203.35 tidak sedang menunggu koneksi dari IP 192.168.1.8 sehingga koneksi dibatalkan
+[TCP <FIN+ACK>]	 Koneksi antara IP 104.93.203.35 dengan IP 192.168.1.8 berakhir dengan mengirim nilai ACK 593558159
+[TCP <RST>]	 Perangkat dengan IP 104.93.203.35 tidak sedang menunggu koneksi dari IP 192.168.1.8 sehingga koneksi dibatalkan

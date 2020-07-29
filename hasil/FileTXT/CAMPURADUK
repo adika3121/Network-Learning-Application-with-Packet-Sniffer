@@ -1,0 +1,29 @@
+Permintaan koneksi dari IP 192.168.1.2 kepada IP 18.214.2.118 diakui dengan mengirim nilai ACK 1577709701 ke IP 192.168.1.2
+Permintaan koneksi dari IP 18.214.2.118 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 847615255 ke IP 18.214.2.118
+Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 192.168.1.2 dari port 37107 menuju port 443 dengan data sebesar 1358 bytes
+Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 192.168.1.2 dari port 37107 menuju port 443 dengan data sebesar 1241 bytes
+Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 192.168.1.2 dari port 37107 menuju port 443 dengan data sebesar 55 bytes
+Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 216.239.38.120 dari port 443 menuju port 37107 dengan data sebesar 1358 bytes
+Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 192.168.1.2 dari port 37107 menuju port 443 dengan data sebesar 36 bytes
+Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 216.239.38.120 dari port 443 menuju port 37107 dengan data sebesar 48 bytes
+Pengguna dengan IP 216.239.38.120 mengirimkan data kepada IP 216.239.38.120 dari port 443 menuju port 37107 dengan data sebesar 28 bytes
+Pengguna dengan IP 192.168.1.2 mengirimkan data kepada IP 192.168.1.2 dari port 37107 menuju port 443 dengan data sebesar 36 bytes
+Permintaan koneksi dari IP 192.168.1.2 kepada IP 52.11.238.211 diakui dengan mengirim nilai ACK 2973603322 ke IP 192.168.1.2 namun perangkat dengan IP 52.11.238.211 tidak sedang menunggu koneksi dari IP 192.168.1.2 sehingga koneksi dibatalkan
+Permintaan koneksi dari IP 192.168.1.2 kepada IP 18.214.2.118 diakui dengan mengirim nilai ACK 1577709701 ke IP 192.168.1.2 namun perangkat dengan IP 18.214.2.118 tidak sedang menunggu koneksi dari IP 192.168.1.2 sehingga koneksi dibatalkan
+Permintaan koneksi dari IP 192.168.1.2 kepada IP 103.229.10.214 diakui dengan mengirim nilai ACK 3672388524 ke IP 192.168.1.2 namun perangkat dengan IP 103.229.10.214 tidak sedang menunggu koneksi dari IP 192.168.1.2 sehingga koneksi dibatalkan
+Pengguna dengan IP 192.168.1.2 mencoba mengakses b'api.momentumdash.com.' yang beralamat pada IP  1.1.1.1
+Pengguna dengan IP 192.168.1.2 mencoba membuat koneksi baru dengan IP 104.42.39.77 dengan mengirim nilai SYN 1862801810 ke IP 104.42.39.77
+Pengguna dengan IP 192.168.1.2 mencoba membuat koneksi baru dengan IP 104.42.39.77 dengan mengirim nilai SYN 484126340 ke IP 104.42.39.77
+Permintaan koneksi dari IP 104.42.39.77 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 1862801811 ke IP 104.42.39.77 kemudian IP 104.42.39.77 mencoba membuat koneksi baru dengan IP 192.168.1.2 dengan nilai SYN 4146954289
+Permintaan koneksi dari IP 192.168.1.2 kepada IP 104.42.39.77 diakui dengan mengirim nilai ACK 4146954290 ke IP 192.168.1.2
+Permintaan koneksi dari IP 192.168.1.2 kepada IP 104.42.39.77 diakui dengan mengirim nilai ACK 4146954290 ke IP 192.168.1.2 kemudian data dari 192.168.1.2 harus segera dikirimkan kepada IP 104.42.39.77
+Permintaan koneksi dari IP 104.42.39.77 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 484126341 ke IP 104.42.39.77 kemudian IP 104.42.39.77 mencoba membuat koneksi baru dengan IP 192.168.1.2 dengan nilai SYN 922863154
+Permintaan koneksi dari IP 192.168.1.2 kepada IP 104.42.39.77 diakui dengan mengirim nilai ACK 922863155 ke IP 192.168.1.2
+Permintaan koneksi dari IP 192.168.1.2 kepada IP 104.42.39.77 diakui dengan mengirim nilai ACK 922863155 ke IP 192.168.1.2 kemudian data dari 192.168.1.2 harus segera dikirimkan kepada IP 104.42.39.77
+Permintaan koneksi dari IP 104.42.39.77 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 1862802336 ke IP 104.42.39.77
+Permintaan koneksi dari IP 104.42.39.77 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 1862802336 ke IP 104.42.39.77
+Permintaan koneksi dari IP 192.168.1.2 kepada IP 104.42.39.77 diakui dengan mengirim nilai ACK 4146955730 ke IP 192.168.1.2
+Permintaan koneksi dari IP 104.42.39.77 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 1862802336 ke IP 104.42.39.77
+Permintaan koneksi dari IP 192.168.1.2 kepada IP 104.42.39.77 diakui dengan mengirim nilai ACK 4146957170 ke IP 192.168.1.2
+Permintaan koneksi dari IP 104.42.39.77 kepada IP 192.168.1.2 diakui dengan mengirim nilai ACK 1862802336 ke IP 104.42.39.77 kemudian data dari 104.42.39.77 harus segera dikirimkan kepada IP 192.168.1.2
+Permintaan koneksi dari IP 192.168.1.2 kepada IP 104.42.39.77 diakui dengan mengirim nilai ACK 4146957255 ke IP 192.168.1.2

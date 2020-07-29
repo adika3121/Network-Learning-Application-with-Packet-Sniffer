@@ -1,0 +1,11 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.43.211 kepada IP 114.125.115.26 diakui dengan mengirim nilai ACK 1009625991 ke IP 192.168.43.211
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.43.211 kepada IP 114.125.115.26 diakui dengan mengirim nilai ACK 1219471096 ke IP 192.168.43.211
+[TCP <ACK>]	 Permintaan koneksi dari IP 114.125.115.26 kepada IP 192.168.43.211 diakui dengan mengirim nilai ACK 1591347489 ke IP 114.125.115.26
+[TCP <ACK>]	 Permintaan koneksi dari IP 147.92.165.194 kepada IP 10.164.97.162 diakui dengan mengirim nilai ACK 1959438728 ke IP 147.92.165.194
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.164.97.162 kepada IP 147.92.165.194 diakui dengan mengirim nilai ACK 1362355400 ke IP 10.164.97.162
+[TCP <ACK>]	 Permintaan koneksi dari IP 52.139.250.253 kepada IP 10.164.97.162 diakui dengan mengirim nilai ACK 2192578689 ke IP 52.139.250.253
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 10.164.97.162 kepada IP 40.90.189.152 diakui dengan mengirim nilai ACK 2638277711 ke IP 10.164.97.162 kemudian data dari 10.164.97.162 harus segera dikirimkan kepada IP 40.90.189.152
+[TCP <PSH+ACK>]	 Permintaan koneksi dari IP 40.90.189.152 kepada IP 10.164.97.162 diakui dengan mengirim nilai ACK 1960396453 ke IP 40.90.189.152 kemudian data dari 40.90.189.152 harus segera dikirimkan kepada IP 10.164.97.162
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.164.97.162 kepada IP 40.90.189.152 diakui dengan mengirim nilai ACK 2638277885 ke IP 10.164.97.162
+[DNS]	 Pengguna dengan IP 10.10.24.109 mencoba mengakses b'stackoverflow.com.' yang beralamat pada IP  10.10.24.1
+[DNS]	 Pengguna dengan IP 10.10.24.109 mencoba mengakses b'lh3.googleusercontent.com.' yang beralamat pada IP  10.10.24.1

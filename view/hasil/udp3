@@ -1,0 +1,7 @@
+[DNS]	 Pengguna dengan IP fe80::dc6f:9862:6284:7165bertanya alamat IP darib'r2---sn-2uuxa3vh-q2nl.googlevideo.com.'kepada DNS Server dengan IP fe80::1
+[DNS]	 Pengguna dengan IP 192.168.1.4bertanya alamat IP darib'r2---sn-2uuxa3vh-q2nl.googlevideo.com.'kepada DNS Server dengan IP 118.98.44.100
+[DNS]	 Pengguna dengan IP fe80::dc6f:9862:6284:7165bertanya alamat IP darib'r2.sn-2uuxa3vh-q2nl.googlevideo.com.'kepada DNS Server dengan IP fe80::1
+[DNS]	 Pengguna dengan IP 192.168.1.4bertanya alamat IP darib'r2.sn-2uuxa3vh-q2nl.googlevideo.com.'kepada DNS Server dengan IP 118.98.44.100
+[UDP]	 Pengguna dengan IP 192.168.1.4 mengirimkan data kepada IP 172.217.194.127 dari port 51102 menuju port 19305 dengan data sebesar 105 bytes
+[UDP]	 Pengguna dengan IP 172.217.194.127 mengirimkan data kepada IP 192.168.1.4 dari port 19305 menuju port 51102 dengan data sebesar 77 bytes
+[UDP]	 Pengguna dengan IP 192.168.1.4 mengirimkan data kepada IP 172.217.194.127 dari port 51102 menuju port 19305 dengan data sebesar 86 bytes

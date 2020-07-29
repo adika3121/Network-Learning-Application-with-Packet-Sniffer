@@ -1,0 +1,9 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 182.161.72.137 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 561111152 ke IP 182.161.72.137
+[TCP <ACK>]	 Permintaan koneksi dari IP 104.20.252.85 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3790231231 ke IP 104.20.252.85
+[TCP <ACK>]	 Permintaan koneksi dari IP 104.20.145.116 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 1522544047 ke IP 104.20.145.116
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 104.93.201.189 diakui dengan mengirim nilai ACK 4176713607 ke IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.1.8 kepada IP 23.195.241.195 diakui dengan mengirim nilai ACK 21752800 ke IP 192.168.1.8
+[TCP <ACK>]	 Permintaan koneksi dari IP 104.93.201.189 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 3221709101 ke IP 104.93.201.189
+[TCP <ACK>]	 Permintaan koneksi dari IP 23.195.241.195 kepada IP 192.168.1.8 diakui dengan mengirim nilai ACK 2489962620 ke IP 23.195.241.195
+[DNS]	 Pengguna dengan IP 192.168.1.8 mencoba mengakses b'clients.l.google.com.' yang beralamat pada IP  1.1.1.1
+[UDP]	 Pengguna dengan IP 192.168.1.8 mengirimkan data kepada IP 172.217.194.139 dari port 39087 menuju port 443 dengan data sebesar 1358 bytes

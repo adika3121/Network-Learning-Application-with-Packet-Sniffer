@@ -1,0 +1,20 @@
+Permintaan koneksi dari IP 192.168.43.83 kepada IP 104.93.104.184 diakui dengan mengirim nilai ACK 1473515767 ke IP 192.168.43.83 namun perangkat dengan IP 104.93.104.184 tidak sedang menunggu koneksi dari IP 192.168.43.83 sehingga koneksi dibatalkan
+Permintaan koneksi dari IP 192.168.43.83 kepada IP 23.219.189.130 diakui dengan mengirim nilai ACK 3236531530 ke IP 192.168.43.83 namun perangkat dengan IP 23.219.189.130 tidak sedang menunggu koneksi dari IP 192.168.43.83 sehingga koneksi dibatalkan
+Permintaan koneksi dari IP 192.168.43.83 kepada IP 23.219.186.175 diakui dengan mengirim nilai ACK 1926949802 ke IP 192.168.43.83 namun perangkat dengan IP 23.219.186.175 tidak sedang menunggu koneksi dari IP 192.168.43.83 sehingga koneksi dibatalkan
+Pengguna dengan IP 192.168.43.83 mencoba membuat koneksi baru dengan IP 74.125.24.102 dengan mengirim nilai SYN 688883730 ke IP 74.125.24.102
+Permintaan koneksi dari IP 74.125.24.102 kepada IP 192.168.43.83 diakui dengan mengirim nilai ACK 688883731 ke IP 74.125.24.102 kemudian IP 74.125.24.102 mencoba membuat koneksi baru dengan IP 192.168.43.83 dengan nilai SYN 2688956471
+Permintaan koneksi dari IP 192.168.43.83 kepada IP 74.125.24.102 diakui dengan mengirim nilai ACK 2688956472 ke IP 192.168.43.83
+Permintaan koneksi dari IP 192.168.43.83 kepada IP 74.125.24.102 diakui dengan mengirim nilai ACK 2688956472 ke IP 192.168.43.83 kemudian data dari 192.168.43.83 harus segera dikirimkan kepada IP 74.125.24.102
+Permintaan koneksi dari IP 74.125.24.102 kepada IP 192.168.43.83 diakui dengan mengirim nilai ACK 688884896 ke IP 74.125.24.102
+Permintaan koneksi dari IP 74.125.24.102 kepada IP 192.168.43.83 diakui dengan mengirim nilai ACK 688884896 ke IP 74.125.24.102 kemudian data dari 74.125.24.102 harus segera dikirimkan kepada IP 192.168.43.83
+Permintaan koneksi dari IP 192.168.43.83 kepada IP 74.125.24.102 diakui dengan mengirim nilai ACK 2688957058 ke IP 192.168.43.83
+Permintaan koneksi dari IP 192.168.43.83 kepada IP 74.125.24.102 diakui dengan mengirim nilai ACK 2688957058 ke IP 192.168.43.83 kemudian data dari 192.168.43.83 harus segera dikirimkan kepada IP 74.125.24.102
+Permintaan koneksi dari IP 74.125.24.102 kepada IP 192.168.43.83 diakui dengan mengirim nilai ACK 688886066 ke IP 74.125.24.102
+Permintaan koneksi dari IP 74.125.24.102 kepada IP 192.168.43.83 diakui dengan mengirim nilai ACK 688886066 ke IP 74.125.24.102 kemudian data dari 74.125.24.102 harus segera dikirimkan kepada IP 192.168.43.83
+Permintaan koneksi dari IP 192.168.43.83 kepada IP 74.125.24.102 diakui dengan mengirim nilai ACK 2688957697 ke IP 192.168.43.83
+Pengguna dengan IP 192.168.43.83 mencoba membuat koneksi baru dengan IP 216.239.38.120 dengan mengirim nilai SYN 1832041898 ke IP 216.239.38.120
+Permintaan koneksi dari IP 216.239.38.120 kepada IP 192.168.43.83 diakui dengan mengirim nilai ACK 1832041899 ke IP 216.239.38.120 kemudian IP 216.239.38.120 mencoba membuat koneksi baru dengan IP 192.168.43.83 dengan nilai SYN 2772850956
+Permintaan koneksi dari IP 192.168.43.83 kepada IP 216.239.38.120 diakui dengan mengirim nilai ACK 2772850957 ke IP 192.168.43.83
+Permintaan koneksi dari IP 192.168.43.83 kepada IP 216.239.38.120 diakui dengan mengirim nilai ACK 2772850957 ke IP 192.168.43.83 kemudian data dari 192.168.43.83 harus segera dikirimkan kepada IP 216.239.38.120
+Permintaan koneksi dari IP 216.239.38.120 kepada IP 192.168.43.83 diakui dengan mengirim nilai ACK 1832042475 ke IP 216.239.38.120
+Permintaan koneksi dari IP 216.239.38.120 kepada IP 192.168.43.83 diakui dengan mengirim nilai ACK 1832042475 ke IP 216.239.38.120 kemudian data dari 216.239.38.120 harus segera dikirimkan kepada IP 192.168.43.83

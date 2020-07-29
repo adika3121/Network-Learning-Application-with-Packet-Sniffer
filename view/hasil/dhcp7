@@ -1,0 +1,4 @@
+[DHCP Discover]	 [DHCP <Discover>]\t Pengguna dengan mac address  DESKTOP-1D2GB3I  mencari DHCP Server pada Jaringan  (4c:bb:58:a4:b8:8e)
+[DHCP Offer]	 [DHCP <Offer>]\t DHCP Server yang berada pada  192.168.1.1  menawarkan IP  (88:5d:fb:e2:a5:be)  kepada pengguna dengan MAC Address  192.168.1.4
+[DHCP Request]	 [DHCP <Request>]\t Pengguna dengan MAC Address  DESKTOP-1D2GB3I  meminta IP  (4c:bb:58:a4:b8:8e)  kepada DHCP Server dengan alamat  192.168.1.4
+[DHCP ACK]	 [DHCP <ACK>]\t DHCP Server yang berada pada  192.168.1.1  memberikan izin dan mengakui perangkat  (88:5d:fb:e2:a5:be)  dengan IP  192.168.1.4

@@ -1,0 +1,62 @@
+[DNS]	 Pengguna dengan IP 192.168.76.99 mencoba mengakses b'_companion-link._tcp.local.' yang beralamat pada IP  224.0.0.251
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 210.176.156.35 diakui dengan mengirim nilai ACK 661323829 ke IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 23.66.105.3 diakui dengan mengirim nilai ACK 3586612493 ke IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 23.66.105.3 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3089490931 ke IP 23.66.105.3
+[TCP <ACK>]	 Permintaan koneksi dari IP 210.176.156.35 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 1957254951 ke IP 210.176.156.35
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 103.229.205.254 diakui dengan mengirim nilai ACK 638463742 ke IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 35.201.84.231 diakui dengan mengirim nilai ACK 3199274491 ke IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 35.201.84.231 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 2056973146 ke IP 35.201.84.231
+[TCP <ACK>]	 Permintaan koneksi dari IP 103.229.205.254 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 2203421754 ke IP 103.229.205.254
+[ARP]	 Waktu: 12/17/2019, 17:50:54 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.212
+[ARP]	 Waktu: 12/17/2019, 17:50:54 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.133
+[ARP]	 Waktu: 12/17/2019, 17:50:54 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.182
+[ARP]	 Waktu: 12/17/2019, 17:50:54 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.238
+[ICMP]	 Waktu: 12/17/2019, 17:50:54 IP: 192.168.76.225 melakukan request ke IP: 8.8.8.8
+[ICMP]	 Waktu: 12/17/2019, 17:50:54 IP: 8.8.8.8 melakukan reply ke IP: 192.168.76.225
+[ARP]	 Waktu: 12/17/2019, 17:50:54 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.243
+[ARP]	 Waktu: 12/17/2019, 17:50:54 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.156
+[DNS]	 Pengguna dengan IP 192.168.76.174 mencoba mengakses b'_spotify-connect._tcp.local.' yang beralamat pada IP  224.0.0.251
+[UDP]	 Pengguna dengan IP 192.168.76.219 mengirimkan data kepada IP 239.255.255.250 dari port 49771 menuju port 1900 dengan data sebesar 134 bytes
+[DNS]	 Pengguna dengan IP 192.168.76.219 mencoba mengakses b'_spotify-connect._tcp.local.' yang beralamat pada IP  224.0.0.251
+[ARP]	 Waktu: 12/17/2019, 17:50:55 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.101
+[UDP]	 Pengguna dengan IP 192.168.76.225 mengirimkan data kepada IP 192.168.76.255 dari port 57621 menuju port 57621 dengan data sebesar 52 bytes
+[ARP]	 Waktu: 12/17/2019, 17:50:55 IP 192.168.76.99 bertanya siapa pemilik perangkat dengan IP 192.168.76.1
+[ARP]	 Waktu: 12/17/2019, 17:50:55 IP 192.168.76.99 bertanya siapa pemilik perangkat dengan IP 192.168.76.99
+[ARP]	 Waktu: 12/17/2019, 17:50:55 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.133
+[ARP]	 Waktu: 12/17/2019, 17:50:55 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.212
+[ARP]	 Waktu: 12/17/2019, 17:50:55 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.182
+[ARP]	 Waktu: 12/17/2019, 17:50:55 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.238
+[ARP]	 Waktu: 12/17/2019, 17:50:55 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.243
+[ICMP]	 Waktu: 12/17/2019, 17:50:55 IP: 192.168.76.225 melakukan request ke IP: 8.8.8.8
+[ICMP]	 Waktu: 12/17/2019, 17:50:55 IP: 8.8.8.8 melakukan reply ke IP: 192.168.76.225
+[ARP]	 Waktu: 12/17/2019, 17:50:55 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.156
+[ARP]	 Waktu: 12/17/2019, 17:50:56 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.101
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 107.178.244.193 diakui dengan mengirim nilai ACK 1465303486 ke IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 107.178.244.193 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3758934992 ke IP 107.178.244.193
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 210.176.156.35 diakui dengan mengirim nilai ACK 3862492190 ke IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 210.176.156.35 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 2305915724 ke IP 210.176.156.35
+[ARP]	 Waktu: 12/17/2019, 17:50:56 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.133
+[ARP]	 Waktu: 12/17/2019, 17:50:56 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.212
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 35.227.202.26 diakui dengan mengirim nilai ACK 3686763446 ke IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 35.227.202.26 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 1361039547 ke IP 35.227.202.26
+[ARP]	 Waktu: 12/17/2019, 17:50:56 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.182
+[ARP]	 Waktu: 12/17/2019, 17:50:56 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.243
+[ARP]	 Waktu: 12/17/2019, 17:50:56 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.156
+[ICMP]	 Waktu: 12/17/2019, 17:50:56 IP: 192.168.76.225 melakukan request ke IP: 8.8.8.8
+[ICMP]	 Waktu: 12/17/2019, 17:50:56 IP: 8.8.8.8 melakukan reply ke IP: 192.168.76.225
+[UDP]	 Pengguna dengan IP 192.168.76.174 mengirimkan data kepada IP 239.255.255.250 dari port 46201 menuju port 1900 dengan data sebesar 134 bytes
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 64.38.119.27 diakui dengan mengirim nilai ACK 3436162185 ke IP 192.168.76.225
+[ARP]	 Waktu: 12/17/2019, 17:50:57 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.238
+[TCP <ACK>]	 Permintaan koneksi dari IP 64.38.119.27 kepada IP 192.168.76.225 diakui dengan mengirim nilai ACK 3045840011 ke IP 64.38.119.27
+[ARP]	 Waktu: 12/17/2019, 17:50:57 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.101
+[ARP]	 Waktu: 12/17/2019, 17:50:57 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.212
+[ARP]	 Waktu: 12/17/2019, 17:50:57 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.133
+[ICMP]	 Waktu: 12/17/2019, 17:50:57 IP: 192.168.76.225 melakukan request ke IP: 8.8.8.8
+[ARP]	 Waktu: 12/17/2019, 17:50:57 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.182
+[ARP]	 Waktu: 12/17/2019, 17:50:57 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.156
+[ICMP]	 Waktu: 12/17/2019, 17:50:57 IP: 8.8.8.8 melakukan reply ke IP: 192.168.76.225
+[ARP]	 Waktu: 12/17/2019, 17:50:57 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.243
+[ARP]	 Waktu: 12/17/2019, 17:50:57 IP 192.168.76.1 bertanya siapa pemilik perangkat dengan IP 192.168.76.238
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 184.50.98.176 diakui dengan mengirim nilai ACK 277897734 ke IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 119.81.99.200 diakui dengan mengirim nilai ACK 394631341 ke IP 192.168.76.225
+[TCP <ACK>]	 Permintaan koneksi dari IP 192.168.76.225 kepada IP 185.84.60.29 diakui dengan mengirim nilai ACK 2704638986 ke IP 192.168.76.225

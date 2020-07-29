@@ -1,0 +1,10 @@
+[TCP <ACK>]	 Permintaan koneksi dari IP 52.221.147.100 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 1759841075 ke IP 52.221.147.100
+[TCP <RST>]	 Perangkat dengan IP 52.221.147.100 tidak sedang menunggu koneksi dari IP 10.10.24.221 sehingga koneksi dibatalkan
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 172.217.194.157 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 2330962877 ke IP 172.217.194.157 kemudian IP 172.217.194.157 mencoba membuat koneksi baru dengan IP 10.10.24.221 dengan nilai SYN 2292494388
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 172.217.194.157 diakui dengan mengirim nilai ACK 2292494389 ke IP 10.10.24.221
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 114.4.167.117 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 1319767880 ke IP 114.4.167.117 kemudian IP 114.4.167.117 mencoba membuat koneksi baru dengan IP 10.10.24.221 dengan nilai SYN 3087501639
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 114.4.167.117 diakui dengan mengirim nilai ACK 3087501640 ke IP 10.10.24.221
+[TCP <SYN+ACK>]	 Permintaan koneksi dari IP 52.221.147.100 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3229903768 ke IP 52.221.147.100 kemudian IP 52.221.147.100 mencoba membuat koneksi baru dengan IP 10.10.24.221 dengan nilai SYN 275185371
+[TCP <ACK>]	 Permintaan koneksi dari IP 10.10.24.221 kepada IP 52.221.147.100 diakui dengan mengirim nilai ACK 275185372 ke IP 10.10.24.221
+[TCP <ACK>]	 Permintaan koneksi dari IP 114.4.167.117 kepada IP 10.10.24.221 diakui dengan mengirim nilai ACK 3504078697 ke IP 114.4.167.117
+[TCP <FIN+ACK>]	 Koneksi antara IP 10.10.24.221 dengan IP 172.217.194.113 berakhir dengan mengirim nilai ACK 2744352676

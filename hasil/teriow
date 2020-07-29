@@ -1,0 +1,3 @@
+[UDP]	 Pengguna dengan IP 192.168.70.106 mengirimkan data kepada IP 192.168.70.255 dari port 54915 menuju port 54915 dengan data sebesar 271 bytes
+[TCP <FIN+ACK>]	 Koneksi antara IP 192.168.70.103 dengan IP 104.244.36.20 berakhir dengan mengirim nilai ACK 3032565094
+[TCP <RST+ACK>]	 Permintaan koneksi dari IP 192.168.70.103 kepada IP 104.244.36.20 diakui dengan mengirim nilai ACK 521077003ke IP192.168.70.103 namun perangkat dengan IP 104.244.36.20 tidak sedang menunggu koneksi dari IP 192.168.70.103 sehingga koneksi dibatalkan
